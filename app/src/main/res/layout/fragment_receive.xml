@@ -80,7 +80,7 @@
 
         </LinearLayout>
 
-        <com.m2049r.xmrwallet.widget.ExchangeView
+        <com.swap.xwpwallet.widget.ExchangeView
             android:id="@+id/evAmount"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

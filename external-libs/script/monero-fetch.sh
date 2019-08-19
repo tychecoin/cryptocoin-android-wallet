@@ -6,15 +6,15 @@ source script/env.sh
 
 cd $EXTERNAL_LIBS_BUILD_ROOT
 
-url="https://github.com/m2049r/monero"
-version="release-v0.14.1.0-monerujo"
+url="https://github.com/LPHuynh/swap"
+version="swap-android"
 
-if [ ! -d "monero" ]; then
+if [ ! -d "swap" ]; then
   git clone ${url} -b ${version}
-  cd monero
+  cd swap
   git submodule update --recursive --init
 else
-  cd monero
+  cd swap
   git checkout ${version}
   git pull
   git submodule update --recursive --init
