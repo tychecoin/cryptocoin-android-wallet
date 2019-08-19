@@ -87,7 +87,7 @@ public class Helper {
 
     static public final String CRYPTO = "XWP";
 
-    static private final String WALLET_DIR = "swap_wallet" + FLAVOR_SUFFIX;
+    static private final String WALLET_DIR = "swap_mobile_wallet" + FLAVOR_SUFFIX;
     static private final String HOME_DIR = "swap" + FLAVOR_SUFFIX;
 
     static public int DISPLAY_DIGITS_INFO = 5;
@@ -356,7 +356,7 @@ public class Helper {
     // TODO make the log levels refer to the  WalletManagerFactory::LogLevel enum ?
     static public void initLogger(Context context, int level) {
         String home = getStorage(context, HOME_DIR).getAbsolutePath();
-        WalletManager.initLogger(home + "/monerujo", "monerujo.log");
+        WalletManager.initLogger(home + "/swap_mobile_wallet", "swap_mobile_wallet.log");
         if (level >= WalletManager.LOGLEVEL_SILENT)
             WalletManager.setLogLevel(level);
     }
