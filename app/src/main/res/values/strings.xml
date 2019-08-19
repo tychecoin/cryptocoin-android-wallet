@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name" translatable="false">monerujo</string>
+    <string name="app_name" translatable="false">Swap Mobile Wallet</string>
     <string name="wallet_activity_name">Wallet</string>
 
     <string name="menu_about">About</string>
@@ -36,7 +36,7 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>You entered a Bitcoin address.</b><br/>
-        <i>You&apos;ll send XMR and the receiver will get BTC using the <b>XMR.TO</b> service.</i>
+        <i>You&apos;ll send XWP and the receiver will get BTC using the <b>XMR.TO</b> service.</i>
     ]]></string>
 
     <string name="info_send_xmrto_success_order_label">XMR.TO Order</string>
@@ -57,14 +57,14 @@
         <i>Amounts up to <b>%1$s BTC</b> will be sent <u>instantly</u>!</i>
     ]]></string>
 
-    <string name="send_available_btc">Balance: %2$s BTC (%1$s XMR)</string>
+    <string name="send_available_btc">Balance: %2$s BTC (%1$s XWP)</string>
 
     <string name="info_paymentid_integrated">&#x2714; Payment ID integrated</string>
     <string name="info_prepare_tx">Preparing your transaction</string>
 
     <string name="label_send_progress_xmrto_create">Creating XMR.TO Order</string>
     <string name="label_send_progress_xmrto_query">Querying XMR.TO Order</string>
-    <string name="label_send_progress_create_tx">Preparing Monero Transaction</string>
+    <string name="label_send_progress_create_tx">Preparing SWAP Transaction</string>
 
     <string name="label_send_progress_queryparms">Querying XMR.TO parameters</string>
 
@@ -75,8 +75,8 @@
     <string name="text_noretry_monero">Now we\'re stuck here!</string>
     <string name="text_noretry">Uh-oh, XMR.TO does not seem be available right now!</string>
 
-    <string name="text_send_btc_amount">%1$s BTC = %2$s XMR</string>
-    <string name="text_send_btc_rate">(Rate: %1$s BTC/XMR)</string>
+    <string name="text_send_btc_amount">%1$s BTC = %2$s XWP</string>
+    <string name="text_send_btc_rate">(Rate: %1$s BTC/XWP)</string>
 
     <string name="label_send_btc_xmrto_info">Visit xmr.to for support &amp; tracking</string>
     <string name="label_send_btc_xmrto_key_lb">Secret Key\nXMR.TO</string>
@@ -143,9 +143,9 @@
     <string name="label_wallet_receive">Receive</string>
     <string name="label_wallet_send">Give</string>
 
-    <string name="xmr_unconfirmed_amount">+ %1$s XMR unconfirmed</string>
+    <string name="xmr_unconfirmed_amount">+ %1$s XWP unconfirmed</string>
 
-    <string name="service_description">monerujo Service</string>
+    <string name="service_description">Swap Mobile Wallet Service</string>
 
     <string name="status_synced">Synced:</string>
     <string name="status_remaining">Blocks remaining</string>
@@ -164,7 +164,7 @@
     <string name="message_copy_txid">Transaction ID copied to clipboard!</string>
     <string name="message_nocopy">Copy disabled for security reasons!</string>
 
-    <string name="message_exchange_failed">Cannot get exchange rate!\nUse XMR/XMR or try again</string>
+    <string name="message_exchange_failed">Cannot get exchange rate!\nUse XWP/XWP or try again</string>
 
     <string name="generate_title">Create Wallet</string>
     <string name="generate_name_hint">Wallet Name</string>
@@ -174,10 +174,10 @@
         <strong>Fingerprint Authentication</strong>
         <p>With fingerprint authentication enabled, you can view wallet balance and receive funds
         without entering password.</p>
-        <p>But for additional security, monerujo will still require you to enter password when
+        <p>But for additional security, Swap Mobile Wallet will still require you to enter password when
         viewing wallet details or sending funds.</p>
         <strong>Security Warning</strong>
-        <p>Finally, monerujo wants to remind you that anyone who can get your fingerprint will be
+        <p>Finally, Swap Mobile Wallet wants to remind you that anyone who can get your fingerprint will be
         able to peep into your wallet balance.</p>
         <p>For instance, a malicious user around you can open your wallet when you are asleep.</p>
         <strong>Are you sure to enable this function?</strong>
@@ -224,8 +224,8 @@
     <string name="send_notes_hint">Private Notes (optional)</string>
     <string name="send_generate_paymentid_hint">Generate</string>
     <string name="send_qr_hint" translatable="false">Scan</string>
-    <string name="send_send_label">Spend my sweet Moneroj</string>
-    <string name="send_send_timed_label">Spend my sweet Moneroj (%1$s)</string>
+    <string name="send_send_label">Spend my sweet Swapj</string>
+    <string name="send_send_timed_label">Spend my sweet Swapj (%1$s)</string>
     <string name="send_qr_invalid">Not a QR Code</string>
     <string name="send_qr_address_invalid">Not a valid payment QR code</string>
     <string name="send_address_invalid">Not a valid address</string>
@@ -234,19 +234,19 @@
     <string name="send_address_resolve_openalias">Resolving OpenAlias&#8230;</string>
     <string name="send_address_no_dnssec">OpenAlias without DNSSEC - address may be spoofed</string>
     <string name="send_title">Send</string>
-    <string name="send_available">Balance: %1$s XMR</string>
+    <string name="send_available">Balance: %1$s XWP</string>
     <string name="send_address_title">Address</string>
     <string name="send_amount_title">Amount</string>
     <string name="send_confirm_title">Confirm</string>
     <string name="send_success_title">Done</string>
 
     <string name="send_amount_label">Amount</string>
-    <string name="send_fee_btc_label">Fee (XMR)</string>
+    <string name="send_fee_btc_label">Fee (XWP)</string>
     <string name="send_fee_label">Fee</string>
-    <string name="send_total_btc_label">Total (XMR)</string>
+    <string name="send_total_btc_label">Total (XWP)</string>
     <string name="send_total_label">Total</string>
 
-    <string name="send_amount">%1$s XMR</string>
+    <string name="send_amount">%1$s XWP</string>
     <string name="send_fee">+%1$s Fee</string>
 
     <string name="send_create_tx_error_title">Create Transaction Error</string>
@@ -285,7 +285,7 @@
 
     <string name="receive_amount_too_big">Max. %1$s</string>
     <string name="receive_amount_negative">Min. 0</string>
-    <string name="receive_amount_nan">XMR not a number</string>
+    <string name="receive_amount_nan">XWP not a number</string>
 
     <string name="details_alert_message">Sensitive data will now be shown.\nLook over your shoulder!</string>
     <string name="details_alert_yes">I\'m safe</string>
@@ -297,7 +297,7 @@
     <string name="archive_alert_no">No thanks!</string>
 
     <string-array name="currency" translatable="false">
-        <item>XMR</item>
+        <item>XWP</item>
         <item>EUR</item>
         <item>USD</item>
         <item>JPY</item>
@@ -338,7 +338,7 @@
     <string name="fab_restore_key">Restore wallet from private keys</string>
     <string name="fab_restore_seed">Restore wallet 25 word seed</string>
 
-    <string name="accounts_balance" translatable="false">%1$s XMR</string>
+    <string name="accounts_balance" translatable="false">%1$s XWP</string>
     <string name="tx_account_formatted" translatable="false">(%1$d, %2$d)</string>
 
     <string name="accounts_drawer_new">Create Account</string>
@@ -435,5 +435,5 @@
 
     <string name="label_restoreheight">Restore Height</string>
 
-    <string name="toast_ledger_start_app">Start Monero App on %1$s</string>
+    <string name="toast_ledger_start_app">Start Swap App on %1$s</string>
 </resources>

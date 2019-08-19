@@ -131,66 +131,66 @@
         <p>Det här är offentliga adressen av plånboken du skickar Moneroj till, du kan kopiera den från
         urklipp, skanna en QR-kod eller ange den manuellt. Se till att du trippel-kollar den för att
         vara säker på att du inte skickar pengar till fel adress.</p>
-        <p>In addition to using an XMR address, you can also use
+        <p>In addition to using an XWP address, you can also use
         <ul>
-            <li>an OpenAlias for XMR or BTC</li>
+            <li>an OpenAlias for XWP or BTC</li>
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XMR.TO service (see https://xmr.to
+        Please note, that sending BTC is processed through the XWP.TO service (see https://xmr.to
         for details). See the section on sending BTC below.</p>
         <h2>Betalnings-ID</h2>
         <p>Du kan använda ett Betalnings-ID för att identifiera anledningen du skickat Monero till någon,
         det är valfritt och privat. Till exempel tillåter det en affär att förknippa din transaktion
         med något du köpt.<p>
         <h1>Skicka BTC</h1>
-        <h2>XMR.TO</h2>
-        <p>XMR.TO är en tredjeparts tjänst som byter ut Monero mot Bitcoin. Vi använder XMR.TO API:n
+        <h2>XWP.TO</h2>
+        <p>XWP.TO är en tredjeparts tjänst som byter ut Monero mot Bitcoin. Vi använder XWP.TO API:n
         för att integrera Bitcoin betalningar i Monerujo. Vänligen besök https://xmr.to och bestäm
         för dig själv om det är någonting du vill använda. Monerujo laget är inte associerad med
-        XMR.TO och kan inte hjälpa dig med deras tjänst.</p>
-        <h2>XMR.TO Växelkurs<h2>
-        <p>På \"Mängd\"skärmen ser du de nuvarande parametrarna av XMR.TO tjänsten. Dessa innehåller den
+        XWP.TO och kan inte hjälpa dig med deras tjänst.</p>
+        <h2>XWP.TO Växelkurs<h2>
+        <p>På \"Mängd\"skärmen ser du de nuvarande parametrarna av XWP.TO tjänsten. Dessa innehåller den
         nuvarande växelkursen samt de övre och lägre BTC gränserna. Vänligen notera att denna kursen
         inte är garanterad just nu. Du kommer även att se gränsen över då BTC transaktioner utförs
-        omedelbart utan att vänta på XMR bekräftningar (se XMR.TO FAQ:n för mer detaljer). Vänligen
-        notera att XMR.TO inte tar en extra avgift - hur coolt är inte det?</p>
-        <h2>XMR.TO Beställning<h2>
-        <p>På \"Bekräfta\" skärmen, kommer du att se den faktiska XMR.TO beställningen. Den här beställningen
+        omedelbart utan att vänta på XWP bekräftningar (se XWP.TO FAQ:n för mer detaljer). Vänligen
+        notera att XWP.TO inte tar en extra avgift - hur coolt är inte det?</p>
+        <h2>XWP.TO Beställning<h2>
+        <p>På \"Bekräfta\" skärmen, kommer du att se den faktiska XWP.TO beställningen. Den här beställningen
         är giltig under en begränsad tid - du kan se en nedräkning på \"Spendera\" knappen. Växelkursen
         kan vara annorlunda från den indikativa, visad på tidigare skärmar..</p>
-        <h2>XMR.TO Privatnyckel<h2>
-        <p>Eftersom att Monerujo bara tar hand om Monero delen av din transaktion, kan din XMR.TO
-        privatnyckel användas för att spåra Bitcoin delen av din beställning på XMR.TO sidan.</p>
+        <h2>XWP.TO Privatnyckel<h2>
+        <p>Eftersom att Monerujo bara tar hand om Monero delen av din transaktion, kan din XWP.TO
+        privatnyckel användas för att spåra Bitcoin delen av din beställning på XWP.TO sidan.</p>
         <p>Vänligen notera att denna privatnyckeln bara är giltig i 24 timmar efter att transaktionen
         är påbörjad!</p>
-        <h2>XMR.TO Nedräkning!</h2>
-        <p>När nedräkningen når noll, behöver du skaffa ett nytt kostnadsförslag från XMR.TO genom att gå
+        <h2>XWP.TO Nedräkning!</h2>
+        <p>När nedräkningen når noll, behöver du skaffa ett nytt kostnadsförslag från XWP.TO genom att gå
         tillbaka till den tidigare skärmen och sedan gå till \"Bekräfta\"skärmen.</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
-      <p>XMR.TO är en tredjeparts tjänst som byter ut Monero mot Bitcoin. Vi använder XMR.TO API:n
+      <p>XWP.TO är en tredjeparts tjänst som byter ut Monero mot Bitcoin. Vi använder XWP.TO API:n
       för att integrera Bitcoin betalningar i Monerujo. Vänligen besök https://xmr.to och bestäm
       för dig själv om det är någonting du vill använda. Monerujo laget är inte associerad med
-      XMR.TO och kan inte hjälpa dig med deras tjänst.</p>
-      <h2>XMR.TO Växelkurs<h2>
-      <p>På \"Mängd\"skärmen ser du de nuvarande parametrarna av XMR.TO tjänsten. Dessa innehåller den
+      XWP.TO och kan inte hjälpa dig med deras tjänst.</p>
+      <h2>XWP.TO Växelkurs<h2>
+      <p>På \"Mängd\"skärmen ser du de nuvarande parametrarna av XWP.TO tjänsten. Dessa innehåller den
       nuvarande växelkursen samt de övre och lägre BTC gränserna. Vänligen notera att denna kursen
       inte är garanterad just nu. Du kommer även att se gränsen över då BTC transaktioner utförs
-      omedelbart utan att vänta på XMR bekräftningar (se XMR.TO FAQ:n för mer detaljer). Vänligen
-      notera att XMR.TO inte tar en extra avgift - hur coolt är inte det?</p>
-      <h2>XMR.TO Beställning<h2>
-      <p>På \"Bekräfta\" skärmen, kommer du att se den faktiska XMR.TO beställningen. Den här beställningen
+      omedelbart utan att vänta på XWP bekräftningar (se XWP.TO FAQ:n för mer detaljer). Vänligen
+      notera att XWP.TO inte tar en extra avgift - hur coolt är inte det?</p>
+      <h2>XWP.TO Beställning<h2>
+      <p>På \"Bekräfta\" skärmen, kommer du att se den faktiska XWP.TO beställningen. Den här beställningen
       är giltig under en begränsad tid - du kan se en nedräkning på \"Spendera\" knappen. Växelkursen
       kan vara annorlunda från den indikativa, visad på tidigare skärmar..</p>
-      <h2>XMR.TO Privatnyckel<h2>
-      <p>Eftersom att Monerujo bara tar hand om Monero delen av din transaktion, kan din XMR.TO
-      privatnyckel användas för att spåra Bitcoin delen av din beställning på XMR.TO sidan.</p>
+      <h2>XWP.TO Privatnyckel<h2>
+      <p>Eftersom att Monerujo bara tar hand om Monero delen av din transaktion, kan din XWP.TO
+      privatnyckel användas för att spåra Bitcoin delen av din beställning på XWP.TO sidan.</p>
       <p>Vänligen notera att denna privatnyckeln bara är giltig i 24 timmar efter att transaktionen
       är påbörjad!</p>
-      <h2>XMR.TO Nedräkning!</h2>
-      <p>När nedräkningen når noll, behöver du skaffa ett nytt kostnadsförslag från XMR.TO genom att gå
+      <h2>XWP.TO Nedräkning!</h2>
+      <p>När nedräkningen når noll, behöver du skaffa ett nytt kostnadsförslag från XWP.TO genom att gå
       tillbaka till den tidigare skärmen och sedan gå till \"Bekräfta\"skärmen.</p>
     ]]></string>
 

@@ -50,11 +50,11 @@ clean:
 	script/clean.sh
 
 distclean: clean
-	find monero    -type f -a ! -name ".gitignore" -a ! -name "wallet2_api.h" -exec rm {} \;
+	find swap    -type f -a ! -name ".gitignore" -a ! -name "wallet2_api.h" -exec rm {} \;
 	find boost     -type f -a ! -name ".gitignore" -exec rm {} \;
 	find libsodium -type f -a ! -name ".gitignore" -exec rm {} \;
 	find openssl   -type f -a ! -name ".gitignore" -exec rm {} \;
 
 archive: libsodium openssl boost monero
 	echo "Packing external-libs"
-	tar czfv libsodium openssl boost monero external-libs.tgz
+	tar czfv libsodium openssl boost swap external-libs.tgz

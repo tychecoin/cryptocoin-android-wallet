@@ -35,7 +35,7 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>你輸入了 Bitcoin 地址</b><br/>
-        <i>你將會發送 XMR 而收款方將會收到 BTC (由 <b>XMR.TO</b> 提供轉換)</i>
+        <i>你將會發送 XWP 而收款方將會收到 BTC (由 <b>XMR.TO</b> 提供轉換)</i>
     ]]></string>
 
     <string name="info_send_xmrto_success_order_label">XMR.TO 訂單</string>
@@ -57,14 +57,14 @@
         <i>金額少於 <b>%1$s BTC</b> ，將會<u>馬上</u>發送！</i>
     ]]></string>
 
-    <string name="send_available_btc">餘額：%2$s BTC (%1$s XMR)</string>
+    <string name="send_available_btc">餘額：%2$s BTC (%1$s XWP)</string>
 
     <string name="info_paymentid_integrated">&#x2714; 已加入付款 ID</string>
     <string name="info_prepare_tx">正在準備你的交易</string>
 
     <string name="label_send_progress_xmrto_create">建立 XMR.TO 訂單</string>
     <string name="label_send_progress_xmrto_query">查詢 XMR.TO 訂單</string>
-    <string name="label_send_progress_create_tx">正在準備 Monero 交易</string>
+    <string name="label_send_progress_create_tx">正在準備 Swap 交易</string>
 
     <string name="label_send_progress_queryparms">正在查詢 XMR.TO 參數</string>
 
@@ -75,8 +75,8 @@
     <string name="text_noretry_monero">我們卡住了！</string>
     <string name="text_noretry">不好，XMR.TO 現在似乎無法提供服務！</string>
 
-    <string name="text_send_btc_amount">%1$s BTC = %2$s XMR</string>
-    <string name="text_send_btc_rate">(匯率：%1$s BTC/XMR)</string>
+    <string name="text_send_btc_amount">%1$s BTC = %2$s XWP</string>
+    <string name="text_send_btc_rate">(匯率：%1$s BTC/XWP)</string>
 
     <string name="label_send_btc_xmrto_info">參訪 XMR.TO 以獲得支援及追蹤交易</string>
     <string name="label_send_btc_xmrto_key_lb">私鑰\nXMR.TO</string>
@@ -140,9 +140,9 @@
     <string name="label_wallet_receive">接收</string>
     <string name="label_wallet_send">發送</string>
 
-    <string name="xmr_unconfirmed_amount">+ %1$s 未確認的 XMR </string>
+    <string name="xmr_unconfirmed_amount">+ %1$s 未確認的 XWP </string>
 
-    <string name="service_description">monerujo 服務</string>
+    <string name="service_description">Swap Mobile Wallet 服務</string>
 
     <string name="status_synced">已同步區塊：</string>
     <string name="status_remaining">剩餘區塊</string>
@@ -161,7 +161,7 @@
     <string name="message_copy_txid">交易 ID 已複製至剪貼簿！</string>
     <string name="message_nocopy">因安全因素已停用複製功能！</string>
 
-    <string name="message_exchange_failed">無法取得匯率！\n使用 XMR/XMR 或重試</string>
+    <string name="message_exchange_failed">無法取得匯率！\n使用 XWP/XWP 或重試</string>
 
     <string name="generate_title">建立錢包</string>
     <string name="generate_name_hint">錢包名稱</string>
@@ -172,7 +172,7 @@
         <p>啟用指紋驗證後，無需輸入密碼，就可以查看錢包餘額並接收資金。</p>
         <p>但為安全起見，查看錢包詳細資訊或發送資金時，仍須輸入密碼。</p>
         <strong>安全警告</strong>
-        <p>最後，monerujo 提醒您，任何可以取得您指紋的人都能夠窺視您的錢包餘額。</p>
+        <p>最後，Swap Mobile Wallet 提醒您，任何可以取得您指紋的人都能夠窺視您的錢包餘額。</p>
         <p>例如，您身邊的惡意使用者可以趁您睡著時使用您的指紋開啟錢包。</p>
         <strong>您確定要啟用本功能嗎？</strong>
     ]]></string>
@@ -216,25 +216,25 @@
     <string name="send_amount_hint">0.00</string>
     <string name="send_notes_hint">註記 (選填)</string>
     <string name="send_generate_paymentid_hint">產生</string>
-    <string name="send_send_label">發送我的 Monero</string>
-    <string name="send_send_timed_label">發送我的 Monero (%1$s)</string>
+    <string name="send_send_label">發送我的 Swap</string>
+    <string name="send_send_timed_label">發送我的 Swap (%1$s)</string>
     <string name="send_qr_invalid">這不是 QR 碼</string>
     <string name="send_qr_address_invalid">這不是有效的付款 QR 碼</string>
     <string name="send_address_invalid">這不是有效的地址</string>
     <string name="send_title">發送</string>
-    <string name="send_available">餘額：%1$s XMR</string>
+    <string name="send_available">餘額：%1$s XWP</string>
     <string name="send_address_title">地址</string>
     <string name="send_amount_title">金額</string>
     <string name="send_confirm_title">確認</string>
     <string name="send_success_title">完成</string>
 
     <string name="send_amount_label">金額</string>
-    <string name="send_fee_btc_label">手續費 (XMR)</string>
+    <string name="send_fee_btc_label">手續費 (XWP)</string>
     <string name="send_fee_label">手續費</string>
-    <string name="send_total_btc_label">總計 (XMR)</string>
+    <string name="send_total_btc_label">總計 (XWP)</string>
     <string name="send_total_label">總計</string>
 
-    <string name="send_amount">%1$s XMR</string>
+    <string name="send_amount">%1$s XWP</string>
     <string name="send_fee">+%1$s 手續費</string>
 
     <string name="send_create_tx_error_title">建立交易錯誤</string>
@@ -272,7 +272,7 @@
 
     <string name="receive_amount_too_big">最大值 %1$s</string>
     <string name="receive_amount_negative">最小值 0</string>
-    <string name="receive_amount_nan">輸入的 XMR 不是數字</string>
+    <string name="receive_amount_nan">輸入的 XWP 不是數字</string>
 
     <string name="details_alert_message">將會顯示敏感資訊。\n請注意周遭安全！</string>
     <string name="details_alert_yes">我現在很安全</string>
@@ -383,5 +383,5 @@
 
     <string name="label_restoreheight">Restore Height</string>
 
-    <string name="toast_ledger_start_app">Start Monero App on %1$s</string>
+    <string name="toast_ledger_start_app">Start Swap App on %1$s</string>
 </resources>
