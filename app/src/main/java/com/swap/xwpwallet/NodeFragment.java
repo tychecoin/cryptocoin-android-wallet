@@ -258,14 +258,19 @@ public class NodeFragment extends Fragment
                     }
                 });
                 // also seed with monero seed nodes (see p2p/net_node.inl:410 in monero src)
-                seedList.add(new NodeInfo(new InetSocketAddress("107.152.130.98", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("212.83.175.67", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("5.9.100.248", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("163.172.182.165", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("161.67.132.39", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("198.74.231.92", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("195.154.123.123", 18080)));
-                seedList.add(new NodeInfo(new InetSocketAddress("212.83.172.165", 18080)));
+                seedList.add(new NodeInfo(new InetSocketAddress("148.251.154.104", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("144.76.190.11", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("66.70.141.138", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("58.185.155.109", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("148.251.130.159", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("51.68.67.56", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("51.79.17.236", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("54.36.111.41", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("147.135.138.110", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed1.xwp.one", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed2.xwp.one", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed3.xwp.one", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("54.36.111.41", 19949)));
                 d.seedPeers(seedList);
                 d.awaitTermination(NODES_TO_FIND);
             }
