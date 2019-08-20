@@ -6,7 +6,7 @@ source script/env.sh
 
 cd $EXTERNAL_LIBS_BUILD_ROOT
 
-url="https://github.com/LPHuynh/swap"
+url="https://github.com/swap-dev/swap"
 version="swap-android"
 
 if [ ! -d "swap" ]; then
