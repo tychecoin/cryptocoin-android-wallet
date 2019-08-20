@@ -18,7 +18,7 @@ package com.swap.xwpwallet.model;
 
 public class PendingTransaction {
     static {
-        System.loadLibrary("monerujo");
+        System.loadLibrary("swap_mobile_wallet");
     }
 
     public long handle;

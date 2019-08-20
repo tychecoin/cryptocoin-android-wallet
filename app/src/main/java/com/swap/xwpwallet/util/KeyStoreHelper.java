@@ -58,7 +58,7 @@ import timber.log.Timber;
 public class KeyStoreHelper {
 
     static {
-        System.loadLibrary("monerujo");
+        System.loadLibrary("swap_mobile_wallet");
     }
 
     public static native byte[] slowHash(byte[] data, int brokenVariant);

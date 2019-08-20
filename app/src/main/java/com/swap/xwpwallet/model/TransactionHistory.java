@@ -24,7 +24,7 @@ import timber.log.Timber;
 
 public class TransactionHistory {
     static {
-        System.loadLibrary("monerujo");
+        System.loadLibrary("swap_mobile_wallet");
     }
 
     private long handle;

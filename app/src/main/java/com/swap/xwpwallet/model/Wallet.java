@@ -32,7 +32,7 @@ public class Wallet {
     final static public long SWEEP_ALL = Long.MAX_VALUE;
 
     static {
-        System.loadLibrary("monerujo");
+        System.loadLibrary("swap_mobile_wallet");
     }
 
     static public class Status {

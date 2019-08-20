@@ -35,7 +35,7 @@ import timber.log.Timber;
 public class WalletManager {
 
     static {
-        System.loadLibrary("monerujo");
+        System.loadLibrary("swap_mobile_wallet");
     }
 
     // no need to keep a reference to the REAL WalletManager (we get it every tvTime we need it)
