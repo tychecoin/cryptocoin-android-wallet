@@ -57,7 +57,7 @@ import timber.log.Timber;
 
 public class SendAddressWizardFragment extends SendWizardFragment {
 
-    static final int INTEGRATED_ADDRESS_LENGTH = 106;
+    static final int INTEGRATED_ADDRESS_LENGTH = 108;
 
     public static SendAddressWizardFragment newInstance(Listener listener) {
         SendAddressWizardFragment instance = new SendAddressWizardFragment();
