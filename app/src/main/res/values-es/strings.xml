@@ -262,8 +262,8 @@
     <string name="label_copy_xmrtokey">Clave XWP.TO</string>
     <string name="message_copy_xmrtokey">¡Clave XWP.TO copiada al portapapeles!</string>
     <string name="send_amount_btc_xmr">%1$s (indicativo)</string>
-    <string name="send_send_label">Enviar mis preciados moneroj</string>
-    <string name="send_send_timed_label">Gastar mis preciados moneroj (%1$s)</string>
+    <string name="send_send_label">Enviar mis preciados swap</string>
+    <string name="send_send_timed_label">Gastar mis preciados swap (%1$s)</string>
     <string name="send_address_invalid">No es una dirección válida</string>
     <string name="send_fee_btc_label">Comisión (XWP)</string>
     <string name="send_total_btc_label">Total (XWP)</string>

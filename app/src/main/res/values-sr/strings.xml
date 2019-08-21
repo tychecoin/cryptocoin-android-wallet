@@ -221,8 +221,8 @@
     <string name="send_notes_hint">Privatne beleške (opciono)</string>
     <string name="send_generate_paymentid_hint">Generiši</string>
 
-    <string name="send_send_label">Potroši moj slatki Moneroj</string>
-    <string name="send_send_timed_label">Potroši moj slatki Moneroj (%1$s)</string>
+    <string name="send_send_label">Potroši moj slatki Swap</string>
+    <string name="send_send_timed_label">Potroši moj slatki Swap (%1$s)</string>
     <string name="send_qr_invalid">Nije QR kod</string>
     <string name="send_qr_address_invalid">Nije validan QR kod za plaćanje</string>
     <string name="send_address_invalid">Nije validna adresa</string>

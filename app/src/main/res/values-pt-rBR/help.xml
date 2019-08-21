@@ -223,7 +223,7 @@
         <p>O modo rua pode ser ativado/desativado no menu ou no ícone da cabeça do Gunther. Neste modo, o seu
         saldo não será exibido em nenhuma tela para que você possa usar sua carteira com segurança na rua, em um bar ou
         outro lugar público. Transações anteriores também serão ocultas. Novas transações serão mostradas, então
-        você pode ver que você enviou/recebeu Moneroj!</p>
+        você pode ver que você enviou/recebeu Swap!</p>
         <h2>Escaneando</h2>
         Como o Monero sempre mantém tudo privado, sempre que você abrir sua carteira o Monerujo precisa escanear
         o blockchain para identificar se você recebeu algum novo Monero. Somente as informações que correspondem à sua
