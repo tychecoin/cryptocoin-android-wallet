@@ -60,7 +60,7 @@
                         android:layout_height="wrap_content"
                         android:drawableStart="@drawable/ic_refresh_black_24dp"
                         android:drawablePadding="8dp"
-                        tools:text="monero-v9.monerujo.io" />
+                        tools:text="autonode.xwp.fyi" />
 
                     <TextView
                         android:id="@+id/tvNodeAddress"
@@ -68,7 +68,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="32dp"
-                        tools:text="128.130.233.151:18089" />
+                        tools:text="172.81.177.187:19950" />
                 </LinearLayout>
             </FrameLayout>
 
