@@ -72,22 +72,11 @@ public class TxFragment extends Fragment {
     private TextView tvTxTransfers;
     private TextView etTxNotes;
 
-    // XMRTO stuff
-    private View cvXmrTo;
-    private TextView tvTxXmrToKey;
-    private TextView tvDestinationBtc;
-    private TextView tvTxAmountBtc;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
         View view = inflater.inflate(R.layout.fragment_tx_info, container, false);
-
-        cvXmrTo = view.findViewById(R.id.cvXmrTo);
-        tvTxXmrToKey = view.findViewById(R.id.tvTxXmrToKey);
-        tvDestinationBtc = view.findViewById(R.id.tvDestinationBtc);
-        tvTxAmountBtc = view.findViewById(R.id.tvTxAmountBtc);
 
         tvAccount = view.findViewById(R.id.tvAccount);
         tvAddress = view.findViewById(R.id.tvAddress);
@@ -103,14 +92,6 @@ public class TxFragment extends Fragment {
         etTxNotes = view.findViewById(R.id.etTxNotes);
 
         etTxNotes.setRawInputType(InputType.TYPE_CLASS_TEXT);
-
-        tvTxXmrToKey.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Helper.clipBoardCopy(getActivity(), getString(R.string.label_copy_xmrtokey), tvTxXmrToKey.getText().toString());
-                Toast.makeText(getActivity(), getString(R.string.message_copy_xmrtokey), Toast.LENGTH_SHORT).show();
-            }
-        });
 
         Bundle args = getArguments();
         TransactionInfo info = args.getParcelable(ARG_INFO);
@@ -280,18 +261,6 @@ public class TxFragment extends Fragment {
         tvTxTransfers.setText(sb.toString());
         tvDestination.setText(dstSb.toString());
         this.info = info;
-        showBtcInfo();
-    }
-
-    void showBtcInfo() {
-        if (userNotes.xmrtoKey != null) {
-            cvXmrTo.setVisibility(View.VISIBLE);
-            tvTxXmrToKey.setText(userNotes.xmrtoKey);
-            tvDestinationBtc.setText(userNotes.xmrtoDestination);
-            tvTxAmountBtc.setText(userNotes.xmrtoAmount + " BTC");
-        } else {
-            cvXmrTo.setVisibility(View.GONE);
-        }
     }
 
     @Override

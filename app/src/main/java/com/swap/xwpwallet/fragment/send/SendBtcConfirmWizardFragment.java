@@ -280,9 +280,6 @@ public class SendBtcConfirmWizardFragment extends SendWizardFragment implements 
     public void onResumeFragment() {
         super.onResumeFragment();
         Timber.d("onResumeFragment()");
-        if (sendListener.getMode() != SendFragment.Mode.BTC) {
-            throw new IllegalStateException("Mode is not BTC!");
-        }
         Helper.hideKeyboard(getActivity());
         llStageA.setVisibility(View.INVISIBLE);
         evStageA.hideProgress();

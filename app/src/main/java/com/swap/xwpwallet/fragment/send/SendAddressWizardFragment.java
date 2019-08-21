@@ -92,8 +92,6 @@ public class SendAddressWizardFragment extends SendWizardFragment {
     private CardView cvScan;
     private View tvPaymentIdIntegrated;
     private View llPaymentId;
-    private TextView tvXmrTo;
-    private View llXmrTo;
     private ImageButton bPasteAddress;
 
     private boolean resolvingOA = false;
@@ -115,9 +113,6 @@ public class SendAddressWizardFragment extends SendWizardFragment {
 
         tvPaymentIdIntegrated = view.findViewById(R.id.tvPaymentIdIntegrated);
         llPaymentId = view.findViewById(R.id.llPaymentId);
-        llXmrTo = view.findViewById(R.id.llXmrTo);
-        tvXmrTo = view.findViewById(R.id.tvXmrTo);
-        tvXmrTo.setText(Html.fromHtml(getString(R.string.info_xmrto)));
 
         etAddress = view.findViewById(R.id.etAddress);
         etAddress.getEditText().setRawInputType(InputType.TYPE_TEXT_FLAG_NO_SUGGESTIONS);
@@ -161,17 +156,11 @@ public class SendAddressWizardFragment extends SendWizardFragment {
                     etPaymentId.getEditText().getText().clear();
                     llPaymentId.setVisibility(View.INVISIBLE);
                     etAddress.setError(getString(R.string.info_paymentid_integrated));
-                    tvPaymentIdIntegrated.setVisibility(View.VISIBLE);
-                    llXmrTo.setVisibility(View.INVISIBLE);
                     sendListener.setMode(SendFragment.Mode.XMR);
-                } else if (isBitcoinAddress() || (resolvedPP != null)) {
-                    Timber.d("isBitcoinAddress");
-                    setBtcMode();
                 } else {
                     Timber.d("isStandardAddress or other");
                     llPaymentId.setVisibility(View.VISIBLE);
                     tvPaymentIdIntegrated.setVisibility(View.INVISIBLE);
-                    llXmrTo.setVisibility(View.INVISIBLE);
                     sendListener.setMode(SendFragment.Mode.XMR);
                 }
             }
@@ -274,15 +263,6 @@ public class SendAddressWizardFragment extends SendWizardFragment {
             tvNfc.setVisibility(View.VISIBLE);
 
         return view;
-    }
-
-    private void setBtcMode() {
-        Timber.d("setBtcMode");
-        etPaymentId.getEditText().getText().clear();
-        llPaymentId.setVisibility(View.INVISIBLE);
-        tvPaymentIdIntegrated.setVisibility(View.INVISIBLE);
-        llXmrTo.setVisibility(View.VISIBLE);
-        sendListener.setMode(SendFragment.Mode.BTC);
     }
 
     private void processOpenAlias(String dnsOA) {
@@ -495,16 +475,7 @@ public class SendAddressWizardFragment extends SendWizardFragment {
         if (barcodeData != null) {
             Timber.d("GOT DATA");
 
-            if (barcodeData.bip70 != null) {
-                setBtcMode();
-                if (barcodeData.security == BarcodeData.Security.BIP70) {
-                    resolvedPP = barcodeData.bip70;
-                    etAddress.setError(getString(R.string.send_address_bip70));
-                } else {
-                    processBip70(barcodeData.bip70);
-                }
-                etAddress.getEditText().setText(barcodeData.bip70);
-            } else if (barcodeData.address != null) {
+            if (barcodeData.address != null) {
                 etAddress.getEditText().setText(barcodeData.address);
                 if (checkAddress()) {
                     if (barcodeData.security == BarcodeData.Security.OA_NO_DNSSEC)
