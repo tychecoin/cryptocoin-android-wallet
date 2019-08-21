@@ -216,7 +216,7 @@ public class PeerRetriever implements Callable<PeerRetriever> {
         payloadData.add("cumulative_difficulty", 1L);
         payloadData.add("current_height", 1L);
         byte[] genesisHash =
-                Helper.hexToBytes("418015bb9ae982a1975da7d79277c2705727a56894ba0fb246adaabb1f4632e3");
+                Helper.hexToBytes("4b49042122496cc7e94d392b29bd12ebbc92bcec98990470a30c1eb323b41ebb");
         payloadData.add("top_id", genesisHash);
         payloadData.add("top_version", (byte) 1);
         section.add("payload_data", payloadData);
