@@ -79,11 +79,9 @@ public class Toolbar extends android.support.v7.widget.Toolbar {
     protected void onFinishInflate() {
         super.onFinishInflate();
         toolbarImage = findViewById(R.id.toolbarImage);
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
-            // the vector image does not work well for androis < Nougat
-            toolbarImage.getLayoutParams().width = (int) getResources().getDimension(R.dimen.logo_width);
-            toolbarImage.setImageResource(R.drawable.logo_horizontol_xmrujo);
-        }
+		// the vector image does not work well for androis < Nougat
+		toolbarImage.getLayoutParams().width = (int) getResources().getDimension(R.dimen.logo_width);
+		toolbarImage.setImageResource(R.drawable.logo_horizontol_xmrujo);
 
         toolbarTitle = findViewById(R.id.toolbarTitle);
         toolbarSubtitle = findViewById(R.id.toolbarSubtitle);
