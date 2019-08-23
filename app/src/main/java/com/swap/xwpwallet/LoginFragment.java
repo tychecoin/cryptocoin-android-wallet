@@ -275,7 +275,7 @@ public class LoginFragment extends Fragment implements WalletInfoAdapter.OnInter
         if (displayedList.isEmpty()) {
             fab.startAnimation(fab_pulse);
             if (ivGunther.getDrawable() == null) {
-                ivGunther.setImageResource(R.drawable.gunther_desaturated);
+                ivGunther.setImageResource(R.drawable.sunther_desaturated);
             }
         } else {
             fab.clearAnimation();
