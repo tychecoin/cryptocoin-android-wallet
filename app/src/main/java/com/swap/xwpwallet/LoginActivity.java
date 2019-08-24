@@ -87,7 +87,8 @@ public class LoginActivity extends BaseActivity
     private static final String NODES_PREFS_NAME = "nodes";
     private static final String PREF_DAEMON_STAGENET = "daemon_stagenet";
     private static final String PREF_DAEMON_MAINNET = "daemon_mainnet";
-
+    private static final String DEFAULT_DAEMONLIST_MAINNET = "autonode.xwp.fyi:19950";
+        
     private NodeInfo node = null;
 
     Set<NodeInfo> favouriteNodes = new HashSet<>();
@@ -156,6 +157,7 @@ public class LoginActivity extends BaseActivity
             SharedPreferences sharedPref = getPreferences(Context.MODE_PRIVATE);
             switch (WalletManager.getInstance().getNetworkType()) {
                 case NetworkType_Mainnet:
+                    loadLegacyList(DEFAULT_DAEMONLIST_MAINNET);
                     loadLegacyList(sharedPref.getString(PREF_DAEMON_MAINNET, null));
                     sharedPref.edit().remove(PREF_DAEMON_MAINNET).apply();
                     break;
