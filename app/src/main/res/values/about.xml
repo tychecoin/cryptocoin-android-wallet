@@ -7,10 +7,11 @@
     <string name="credits_text"><![CDATA[
         <b>Credits</b>
         <br/>
+        Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
         rehrar, EarlOfEgo, ErCiccione et al.
         <br/><br/>
-        <a href="https://Swap Mobile Wallet.io/">Swap Mobile Wallet.io</a>
+        <a href="https://xwp.one/">xwp.one</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -48,14 +49,14 @@
         <h2>Changes to this Privacy Policy</h2>
         <p>We may update this privacy policy from time to time. We will notify
         you of any changes by posting the new privacy policy in the app and on the
-        website (www.Swap Mobile Wallet.io)
+        website (xwp.one)
         You are advised to review this privacy policy periodically for any changes.
         <p>This Privacy Policy was last updated: 10th November, 2017.
         </p>
         <h2>Contact Us</h2>
         <p>If you have any questions about our privacy policy,
         or how your data is being collected and processed,
-        please e-mail privacy@Swap Mobile Wallet.io.
+        please e-mail xwpdev@gmail.com.
         </p>
         ]]></string>
 </resources>

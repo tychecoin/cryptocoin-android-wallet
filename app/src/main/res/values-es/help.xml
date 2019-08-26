@@ -2,7 +2,7 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Crear nuevo monedero</h1>
-        <p>¡En caso de que necesites una nueva dirección de Monero!</p>
+        <p>¡En caso de que necesites una nueva dirección de Swap!</p>
         <p>Introduce un nombre único para tu monedero y una contraseña.
         La contraseña es utilizada para proteger los datos de tu monedero en el dispositivo.
         Utiliza una contraseña fuerte - incluso mejor si utilizas una frase.</p>
@@ -24,7 +24,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Restaurar monedero con semilla</h1>
-        <p>¡Si ya tienes una dirección de Monero y quieres recuperar sus transacciones desde la
+        <p>¡Si ya tienes una dirección de Swap y quieres recuperar sus transacciones desde la
         cadena de bloques!</p>
         <p>La contraseña es utilizada para proteger los datos de tu monedero en el dispositivo.
         Utiliza una contraseña fuerte - incluso mejor si utilizas una frase.</p>
@@ -41,7 +41,7 @@
         <p>Introduce un nombre único para tu monedero y una contraseña.
         La contraseña es utilizada para proteger los datos de tu monedero en el dispositivo.
         Utiliza una contraseña fuerte - incluso mejor si utilizas una frase.</p>
-        <p>Ingresa tu dirección de Monero en el campo \"Dirección Pública\" y completa
+        <p>Ingresa tu dirección de Swap en el campo \"Dirección Pública\" y completa
         \"Clave de Vista\" y \"Clave de Gasto\".</p>
         <p>Si conoces el número de bloque de la primera transacción usada en esta dirección,
         introdúcelo en el campo \"Altura de Restauración\" - dejándolo en blanco se escaneará la
@@ -55,7 +55,7 @@
         <p>Introduce un nombre único para tu monedero y una contraseña.
         La contraseña es utilizada para proteger los datos de tu monedero en el dispositivo.
         Utiliza una contraseña fuerte - incluso mejor si utilizas una frase.</p>
-        <p>Ingresa tu dirección de Monero en el campo \"Dirección Pública\" y completa
+        <p>Ingresa tu dirección de Swap en el campo \"Dirección Pública\" y completa
         \"Clave de Vista\".</p>
         <p>Si conoces el número de bloque de la primera transacción usada en esta dirección,
         introdúcelo en el campo \"Altura de Restauración\" - dejándolo en blanco se escaneará la
@@ -91,7 +91,7 @@
         aplicación generará una CrAzYpass y asegurará los archivos de tu monedero con ella.
         ¡Por favor anótala bien!
         <h3>Monederos CrAzYpass</h3>
-        Si alguna vez necesitas reinstalar Monerujo (por ejemplo luego de restaurar tu teléfono
+        Si alguna vez necesitas reinstalar Swap Mobile Wallet (por ejemplo luego de restaurar tu teléfono
         o cambiar a uno nuevo) o si necesitas abrir los archivos de tu monedero en otro dispositivo
         o en una PC, vas a tener que usar esta Contraseña de Recuperación (CrAzYpass) para poder
         acceder a tu monedero otra vez.<br/>
@@ -108,10 +108,10 @@
     <string name="help_list"><![CDATA[
         <h1>Lista de monederos</h1>
         <h2>Nodo</h2>
-        <p>Monerujo utiliza un nodo remoto para comunicarse con la red de Monero sin tener que
+        <p>Swap Mobile Wallet utiliza un nodo remoto para comunicarse con la red de Swap sin tener que
         descargar y almacenar una copia completa de la cadena de bloques. Puedes encontrar una lista
-        de nodos remotos populares o aprender como montar tu propio nodo remoto aquí https://moneroworld.com</p>
-        <p>Monerujo viene con un nodo remoto ya preconfigurado. También recuerda los últimos cinco
+        de nodos remotos populares o aprender como montar tu propio nodo remoto aquí https://Swapworld.com</p>
+        <p>Swap Mobile Wallet viene con un nodo remoto ya preconfigurado. También recuerda los últimos cinco
         nodos utilizados.</p>
         <h2>Monederos</h2>
         <p>Aquí puedes ver tus monederos. Están ubicados en el directorio <tt>monerujo</tt> del
@@ -141,17 +141,17 @@
         <h2>Destinatario</h2>
         Esta es la dirección pública del monedero al que has enviado swap
         <h2>ID de Pago</h2>
-        Al ser Monero ofuscado por naturaleza, puedes usar un ID de Pago para identificar un envío de Monero entre
+        Al ser Swap ofuscado por naturaleza, puedes usar un ID de Pago para identificar un envío de Swap entre
         dos partes. Esto es completamente opcional y privado. Por ejemplo, esto permitiría que un
         negocio pueda asociar inequívocamente tu transacción con un producto que has comprado.
         <h2>ID de Transacción</h2>
         Este es un identificador de tu transacción que puede ser utilizado para ubicar tu transacción
-        ofuscada en la cadena de bloques de Monero usando un explorador como <a href="https://xmrchain.net/">https://xmrchain.net/</a>
+        ofuscada en la cadena de bloques de Swap usando un explorador como <a href="https://xmrchain.net/">https://xmrchain.net/</a>
         <h2>Clave de transacción</h2>
         Esta es la clave privada de tu transacción, mantenla segura ya que revelarla a un tercero
         desvela que firma en un anillo de transacciones es la tuya, por tanto haciendo tus transacciones transparentes.
         <h2>Bloque</h2>
-        Este es el bloque de la cadena de Monero en el que tu transacción fue incluída.
+        Este es el bloque de la cadena de Swap en el que tu transacción fue incluída.
     ]]></string>
 
     <string name="help_send"><![CDATA[
@@ -169,14 +169,14 @@
         Please note, that sending BTC is processed through the XWP.TO service (see https://xmr.to
         for details). See the section on sending BTC below.</p>
         <h2>ID de Pago</h2>
-        Al ser Monero ofuscado por naturaleza, puedes usar un ID de Pago para identificar un envío de Monero entre
+        Al ser Swap ofuscado por naturaleza, puedes usar un ID de Pago para identificar un envío de Swap entre
         dos partes. Esto es completamente opcional y privado. Por ejemplo, esto permitiría que un
         negocio pueda asociar inequívocamente tu transacción con un producto que has comprado.</p>
         <h1>Enviar BTC</h1>
         <h2>XWP.TO</h2>
-        <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Monero a Bitcoin.
-        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Monerujo. Por favor revisa
-        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Monerujo
+        <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Swap a Bitcoin.
+        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Mobile Wallet. Por favor revisa
+        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Mobile Wallet
         no está asociado con XWP.TO y no puede ayudarte con su servicio.</p>
         <h2>Tipo de cambio XWP.TO<h2>
         <p>En la pantalla de \"Monto\" se te mostrará las condiciones actuales del servicio XWP.TO.
@@ -190,7 +190,7 @@
         tiempo limitado - notarás una cuenta atrás en el botón de \"Gastar\". El tipo de cambio a
         esta altura puede ser distinto al aproximado que era mostrado en pantallas anteriores.</p>
         <h2>Clave secreta XWP.TO<h2>
-        <p>Dado que Monerujo sólo administra la parte en Monero de tu transacción, puedes usar tu
+        <p>Dado que Swap Mobile Wallet sólo administra la parte en Swap de tu transacción, puedes usar tu
         clave secreta XWP.TO para rastrear la parte en Bitcoin de tu orden en la página de XWP.TO.</p>
         <p>Por favor ten en cuenta que esta clave secreta sólo es válida por 24 horas a partir de
         iniciada la transacción!</p>
@@ -203,9 +203,9 @@
     <string name="help_xmrto"><![CDATA[
         <h1>Enviar BTC</h1>
         <h2>XWP.TO</h2>
-        <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Monero a Bitcoin.
-        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Monerujo. Por favor revisa
-        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Monerujo
+        <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Swap a Bitcoin.
+        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Mobile Wallet. Por favor revisa
+        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Mobile Wallet
         no está asociado con XWP.TO y no puede ayudarte con su servicio.</p>
         <h2>Tipo de cambio XWP.TO<h2>
         <p>En la pantalla de \"Monto\" se te mostrará las condiciones actuales del servicio XWP.TO.
@@ -219,7 +219,7 @@
         tiempo limitado - notarás una cuenta atrás en el botón de \"Gastar\". El tipo de cambio a
         esta altura puede ser distinto al aproximado que era mostrado en pantallas anteriores.</p>
         <h2>Clave secreta XWP.TO<h2>
-        <p>Dado que Monerujo sólo administra la parte en Monero de tu transacción, puedes usar tu
+        <p>Dado que Swap Mobile Wallet sólo administra la parte en Swap de tu transacción, puedes usar tu
         clave secreta XWP.TO para rastrear la parte en Bitcoin de tu orden en la página de XWP.TO.</p>
         <p>Por favor ten en cuenta que esta clave secreta sólo es válida por 24 horas a partir de
         iniciada la transacción!</p>
@@ -249,15 +249,15 @@
         otro lugar público. Transacciones anteriores también se ocultan. Nuevas transacciones serán mostradas, para
         que puedas ver que has enviado/recibido Swap.</p>
         <h2>Escaneado</h2>
-        Como a Monero le gusta mantener las cosas privadas, cada vez que abres una cartera de
-        Monerujo es necesario escanear la cadena de bloques para ver si nuevos swap han sido
+        Como a Swap le gusta mantener las cosas privadas, cada vez que abres una cartera de
+        Swap Mobile Wallet es necesario escanear la cadena de bloques para ver si nuevos swap han sido
         enviados a tu dirección. Esto solo almacena en tu teléfono las transacciones que pertenecen a tu
         monedero. Esto puede llevar un rato si hace tiempo que no sincronizas.
         <h2>Saldo</h2>
         <p><b>¡Ayuda! ¡El saldo de mi monedero ha desaparecido o aparece sin confirmar!</b><br/>
         ¡No entres en pánico! Cuando envias fondos a tu monedero, parte de tu saldo se mostrará
         temporalmente como sin confirmar.
-        Esto es debido a como funcionan las transacciones y su cambio en Monero. Todo está bien.
+        Esto es debido a como funcionan las transacciones y su cambio en Swap. Todo está bien.
         Puedes leer más al respecto en https://getmonero.org/resources/moneropedia/change.html
         <h2>Lista de transacciones</h2>
         <p>Es una lista con las transacciones del monedero. Ten en cuenta que en monederos de solo vista, únicamente se
@@ -267,14 +267,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nodos</h1>
         <h2>TL;DR</h2>
-        <p>Refresca la lista de nodos al mostrar los marcadores de nodos para permitir a Monerujo
+        <p>Refresca la lista de nodos al mostrar los marcadores de nodos para permitir a Swap Mobile Wallet
         elegir el mejor para ti.</p>
         <h2>¿Qué es un Nodo?h2>
-        <p>Monerujo usa un Nodo Remoto (algunas veces también llamado Daemon) para comunicarse con
-        la red de Monero sin tener que descargar y almacenar una copia de la
+        <p>Swap Mobile Wallet usa un Nodo Remoto (algunas veces también llamado Daemon) para comunicarse con
+        la red de Swap sin tener que descargar y almacenar una copia de la
         cadena de bloques completa.<p>
         <h2>Lista de Nodos</h2>
-        <p>Si la lista está vacía, puedes agregar nuevos nodos manualmente o dejar que Monerujo
+        <p>Si la lista está vacía, puedes agregar nuevos nodos manualmente o dejar que Swap Mobile Wallet
         escanee la red por ti. O ambos.</p>
         <p>La lista de nodos muestra todos los nodos actualmente conocidos. Adicionalmente, la marca de tiempo
         del último bloque conocido para cada nodo se muestra bajo el nombre del nodo. Un icono
@@ -283,33 +283,33 @@
         es mostrado seguido de cada nodo.</p>
         <p>Cualquier nodo en la lista puede ser marcado para un posterior uso.
         Nodos que no sean marcados serán olvidados.<p>
-        <p>Monerujo elegirá el nodo marcado óptimo cada vez que lo uses.
+        <p>Swap Mobile Wallet elegirá el nodo marcado óptimo cada vez que lo uses.
         Esto lo hace revisando la altura del bloque (¿qué tan al día
         está el nodo?) así como el comportamiento de respuesta (¿qué tan rápido responde el nodo a solicitudes?).</p>
-        <p>La lista se ordena por estas características, por lo tanto el primer nodo en la lista sería el que Monerujo
+        <p>La lista se ordena por estas características, por lo tanto el primer nodo en la lista sería el que Swap Mobile Wallet
         elegiría en ese momento. El final de la lista mostraría nodos muy lentos o no disponibles.</p>
         <h2>Agregar un Nodo</h2>
         <p>Presionando en el botón &quot;Agregar Nodo&quot; en la parte inferior, se te pedirá que
         ingreses los detalles del nodo en el siguiente cuadro de diálogo.
         La &quot;Dirección&quot; es el nombre del host o dirección IP del nodo - esta es la única
         entrada obligatoria.
-        Ingresa el &quot;Puerto&quot; si el nodo se ejecuta en un puerto que no es por defecto (e.g. 18089).
+        Ingresa el &quot;Puerto&quot; si el nodo se ejecuta en un puerto que no es por defecto.
         Puedes también nombrar el nodo opcionalmente, para que puedas identificarlo después fácilmente.
         Algunos nodos requieren credenciales para usarlos. Ingresa el nombre de usuario provisto &amp;
         contraseña en los campos apropiados. Ahora puedes &quot;Verificar&quot; estos ajustes.
         Los &quot;Resultados de la Prueba&quot; mostrarán la altura del bloque, tiempo de respuesta y dirección IP real usados.
         El resultado puede ser también un error - usualmente porque el nombre de host provisto no
         es alcanzable en una sensible cantidad de tiempo o las credenciales son incorrectas.
-        O la combinación nombre de host/puerto no indican a un nodo de Monero real.
+        O la combinación nombre de host/puerto no indican a un nodo de Swap real.
         Una vez que la prueba sea exitosa (sin error) - estás listo para presionar &quot;OK&quot; para guardar &amp;
         como marcador este nodo.</p>
         <h2>Escanear por Nodos</h2>
-        <p>Adicionalmente, puedes escanear la red por nodos. Monerujo empezará
-        escaneando la red por Nodos Remotos con puerto 18089. Comienza preguntando tus
-        nodos marcados por otros compañeros en la red P2P de Monero y después continúa
+        <p>Adicionalmente, puedes escanear la red por nodos. Swap Mobile Wallet empezará
+        escaneando la red por Nodos Remotos con puerto 19950. Comienza preguntando tus
+        nodos marcados por otros compañeros en la red P2P de Swap y después continúa
         preguntando por nodos a ellos por sus compañeros, y así. Si no tienes nodos marcados
         (o no nos comunican sobre sus compañeros),
-        Monerujo irá directo a los nodos semilla de Monero codificados en Monero. El
+        Swap Mobile Wallet irá directo a los nodos semilla de Swap codificados en Swap. El
         escaneo parará cuando encuentre 10 nodos remotos en total.</p>
     ]]></string>
 

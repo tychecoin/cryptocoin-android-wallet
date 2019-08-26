@@ -242,7 +242,7 @@
         enter the node details in the following dialog.
         The &quot;Address&quot; is the hostname or IP-address of the node - this is the only
         mandatory entry.
-        Enter the &quot;Port&quot; if the node runs on a non-default port (e.g. 18089).
+        Enter the &quot;Port&quot; if the node runs on a non-default port.
         You can also optionally name the node, so you can identify it easier later on.
         Some nodes require credentials to use them. Enter the provided username &amp;
         password in the appropriate fields. Now you can &quot;Test&quot; these setting.
@@ -254,7 +254,7 @@
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
         <p>Additionally, you can scan the network for nodes. Swap Mobile Wallet will start
-        scanning the network for Remote Nodes on port 18089. It begins by asking your
+        scanning the network for Remote Nodes on port 19950. It begins by asking your
         bookmarked nodes for other peers in the Swap P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),
