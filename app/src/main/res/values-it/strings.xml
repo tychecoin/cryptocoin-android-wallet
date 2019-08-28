@@ -142,7 +142,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP non confermati</string>
 
-    <string name="service_description">Servizio Swap Mobile Wallet</string>
+    <string name="service_description">Servizio Swap Go</string>
 
     <string name="status_synced">Sincronizzati:</string>
     <string name="status_remaining">Blocchi rimanenti</string>
@@ -171,10 +171,10 @@
         <strong>Autenticazione tramite impronta digitale</strong>
         <p>Abilitando l\'autenticazione tramite impronta digitale, puoi visualizzare il tuo saldo e ricevere fondi
         senza inserire la password.</p>
-        <p>Per sicurezza aggiuntiva, Swap Mobile Wallet richiederà comunque di inserire la password per visualizzare i dettagli
+        <p>Per sicurezza aggiuntiva, Swap Go richiederà comunque di inserire la password per visualizzare i dettagli
         del tuo portafoglio o inviare denaro.</p>
         <strong>Avviso di sicurezza</strong>
-        <p>Infine, Swap Mobile Wallet ci tiene a ricordarti che chiunque sia in grado di procurarsi la tua impronta digitale
+        <p>Infine, Swap Go ci tiene a ricordarti che chiunque sia in grado di procurarsi la tua impronta digitale
         sarà in grado anche di sbirciare il saldo del tuo portafoglio.</p>
         <p>Per esempio, un utente malintenzionato potrebbe aprire il tuo portafoglio mentre dormi.</p>
         <strong>Sei sicuro/a di voler abilitare questa funzione?</strong>

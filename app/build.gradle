@@ -7,7 +7,7 @@ android {
         applicationId "com.swap.xwpwallet"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 183
+        versionCode 101
         versionName "3.0.0 'Malkoha'"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"

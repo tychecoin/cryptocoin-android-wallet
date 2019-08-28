@@ -131,7 +131,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP neconfirmat</string>
 
-    <string name="service_description">Serviciul Swap Mobile Wallet</string>
+    <string name="service_description">Serviciul Swap Go</string>
 
     <string name="status_synced">Sincronizat:</string>
     <string name="status_remaining">Monoblocuri rămase</string>
@@ -279,10 +279,10 @@
         <strong>Fingerprint Authentication</strong>
         <p>With fingerprint authentication enabled, you can view wallet balance and receive funds
         without entering password.</p>
-        <p>But for additional security, Swap Mobile Wallet will still require you to enter password when
+        <p>But for additional security, Swap Go will still require you to enter password when
         viewing wallet details or sending funds.</p>
         <strong>Security Warning</strong>
-        <p>Finally, Swap Mobile Wallet wants to remind you that anyone who can get your fingerprint will be
+        <p>Finally, Swap Go wants to remind you that anyone who can get your fingerprint will be
         able to peep into your wallet balance.</p>
         <p>For instance, a malicious user around you can open your wallet when you are asleep.</p>
         <strong>Are you sure to enable this function?</strong>
