@@ -624,7 +624,7 @@ public class Helper {
     }
 
     static public ExchangeApi getExchangeApi() {
-        return new com.swap.xwpwallet.service.exchange.coinmarketcap.ExchangeApiImpl(OkHttpHelper.getOkHttpClient());
+        return new com.swap.xwpwallet.service.exchange.coingecko.ExchangeApiImpl(OkHttpHelper.getOkHttpClient());
     }
 
     public interface Action {
