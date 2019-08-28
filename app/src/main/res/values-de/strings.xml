@@ -142,7 +142,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP unbestätigt</string>
 
-    <string name="service_description">Swap Mobile Wallet Service</string>
+    <string name="service_description">Swap Go Service</string>
 
     <string name="status_synced">Synchronisiert:</string>
     <string name="status_remaining">Blöcke verbleibend</string>
@@ -171,7 +171,7 @@
         <strong>Fingerabdruck-Authentifizierung</strong>
         <p>Mit aktivierter Fingerabdruck-Authentifizierung kannst du ohne Eingabe eines Passworts
         das Wallet-Guthaben einsehen sowie Gelder empfangen.</p>
-        <p>Aus Sicherheitsgründen wird Swap Mobile Wallet weiterhin dein Passwort abfragen,
+        <p>Aus Sicherheitsgründen wird Swap Go weiterhin dein Passwort abfragen,
         wenn du Wallet-Details einsehen oder Gelder senden möchtest.</p>
         <strong>Sicherheits-Warnung</strong>
         <p>Bedenke bitte, dass jeder mit Zugriff auf deinen Fingerabdruck dein Wallet-Saldo einsehen kann.</p>

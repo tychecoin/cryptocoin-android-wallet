@@ -84,7 +84,7 @@
         Après avoir renseigné une nouvelle phrase secrète (voire la même que précédemment) l’application va générer
         un CrAzYpass pour vous et sécuriser les fichiers de votre portefeuille avec. Notez-le !
         <h3>Portefeuilles CrAzYpass</h3>
-        Si vous avez un jour besoin de réinstaller Swap Mobile Wallet (par exemple après réinitialisation de votre téléphone, ou
+        Si vous avez un jour besoin de réinstaller Swap Go (par exemple après réinitialisation de votre téléphone, ou
         remplacement de celui-ci) ou si vous voulez utiliser vos fichiers de portefeuille sur un appareil différent ou
         un PC, vous devrez utiliser ce Mot de Passe de Restauration adin d’accéder de nouveau à votre portefeuille.<br/>
         En choisissant \"Modifier Phrase Secrète\" à partir du menu, vous pouvez choisir une nouvelle phrase secrète.
@@ -100,11 +100,11 @@
     <string name="help_list"><![CDATA[
         <h1>Liste des Portefeuilles</h1>
         <h2>Nœud</h2>
-        <p>Swap Mobile Wallet utilise un nœud distant pour communiquer avec le réseau Swap sans avoir à
+        <p>Swap Go utilise un nœud distant pour communiquer avec le réseau Swap sans avoir à
         télécharger et stocker une copie complète de la chaîne de bloc. vous pourrez trouver une
         liste de nœud distant populaire ou apprendre comment faire fonctionner votre propre nœud
         distant ici https://Swapworld.com/<p>
-        <p>Swap Mobile Wallet est fourni avec quelques Nœuds distants préenregistrés. Les cinq derniers nœuds utilisé sont sauvegardés.</p>
+        <p>Swap Go est fourni avec quelques Nœuds distants préenregistrés. Les cinq derniers nœuds utilisé sont sauvegardés.</p>
         <h2>Portefeuilles</h2>
         <p>Ici vous pouvez voir vos Portefeuilles. Ils se trouvent dans le dossier <tt>monerujo</tt>
         du stockage interne de votre appareil. Vous pouvez utiliser une application d’explorateur
@@ -169,8 +169,8 @@
         <h1>Envoyer des BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
-        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Mobile Wallet. Veuillez
-        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Mobile Wallet
+        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Go. Veuillez
+        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Go
         n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
         <h2>Taux de change XWP.TO<h2>
         <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
@@ -183,7 +183,7 @@
         un temps limité - vous pouvez remarquer le compte à rebours sur le bouton \"Dépenser\". Ce taux
         de change peut être différent du taux indicatif de l’écran précédent.</p>
         <h2>Clef Secrète XWP.TO<h2>
-        <p>Comme Swap Mobile Wallet ne traite que le volet Swap de votre transaction, votre clef secrète
+        <p>Comme Swap Go ne traite que le volet Swap de votre transaction, votre clef secrète
         XWP.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
         de XWP.TO.</p>
         <p>Veuillez noter que cette clef secrète est seulement valable 24h après le lancement de la
@@ -197,8 +197,8 @@
         <h1>Envoyer des BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
-        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Mobile Wallet. Veuillez
-        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Mobile Wallet
+        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Go. Veuillez
+        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Go
         n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
         <h2>Taux de change XWP.TO<h2>
         <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
@@ -211,7 +211,7 @@
         un temps limité - vous pouvez remarquer le compte à rebours sur le bouton \"Dépenser\". Ce taux
         de change peut être différent du taux indicatif de l’écran précédent.</p>
         <h2>Clef Secrète XWP.TO<h2>
-        <p>Comme Swap Mobile Wallet ne traite que le volet Swap de votre transaction, votre clef secrète
+        <p>Comme Swap Go ne traite que le volet Swap de votre transaction, votre clef secrète
         XWP.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
         de XWP.TO.</p>
         <p>Veuillez noter que cette clef secrète est seulement valable 24h après le lancement de la
@@ -245,7 +245,7 @@
         puissiez voir que vous avez envoyé ou reçu vos doux Swap !</p>
         <h2>Analyse</h2>
         Comme Swap aime garder les choses confidentielles, nous devons scanner la chaîne de blocs
-        chaque fois que vous ouvrez un portefeuille Swap Mobile Wallet pour voir si de nouveaux Swap ont été
+        chaque fois que vous ouvrez un portefeuille Swap Go pour voir si de nouveaux Swap ont été
         envoyés à votre portefeuille, cela ne stocke sur votre appareil que les informations appartenant
         à votre portefeuille. Parfois cela peut prendre un moment si vous n’avez pas synchronisé depuis
         longtemps.
@@ -264,14 +264,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nœuds</h1>
         <h2>En résumé</h2>
-        <p>Rafraichit la liste de nœuds en faisant glisser vers le bas &amp; met en favoris 3 à 5 nœuds pour permettre à Swap Mobile Wallet
+        <p>Rafraichit la liste de nœuds en faisant glisser vers le bas &amp; met en favoris 3 à 5 nœuds pour permettre à Swap Go
         de choisir le meilleur pour vous !</p>
         <h2>Qu’est-ce qu’un Nœud ?</h2>
-        <p>Swap Mobile Wallet utilise un Nœud distant (parfois appelé un Démon) pour communiquer avec
+        <p>Swap Go utilise un Nœud distant (parfois appelé un Démon) pour communiquer avec
         le réseau Swap sans avoir à télécharger et stocker une copie complète de la
         chaîne de blocs elle-même.<p>
         <h2>Liste de Nœuds</h2>
-        <p>Si la liste est vide, vous pouvez soit ajouter de nouveaux nœuds manuellement, ou laisser Swap Mobile Wallet
+        <p>Si la liste est vide, vous pouvez soit ajouter de nouveaux nœuds manuellement, ou laisser Swap Go
         scanner le réseau pour vous. Ou les deux. Lire la suite&#8230;</p>
         <p>La liste des nœuds affiche tous les nœuds connus. De plus, l’horodatage
         du dernier bloc connu par chaque nœud est indiqué en dessous du nom du nœud. Une icône
@@ -280,10 +280,10 @@
         est affiché à coté de chaque nœud.</p>
         <p>N’importe quel nœud de la liste peut être ajouté aux favoris pour un usage ultérieur.
         Les nœuds qui ne sont pas en favoris seront oubliés.<p>
-        <p>Swap Mobile Wallet choisira le nœud optimal parmi les favoris à chaque fois que vous l’utiliserez.
+        <p>Swap Go choisira le nœud optimal parmi les favoris à chaque fois que vous l’utiliserez.
         Ceci est fait en vérifiant la hauteur de bloc (à quel point le nœud
         est à jour ?) de même que le comportement de réponse (à quelle vitesse le nœud répond aux requêtes ?).</p>
-        <p>La liste est triée selon ces caractéristiques, afin que le nœud le plus haut soit celui que Swap Mobile Wallet
+        <p>La liste est triée selon ces caractéristiques, afin que le nœud le plus haut soit celui que Swap Go
         utilisera tout de suite. Le bas de la liste montrera des nœuds très lents ou indisponibles.</p>
         <h2>Ajouter un Nœud</h2>
         <p>En touchant le bouton &quot;Ajouter un Nœud&quot; en bas, il vous sera demandé
@@ -301,12 +301,12 @@
         Une fois que le test réussit (sans erreur) - vous êtes prêt à appuyer sur &quot;OK&quot; pour sauvegarder &amp;
         mettre ce nœud en favori.</p>
         <h2>Rechercher des Nœuds</h2>
-        <p>De plus, vous pouvez rechercher des nœuds sur le réseau. Swap Mobile Wallet va commencer à
+        <p>De plus, vous pouvez rechercher des nœuds sur le réseau. Swap Go va commencer à
         parcourir le réseau à la recherche de nœuds distants sur le port 19950. Il commence par demander à vos
         nœuds en favoris d’autres homologues dans le réseau Swap P2P puis continue
         en demandant leurs homologues à ceux-ci, et ainsi de suite. Si vous n’avez pas de nœuds en favoris
         (ou s’ils ne communiquent pas leurs homologues),
-        Swap Mobile Wallet va communiquer directement avec les nœuds d’ensemencement codés en dur dans Swap. La
+        Swap Go va communiquer directement avec les nœuds d’ensemencement codés en dur dans Swap. La
         recherche s’arrête lorsqu’un total de 10 nœuds distant est récupéré.</p>
     ]]></string>
 

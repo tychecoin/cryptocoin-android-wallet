@@ -28,7 +28,7 @@ task clean(type: Delete) {
 }
 
 ext {
-    apkName = 'swap mobile wallet'
+    apkName = 'Swap Go'
     okHttpVersion = '3.12.0'
     junitVersion = '4.12'
     mockitoVersion = '1.10.19'
