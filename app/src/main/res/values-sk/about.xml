@@ -26,11 +26,8 @@
         <p>Swap kľúče a verejné adresy sú zbierané a spracovávané aplikáciou lokálne na účely 
 		spracovania a prenosu transakcie v Swap sieti.</p>
         <p>Iné osobné data nie sú zbierané a spracovávané.</p>
-        <p>Pokiaľ používaš (voliteľnú) funkciu zmenárne, Swap vyhľadá výmenný kurz cez verejné API portálu coinmarketcap.com.
-        Pre viac detailov pozri zásady ochrany osobných údajov na https://coinmarketcap.com/privacy kde je uvedené aké dáta zbierajú</p>
-        <p>Pokiaľ používaš aplikáciu pre platby na BTC adresy, využívaš služby XWP.TO.
-        Pre viac detailov pozri zásady ochrany osobných údajov na https://xmr.to/ . Swap im posiela cieľovú BTC
-        addresu príjemcu a posielané množstvo. Tvoju IP bude tiež možné zaznamenať. </p>
+        <p>Pokiaľ používaš (voliteľnú) funkciu zmenárne, Swap vyhľadá výmenný kurz cez verejné API portálu www.coingecko.com.
+        Pre viac detailov pozri zásady ochrany osobných údajov na https://www.coingecko.com/en/privacy kde je uvedené aké dáta zbierajú</p>
         <h2>Povolenia</h2>
         <ul>
         <li>INTERNET : Pripojiť do Swap siete cez vzdialený Swap uzol</li>

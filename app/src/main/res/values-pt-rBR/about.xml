@@ -31,14 +31,10 @@
         </p>
         <p>Outros dados pessoais não são recolhidos pelo aplicativo.</p>
         <p>Se você utilizar a funcionalidade de conversão (opcional), o Swap buscará
-        as cotações usando a API pública do coinmarketcap.com.
-        Verifique sua política de privacidade em https://coinmarketcap.com/privacy para
+        as cotações usando a API pública do www.coingecko.com.
+        Verifique sua política de privacidade em https://www.coingecko.com/en/privacy para
         detalhes de como as requisições são coletadas.
         </p>
-        <p>Se você usar nosso aplicativo para fazer pagamentos em BTC, você estará
-        usando o serviço XWP.TO. Verifique sua política de privacidade em https://xmr.to/
-        para detalhes. O Swap envia o endereço de destino e valor ao serviço. Seu
-        IP também pode ser coletado.
         <h2>Permissões do aplicativo</h2>
         <ul>
         <li>INTERNET : Conectar à rede Swap via um nó remoto</li>

@@ -28,12 +28,9 @@
         formo.</p>
         <p>Aliaj personaj datumoj ne kolektiĝas de la aplikaĵo.</p>
         <p>Se vi uzas la opcian funkcionon, kiu permesas nombrumi vian pagon je alia valuto (ekz. dolaroj),
-        Swap informpetos pri la kurzo per la publika interfaco de coinmarketcap.com.
-        Vidu ilian privatecan politikon je https://coinmarketcap.com/privacy por detaloj pri
+        Swap informpetos pri la kurzo per la publika interfaco de www.coingecko.com.
+        Vidu ilian privatecan politikon je https://www.coingecko.com/en/privacy por detaloj pri
         kiel la datumo de viaj petoj kolektiĝos.</p>
-        <p>Se vi uzas la aplikaĵon por pagi al Bitmono-adresoj, vi uzos la XWP.TO-servon.
-        Vidu ilian privatecan politikon je https://xmr.to/ por detaloj. Swap sendos al ili la
-        BTC-ricevontadreson kaj kvanton. Via IP-adreso ankaŭ kolekteblos.</p>
         <h2>Permesoj de la aplikaĵo</h2>
         <ul>
         <li>INTERRETO : Konekti kun la Swap-reto per noda demono</li>

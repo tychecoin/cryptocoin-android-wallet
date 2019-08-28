@@ -35,10 +35,6 @@
         prin intermediul API-ului public al kraken.com.
         Vizualizeaza politica de confidențialitate la adresa https://www.kraken.com/legal/privacy pentru a vedea
 		cum este procesata informația ( În special secțiunea "Information We Collect Automatically").</p>
-        <p>În cazul in care folosești aplicația pentru a face o plată către o adresă de portofel BTC,
-		vei folosi serviciul oferit de XWP.TO.
-        Vizualizează politica lor de confidențialitate la adresa https://xmr.to/ pentru detalii. Swap le va trimite lor 
-		adresa de destinație și suma BTC. Adresa ta de IP poate fi colectată.</p>
         <h2>Permisiunile aplicației</h2>
         <ul>
         <li>INTERNET : Conectarea la rețeaua Swap printr-un nod de asamblare al Swap </li>

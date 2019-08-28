@@ -29,14 +29,10 @@
         tehingute töötlemiseks ja edastatakse Swap võrku krüptitud kujul.
         </p>
         <p>Rakendus ei kogu muid isikuandmeid.</p>
-        <p>Kui kasutate vahetusfunktsiooni, kasutab Swap selleks coinmarketcap.com\'i
+        <p>Kui kasutate vahetusfunktsiooni, kasutab Swap selleks www.coingecko.com\'i
         avaliku API funktsiooni. Vaadake nende privaatsuspoliitikat aadressil
-        https://coinmarketcap.com/privacy, et saada üksikasju, kuidas teie päringute kohta
+        https://www.coingecko.com/en/privacy, et saada üksikasju, kuidas teie päringute kohta
         andmeid kogutakse.</p>
-        <p>Kui kasutate äppi BTC-aadressitele raha saatmiseks, siis kasutatakse selleks
-        XWP.TO teenust. Lisateabe saamiseks vaadake nende privaatsuspoliitikat aadressil
-        https://xmr.to/. Swap saadab neile BTC sihtkoha aadressi ja summa. Koguda
-        võidakse ka teie IP aadressi.</p>
         <h2>Äpi õigused</h2>
         <ul>
         <li>INTERNET : Swap võrguga ühenduse loomine Swap Daemoni sõlmpunkti kaudu</li>
