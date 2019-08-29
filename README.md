@@ -2,7 +2,7 @@
 Android Wallet for $XWP
 
 ### QUICKSTART
-- Download the APK for the most current release [here](https://github.com/swap-dev/swap-android-wallet/releases) and install it
+- Download the APK for the most current release [here](https://github.com/swap-dev/swap-android-wallet/releases/latest) and install it
 - Run the App and tap + button to Create new wallet or restore from 25 word seeds
 - Advanced users can copy over synced wallet files (all files) onto sdcard in directory Swap Go (created first time App is started)
 - See the [FAQ](doc/FAQ.md)
