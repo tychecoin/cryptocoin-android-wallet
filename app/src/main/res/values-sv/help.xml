@@ -76,7 +76,7 @@
         <h2>Nod</h2>
         Swap Go använder en Avlägsen Nod för att kommunicera med Swap-nätverket utan att
         behöva ladda ner och lagra en kopia av hela blockkedjan. Du kan hitta en lista av populära
-        avlägsna noder eller lära dig hur man kör sin egen avlägsen nod här https://Swapworld.com/
+        avlägsna noder eller lära dig hur man kör sin egen avlägsen nod här https://autonode.xwp.fyi/
         <p>
         <p>Swap Go kommer med några avlägsna noder inställda. Den kommer ihåg de 5 senast använda noderna.</p>
         <h2>Plånböcker</h2>

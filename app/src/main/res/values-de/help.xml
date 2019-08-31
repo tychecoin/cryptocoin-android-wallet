@@ -97,7 +97,7 @@
         <h2>Node</h2>
         <p>Swap Go benutzt einen Drittanbieter-Node, um mit dem Swap-Netzwerk zu kommunizieren, ohne
         die gesamte Blockchain herunterladen zu müssen. Eine Liste bekannter Drittanbieter-Nodes
-	oder eine Anleitung zum Betreiben eines eigenen Drittanbieter-Nodes findest du unter https://Swapworld.com/<p>
+	oder eine Anleitung zum Betreiben eines eigenen Drittanbieter-Nodes findest du unter https://autonode.xwp.fyi/<p>
         <p>Swap Go besitzt einige voreingestellte Drittanbieter-Nodes. Es erinnert sich an die letzten 5 benutzten Nodes.</p>
         <h2>Wallets</h2>
         <p>Hier siehst du deine Wallets. Sie befinden sich im <tt>monerujo</tt> Ordner

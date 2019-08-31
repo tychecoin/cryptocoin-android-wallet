@@ -110,7 +110,7 @@
         remote nodes at https://autonode.xwp.fyi/<p>
         <p>Swap Go comes with some Remote Nodes preset. It remembers the last five nodes used.</p>
         <h2>Wallets</h2>
-        <p>Here you see your wallets. They are located in the <tt>Swap Go</tt> folder
+        <p>Here you see your wallets. They are located in the <tt>Swap</tt> <tt>Go</tt> folder
         in the internal storage of your device. You can use a file explorer app to see them.
         You should make backups of this folder on a regular basis to off-device storage in
         case your device explodes or gets stolen.</p>
@@ -123,7 +123,7 @@
         <h3>Rename</h3>
         <p>Rename the wallet. Backups are not renamed.</p>
         <h3>Backup</h3>
-        <p>Make a copy of the wallet in the <tt>backups</tt> folder inside the <tt>Swap Go</tt>
+        <p>Make a copy of the wallet in the <tt>backups</tt> folder inside the <tt>Swap</tt> <tt>Go</tt>
         overwriting previous copies there.</p>
         <h3>Archive</h3>
         <p>Make a backup and delete the wallet afterwards. The copy remains in the <tt>backups</tt>

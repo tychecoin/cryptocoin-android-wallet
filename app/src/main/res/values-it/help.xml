@@ -101,7 +101,7 @@
         <h2>Nodo</h2>
 	<p>Swap Go usa un nodo remoto per comunicare con la rete Swap senza dover scaricare e mantenere in
 		memoria una copia della blockchain intera. Puoi trovare una lista di nodi remoti popolari o
-		imparare come eseguire un tuo personale nodo remoto a questo sito: https://Swapworld.com/<p>
+		imparare come eseguire un tuo personale nodo remoto a questo sito: https://autonode.xwp.fyi/<p>
         <p>Swap Go contiene già una lista di nodi remoti e tiene memoria degli ultimi cinque nodi utilizzati.</p>
         <h2>Portafogli</h2>
 	<p>Qui trovi la lista dei portafogli. I portafogli sono fisicamente posizionati nella cartella <tt>monerujo</tt>

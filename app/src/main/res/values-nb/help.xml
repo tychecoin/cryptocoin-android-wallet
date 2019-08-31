@@ -95,7 +95,7 @@
         <h2>Node</h2>
         <p>Swap Go bruker en ekstern node for å kommunisere med Swap-nettverket, uten å måtte
         laste ned og oppbevare en kopi av blokkjeden selv. Du kan finne en liste over populære
-        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://Swapworld.com/<p>
+        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://autonode.xwp.fyi/<p>
         <p>Swap Go kommer med noen eksterne noder lagt inn. Den husker de fem siste nodene du har brukt.</p>
         <h2>Lommebøker</h2>
         <p>Her ser du lommebøkene dine. De ligger i <tt>monerujo</tt> mappa

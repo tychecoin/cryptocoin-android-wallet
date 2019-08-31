@@ -107,7 +107,7 @@
         <h2>Server</h2>
         <p>Swap Go uses a Remote Node to communicate with the Swap Network without having
         to download and store a copy of the whole blockchain itself. You can find a list of popular
-        remote nodes or learn how to run your own remote node here https://Swapworld.com/<p>
+        remote nodes or learn how to run your own remote node here https://autonode.xwp.fyi/<p>
         <p>Swap Go comes with some Remote Nodes preset. It remembers the last five nodes used.</p>
         <h2>Rahakotid</h2>
         <p>Here you see your wallets. They are located in the <tt>monerujo</tt> folder
