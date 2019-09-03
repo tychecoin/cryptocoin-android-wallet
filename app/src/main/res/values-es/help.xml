@@ -91,7 +91,7 @@
         aplicación generará una CrAzYpass y asegurará los archivos de tu monedero con ella.
         ¡Por favor anótala bien!
         <h3>Monederos CrAzYpass</h3>
-        Si alguna vez necesitas reinstalar Swap Go (por ejemplo luego de restaurar tu teléfono
+        Si alguna vez necesitas reinstalar Swap Wallet (por ejemplo luego de restaurar tu teléfono
         o cambiar a uno nuevo) o si necesitas abrir los archivos de tu monedero en otro dispositivo
         o en una PC, vas a tener que usar esta Contraseña de Recuperación (CrAzYpass) para poder
         acceder a tu monedero otra vez.<br/>
@@ -108,10 +108,10 @@
     <string name="help_list"><![CDATA[
         <h1>Lista de monederos</h1>
         <h2>Nodo</h2>
-        <p>Swap Go utiliza un nodo remoto para comunicarse con la red de Swap sin tener que
+        <p>Swap Wallet utiliza un nodo remoto para comunicarse con la red de Swap sin tener que
         descargar y almacenar una copia completa de la cadena de bloques. Puedes encontrar una lista
         de nodos remotos populares o aprender como montar tu propio nodo remoto aquí https://Swapworld.com</p>
-        <p>Swap Go viene con un nodo remoto ya preconfigurado. También recuerda los últimos cinco
+        <p>Swap Wallet viene con un nodo remoto ya preconfigurado. También recuerda los últimos cinco
         nodos utilizados.</p>
         <h2>Monederos</h2>
         <p>Aquí puedes ver tus monederos. Están ubicados en el directorio <tt>monerujo</tt> del
@@ -175,8 +175,8 @@
         <h1>Enviar BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Swap a Bitcoin.
-        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Go. Por favor revisa
-        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Go
+        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Wallet. Por favor revisa
+        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Wallet
         no está asociado con XWP.TO y no puede ayudarte con su servicio.</p>
         <h2>Tipo de cambio XWP.TO<h2>
         <p>En la pantalla de \"Monto\" se te mostrará las condiciones actuales del servicio XWP.TO.
@@ -190,7 +190,7 @@
         tiempo limitado - notarás una cuenta atrás en el botón de \"Gastar\". El tipo de cambio a
         esta altura puede ser distinto al aproximado que era mostrado en pantallas anteriores.</p>
         <h2>Clave secreta XWP.TO<h2>
-        <p>Dado que Swap Go sólo administra la parte en Swap de tu transacción, puedes usar tu
+        <p>Dado que Swap Wallet sólo administra la parte en Swap de tu transacción, puedes usar tu
         clave secreta XWP.TO para rastrear la parte en Bitcoin de tu orden en la página de XWP.TO.</p>
         <p>Por favor ten en cuenta que esta clave secreta sólo es válida por 24 horas a partir de
         iniciada la transacción!</p>
@@ -204,8 +204,8 @@
         <h1>Enviar BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO es un servicio de terceros que actúa como casa de cambio de Swap a Bitcoin.
-        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Go. Por favor revisa
-        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Go
+        Usamos la API de XWP.TO para integrar pagos de Bitcoin dentro de Swap Wallet. Por favor revisa
+        https://xmr.to y decide por ti mismo si es un servicio que quieres usar. El equipo de Swap Wallet
         no está asociado con XWP.TO y no puede ayudarte con su servicio.</p>
         <h2>Tipo de cambio XWP.TO<h2>
         <p>En la pantalla de \"Monto\" se te mostrará las condiciones actuales del servicio XWP.TO.
@@ -219,7 +219,7 @@
         tiempo limitado - notarás una cuenta atrás en el botón de \"Gastar\". El tipo de cambio a
         esta altura puede ser distinto al aproximado que era mostrado en pantallas anteriores.</p>
         <h2>Clave secreta XWP.TO<h2>
-        <p>Dado que Swap Go sólo administra la parte en Swap de tu transacción, puedes usar tu
+        <p>Dado que Swap Wallet sólo administra la parte en Swap de tu transacción, puedes usar tu
         clave secreta XWP.TO para rastrear la parte en Bitcoin de tu orden en la página de XWP.TO.</p>
         <p>Por favor ten en cuenta que esta clave secreta sólo es válida por 24 horas a partir de
         iniciada la transacción!</p>
@@ -250,7 +250,7 @@
         que puedas ver que has enviado/recibido Swap.</p>
         <h2>Escaneado</h2>
         Como a Swap le gusta mantener las cosas privadas, cada vez que abres una cartera de
-        Swap Go es necesario escanear la cadena de bloques para ver si nuevos swap han sido
+        Swap Wallet es necesario escanear la cadena de bloques para ver si nuevos swap han sido
         enviados a tu dirección. Esto solo almacena en tu teléfono las transacciones que pertenecen a tu
         monedero. Esto puede llevar un rato si hace tiempo que no sincronizas.
         <h2>Saldo</h2>
@@ -267,14 +267,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nodos</h1>
         <h2>TL;DR</h2>
-        <p>Refresca la lista de nodos al mostrar los marcadores de nodos para permitir a Swap Go
+        <p>Refresca la lista de nodos al mostrar los marcadores de nodos para permitir a Swap Wallet
         elegir el mejor para ti.</p>
         <h2>¿Qué es un Nodo?h2>
-        <p>Swap Go usa un Nodo Remoto (algunas veces también llamado Daemon) para comunicarse con
+        <p>Swap Wallet usa un Nodo Remoto (algunas veces también llamado Daemon) para comunicarse con
         la red de Swap sin tener que descargar y almacenar una copia de la
         cadena de bloques completa.<p>
         <h2>Lista de Nodos</h2>
-        <p>Si la lista está vacía, puedes agregar nuevos nodos manualmente o dejar que Swap Go
+        <p>Si la lista está vacía, puedes agregar nuevos nodos manualmente o dejar que Swap Wallet
         escanee la red por ti. O ambos.</p>
         <p>La lista de nodos muestra todos los nodos actualmente conocidos. Adicionalmente, la marca de tiempo
         del último bloque conocido para cada nodo se muestra bajo el nombre del nodo. Un icono
@@ -283,10 +283,10 @@
         es mostrado seguido de cada nodo.</p>
         <p>Cualquier nodo en la lista puede ser marcado para un posterior uso.
         Nodos que no sean marcados serán olvidados.<p>
-        <p>Swap Go elegirá el nodo marcado óptimo cada vez que lo uses.
+        <p>Swap Wallet elegirá el nodo marcado óptimo cada vez que lo uses.
         Esto lo hace revisando la altura del bloque (¿qué tan al día
         está el nodo?) así como el comportamiento de respuesta (¿qué tan rápido responde el nodo a solicitudes?).</p>
-        <p>La lista se ordena por estas características, por lo tanto el primer nodo en la lista sería el que Swap Go
+        <p>La lista se ordena por estas características, por lo tanto el primer nodo en la lista sería el que Swap Wallet
         elegiría en ese momento. El final de la lista mostraría nodos muy lentos o no disponibles.</p>
         <h2>Agregar un Nodo</h2>
         <p>Presionando en el botón &quot;Agregar Nodo&quot; en la parte inferior, se te pedirá que
@@ -304,12 +304,12 @@
         Una vez que la prueba sea exitosa (sin error) - estás listo para presionar &quot;OK&quot; para guardar &amp;
         como marcador este nodo.</p>
         <h2>Escanear por Nodos</h2>
-        <p>Adicionalmente, puedes escanear la red por nodos. Swap Go empezará
+        <p>Adicionalmente, puedes escanear la red por nodos. Swap Wallet empezará
         escaneando la red por Nodos Remotos con puerto 19950. Comienza preguntando tus
         nodos marcados por otros compañeros en la red P2P de Swap y después continúa
         preguntando por nodos a ellos por sus compañeros, y así. Si no tienes nodos marcados
         (o no nos comunican sobre sus compañeros),
-        Swap Go irá directo a los nodos semilla de Swap codificados en Swap. El
+        Swap Wallet irá directo a los nodos semilla de Swap codificados en Swap. El
         escaneo parará cuando encuentre 10 nodos remotos en total.</p>
     ]]></string>
 

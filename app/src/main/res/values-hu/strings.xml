@@ -140,7 +140,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP függőben</string>
 
-    <string name="service_description">Swap Go szolgáltatás</string>
+    <string name="service_description">Swap Wallet szolgáltatás</string>
 
     <string name="status_synced">Szinkronizálva:</string>
     <string name="status_remaining">blokk van hátra</string>
@@ -169,10 +169,10 @@
         <strong>Ujjlenyomat-azonosítás</strong>
         <p>Az ujjlenyomat-azonosítás engedélyezésével jelszó megadása nélkül tekintheted meg a
         tárcaegyenleget és fogadhatsz pénzösszegeket.</p>
-        <p>A további biztonság érdekében ugyanakkor a Swap Go továbbra is jelszót fog kérni a
+        <p>A további biztonság érdekében ugyanakkor a Swap Wallet továbbra is jelszót fog kérni a
         tárca részletes adatainak megtekintése és a pénzküldés esetén.</p>
         <strong>Biztonsági figyelmeztetés</strong>
-        <p>A Swap Go felhívja a figyelmed arra, hogy az ujjlenyomatoddal rendelkező személy(ek)
+        <p>A Swap Wallet felhívja a figyelmed arra, hogy az ujjlenyomatoddal rendelkező személy(ek)
         megtekinthetik a tárcaegyenleged.</p>
         <p>Egy rosszhiszemű személy például megnyithatja a tárcádat míg te alszol.</p>
         <strong>Biztosan engedélyezni szeretnéd ezt a funckiót?</strong>

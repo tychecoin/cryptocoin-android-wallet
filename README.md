@@ -1,10 +1,10 @@
-# Swap Go
+# Swap Wallet
 Android Wallet for $XWP
 
 ### QUICKSTART
 - Download the APK for the most current release [here](https://github.com/swap-dev/swap-android-wallet/releases/latest) and install it
 - Run the App and tap + button to Create new wallet or restore from 25 word seeds
-- Advanced users can copy over synced wallet files (all files) onto sdcard in directory Swap Go (created first time App is started)
+- Advanced users can copy over synced wallet files (all files) onto sdcard in directory Swap Wallet (created first time App is started)
 - See the [FAQ](doc/FAQ.md)
 
 ### Disclaimer
@@ -13,7 +13,7 @@ You may lose all your $XWP if you use this App. Be cautious when spending on the
 ### Random Notes
 - works on the mainnet
 - use your own daemon - it's easy
-- Swap Go is the name of this Android Wallet for Swap
+- Swap Wallet is the name of this Android Wallet for Swap
 
 ### Issues / Pitfalls
 - Users of Zenfone MAX & Zenfone 2 Laser (possibly others) **MUST** use the armeabi-v7a APK as the arm64-v8a build uses hardware AES

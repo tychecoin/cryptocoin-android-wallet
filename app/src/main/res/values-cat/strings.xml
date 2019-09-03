@@ -142,7 +142,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP sense confirmar</string>
 
-    <string name="service_description">Servei de Swap Go</string>
+    <string name="service_description">Servei de Swap Wallet</string>
 
     <string name="status_synced">Sincronitzat:</string>
     <string name="status_remaining">Blocs restants</string>
@@ -171,10 +171,10 @@
         <strong>Autenticació d’empremta digitals</strong>
         <p>Amb l’autenticació d’empremta digital habilitada podeu veure el balanç del portamonedes i rebre fons
          sense la necessitat d'introduir la contrasenya.</p>
-        <p>Per a més seguretat, Swap Go encara us demanarà que introduïu la contrasenya per
+        <p>Per a més seguretat, Swap Wallet encara us demanarà que introduïu la contrasenya per
          veure els detalls del portamonedes o enviar fons.</p>
         <strong>Advertència de seguretat</strong>
-        <p>Finalment, Swap Go vol recordar-li que qualsevol que pugui obtenir la seva empremta digital serà
+        <p>Finalment, Swap Wallet vol recordar-li que qualsevol que pugui obtenir la seva empremta digital serà
          capaç d’observar el balanç del seu portamonedes.</p>
         <p>Per exemple, un usuari maliciós del vostre voltant pot obrir la vostra cartera quan esteu dormint.</p>
         <strong>Esteu segurs d'habilitar aquesta funcionalitat?</strong>

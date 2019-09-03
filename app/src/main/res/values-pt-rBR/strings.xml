@@ -141,7 +141,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP não confirmado</string>
 
-    <string name="service_description">Serviço Swap Go</string>
+    <string name="service_description">Serviço Swap Wallet</string>
 
     <string name="status_synced">Sincronizado:</string>
     <string name="status_remaining">Blocos restantes</string>
@@ -169,7 +169,7 @@
     <string name="generate_fingerprint_warn"><![CDATA[
         <strong>Autenticação por impressão digital</strong>
         <p>Com a autenticação por impressão digital ativa, é possível verificar o saldo e receber transações sem escrever a senha.</p>
-        <p>Porém por questões de segurança extra, o Swap Go seguirá solicitando sua senha para ver detalhes da carteira ou enviar transações.</p>
+        <p>Porém por questões de segurança extra, o Swap Wallet seguirá solicitando sua senha para ver detalhes da carteira ou enviar transações.</p>
         <strong>Aviso de Segurança</strong>
         <p>Queremos lembrar que qualquer pessoa com acesso às suas digitais poderá espiar o seu saldo.</p>
         <p>Por exemplo, uma pessoa com má intenção pode abrir sua carteira usando sua digital enquanto você dorme.</p>

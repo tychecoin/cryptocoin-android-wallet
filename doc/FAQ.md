@@ -46,7 +46,7 @@ They are never erased (for now). You can delete this whole folder from time to t
 Also, the backup folder named "`backups`" (formerly `.backups`) is never automatically cleaned up.
 You may want to do housekeeping manually with a file browser.
 
-All wallet files (`testnet` and `mainnet`) are stored in the main `Swap Go` folder.
+All wallet files (`testnet` and `mainnet`) are stored in the main `Swap Wallet` folder.
 So be careful erasing stuff. One of the future releases will split the wallets and move `testnet`
  wallets out of there.
 

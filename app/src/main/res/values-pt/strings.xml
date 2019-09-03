@@ -138,7 +138,7 @@
 
     <string name="xmr_unconfirmed_amount">+ %1$s XWP não confirmado</string>
 
-    <string name="service_description">Serviço Swap Go</string>
+    <string name="service_description">Serviço Swap Wallet</string>
 
     <string name="status_synced">Sincronizado:</string>
     <string name="status_remaining">Blocos remanescentes</string>
@@ -167,10 +167,10 @@
         <strong>Autenticação por impressão digital</strong>
         <p> Com a autenticação através da impressão digital, podes ver o teu saldo e receber fundos
             sem introduzir a palavra passe.</p>
-        <p>Mas para segurança adicional, o Swap Go vai sempre pedir para introduzir a palavra passe
+        <p>Mas para segurança adicional, o Swap Wallet vai sempre pedir para introduzir a palavra passe
         para ver os detalhes da carteira ou enviar fundos.</p>
         <strong>Aviso de segurança</strong>
-        <p> Finalmente, o Swap Go quer relembrar que qualquer pessoa que consiga obter a tua
+        <p> Finalmente, o Swap Wallet quer relembrar que qualquer pessoa que consiga obter a tua
         impressão digital vai conseguir cuscar o teu saldo da carteira.</p>
         <p> Por exemplo, um utilizador malicioso pode abrir a tua carteira enquanto estiveres a dormir.</p>
         <strong>Tens a certeza que queres activar esta funcionalidade?</strong>
