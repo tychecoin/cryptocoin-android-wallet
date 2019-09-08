@@ -359,9 +359,9 @@ public class GenerateFragment extends Fragment {
                 msg = R.string.password_strong;
             else
                 msg = R.string.password_very_strong;
-            etWalletPassword.setError(getResources().getString(msg));
+            etWalletPassword.setHint(getResources().getString(msg));
         } else {
-            etWalletPassword.setError(null);
+            etWalletPassword.setHint("Wallet Passphrase");
         }
     }
 
