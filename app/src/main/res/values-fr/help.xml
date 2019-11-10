@@ -138,7 +138,7 @@
         acheté.
         <h2>ID TX</h2>
         C’est votre ID de transaction, vous pouvez l’utiliser pour identifier vos transaction masquées
-        sur un explorateur de la chaîne de blocs Swap comme <a href="https://xmrchain.net/">https://xmrchain.net/</a>
+        sur un explorateur de la chaîne de blocs Swap comme <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
         <h2>Clef TX (Clef de Transaction)</h2>
         C’est la clef privée de votre transaction, conservez là en sécurité car la révéler à un
         tiers révèlerait quelle signature est la votre dans un cercle, et donc rendrait votre
@@ -159,7 +159,7 @@
             <li>une adresse BTC</li>
             <li>une URI bitcoin: (incluant BIP70 comme bitpay)</li>
         </u>
-        Notez que l’envoi de BTC est traité à travers le service XWP.TO (voir https://xmr.to pour
+        Notez que l’envoi de BTC est traité à travers le service XWP.TO (voir https://xwp.to pour
         plus de détails). Voir la rubrique sur l’envoi de BTC plus bas.</p>
         <h2>ID de Paiement</h2>
         <p>Vous pouvez utiliser un ID de paiement pour identifier la raison pour laquelle vous avez
@@ -170,7 +170,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
         Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Wallet. Veuillez
-        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
+        consulter https://xwp.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
         n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
         <h2>Taux de change XWP.TO<h2>
         <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
@@ -198,7 +198,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
         Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Wallet. Veuillez
-        consulter https://xmr.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
+        consulter https://xwp.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
         n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
         <h2>Taux de change XWP.TO<h2>
         <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
@@ -255,7 +255,7 @@
         solde sera temporairement affichée comme non confirmée.
         Cela se produit à cause de la façon dont Swap est échangé sur la chaîne de blocs et du
         fonctionnement de la monnaie dans Swap. Apprenez-en plus à propos de la monnaie dans Swap
-        sur https://getSwap.org/fr/resources/moneropedia/change.html
+        sur https://getmonero.org/fr/resources/moneropedia/change.html
         <h2>Liste des Transactions</h2>
         <p>Une listes des transactions du portefeuille. Dans un portefeuille d’Audit, seules les
         transactions entrantes sont affichées.</p>

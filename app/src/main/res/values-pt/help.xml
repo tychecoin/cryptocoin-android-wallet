@@ -127,7 +127,7 @@
         é que uma determinada transacção está a pagar.
         <h2>ID TX</h2>
         Este é o ID da tua Transacção que podes utilizar para identificar a tua transacção ofuscada
-        num explorador da Swap Blockchain como o <a href="https://xmrchain.net/">https://xmrchain.net/</a>
+        num explorador da Swap Blockchain como o <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
         <h2>Chave TX (Chave da Transacção)</h2>
         Esta é a chave privada da tua transacção, mantém-a segura já que revelá-la a um terceiro
         revela qual a tua assinatura num anel, fazendo com que a tua transacção seja transparente.
@@ -147,7 +147,7 @@
             <li>um endereço de BTC</li>
             <li>um enderço bitcoin: URI (incluindo BIP70 tipo bitpay)</li>
         </u>
-	Não deixar de notar que, enviar BTC é processado através do serviço XWP.TO (ver https://xmr.to
+	Não deixar de notar que, enviar BTC é processado através do serviço XWP.TO (ver https://xwp.to
 	para detalhes). Ver a secção enviar BTC.</p>
         <h2>ID do Pagamento</h2>
         <p>Utiliza-se o ID do Pagamento para identificar a razão porque foram transaccionados Swap.
@@ -157,7 +157,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO é um serviço de terceiros que funciona como intercâmbio de Swap para Bitcoin.
         Nós utilizamos a API do XWP.TO para integrar pagamentos de Bitcoin no Swap Wallet. Por favor
-        vai a https://xmr.to e decide por ti próprio se queres utilizar este serviço. A equipa
+        vai a https://xwp.to e decide por ti próprio se queres utilizar este serviço. A equipa
         do Swap Wallet não está associada com o XWP.TO e não te pode ajudar com este serviço.</p>
         <h2>Taxa de câmbio XWP.TO<h2>
         <p>No ecrã de \"Quantidade\" vais ver os parâmetros actuais do serviço XWP.TO. Estes
@@ -187,7 +187,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO é um serviço de terceiros que funciona como intercâmbio de Swap para Bitcoin.
         Nós utilizamos a API do XWP.TO para integrar pagamentos de Bitcoin no Swap Wallet. Por favor
-        vai a https://xmr.to e decide por ti próprio se queres utilizar este serviço. A equipa
+        vai a https://xwp.to e decide por ti próprio se queres utilizar este serviço. A equipa
         do Swap Wallet não está associada com o XWP.TO e não te pode ajudar com este serviço.</p>
         <h2>Taxa de câmbio XWP.TO<h2>
         <p>No ecrã de \"Quantidade\" vais ver os parâmetros actuais do serviço XWP.TO. Estes

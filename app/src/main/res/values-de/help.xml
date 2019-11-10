@@ -130,7 +130,7 @@
 		Zum Beispiel kann ein Unternehmen damit Zahlungen und Verkäufe miteinander verbinden.
         <h2>TX-ID</h2>
         Dies ist deine Transaktions-ID, die du benutzen kannst, um verschleierte Transaktionen mit einem Swap-
-        Blockchain-Explorer wie <a href="https://xmrchain.net/">https://xmrchain.net/</a> zu identifizieren.
+        Blockchain-Explorer wie <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a> zu identifizieren.
         <h2>TX-Schlüssel (Transaktionsschlüssel)</h2>
         Dies ist dein geheimer Transaktionsschlüssel. Bewahre ihn sicher auf, da er Dritten deine Signatur in einem Ring offenbart 
 	und deshalb deine Transaktionen transparent macht.
@@ -150,7 +150,7 @@
             <li>eine BTC-Adresse</li>
             <li>eine Bitcoin: URI (inklusive BIP70 – wie BitPay)</li>
         </u>
-        nutzen. Beachte bitte, dass das Senden von BTC über den Service von XWP.TO erfolgt. (Siehe https://xmr.to
+        nutzen. Beachte bitte, dass das Senden von BTC über den Service von XWP.TO erfolgt. (Siehe https://xwp.to
         für Details). Weitere Details sind weiter unten unter "BTC senden".</p>
         <h2>Zahlungs-ID</h2>
         <p>Du kannst eine Zahlungs-ID benutzen, um den Grund einer Transaktion zwischen zwei Parteien zu identifizieren. Dies ist optional
@@ -159,7 +159,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO ist ein Drittanbieter-Service, welcher als Wechselservice von Swap zu Bitcoin fungiert.
         Wir nutzen die XWP.TO-Schnittstelle, um Bitcoin-Zahlungen in Swap Wallet zu integrieren. Bitte schaue dir
-        https://xmr.to an und entscheide selbst, ob du diesen Service nutzen willst. Das Swap Wallet-Team
+        https://xwp.to an und entscheide selbst, ob du diesen Service nutzen willst. Das Swap Wallet-Team
         gehört nicht zu XWP.TO und kann keinen Support für dessen Service bieten.</p>
         <h2>XWP.TO-Wechselkurs<h2>
         <p>Auf dem \"Menge\" Bildschirm siehst du die aktuellen Werte des XWP.TO-Service. Diese beinhalten den aktuellen Tauschkurs
@@ -185,7 +185,7 @@
         <h2>XWP.TO</h2>
         <p>XWP.TO ist ein Drittanbieter-Service, der als Wechselservice von Swap zu Bitcoin fungiert.
         Wir verwenden die XWP.TO-Schnittstelle, um Bitcoin-Zahlungen in Swap Wallet zu integrieren. Bitte sieh dir
-        https://xmr.to an und entscheide selbst, ob es etwas ist, was du verwenden möchtest. Das Swap Wallet-Team
+        https://xwp.to an und entscheide selbst, ob es etwas ist, was du verwenden möchtest. Das Swap Wallet-Team
         ist nicht mit XWP.TO verbunden und kann keinen Support für dessen Service bieten.</p>
         <h2>XWP.TO-Wechselkurs<h2>
         <p>Auf dem Bildschirm \"Menge\" werden dir die aktuellen Parameter des XWP.TO-Dienstes angezeigt. Diese

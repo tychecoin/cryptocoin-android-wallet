@@ -134,7 +134,7 @@
 	Ad esempio può aiutare un venditore ad associare una transazione ricevuta ad un bene da te acquistato.
         <h2>TX ID (ID di Transazione)</h2>
 	Questo è l&apos;ID della transazione che puoi usare per identificare la tua transazione offuscata su un explorer della
-	blockchain Swap, ad esempio <a href="https://xmrchain.net/">https://xmrchain.net/</a>
+	blockchain Swap, ad esempio <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
         <h2>TX KEY (Chiave di transazione)</h2>
 	Questa è la tua chiave privata della transazione. Conservala al sicuro poiché rivelare questa chiave a terze
 	parti rivela quale firma in un anello è la tua, rendendo quindi la tua transazione trasparente.
@@ -154,7 +154,7 @@
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XWP.TO service (see https://xmr.to
+        Please note, that sending BTC is processed through the XWP.TO service (see https://xwp.to
         for details). See the section on sending BTC below.</p>
         <h2>ID Pagamento</h2>
 	<p>Puoi usare un ID Pagamento per identificare la causale della transazione. Questa è un&apos;informazione
@@ -162,7 +162,7 @@
         <h1>Inviare BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO è un servizio di terze parti che funziona come cambiavaluta da Swap a Bitcoin.
-		Utilizziamo le API XWP.TO per integrare pagamenti Bitcoin all&apos;interno di Swap Wallet. Controlla https://xmr.to
+		Utilizziamo le API XWP.TO per integrare pagamenti Bitcoin all&apos;interno di Swap Wallet. Controlla https://xwp.to
 		e decidi tu stesso se questa è una funzionalità che vuoi usare. Il team Swap Wallet non è associato in alcun modo
 		con XWP.TO e non è in grado di aiutarti con il servizio da loro offerto.</p>
         <h2>Tasso di cambio XWP.TO<h2>
@@ -188,7 +188,7 @@
         <h1>Inviare BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO è un servizio di terze parti che funziona come cambiavaluta da Swap a Bitcoin.
-		Utilizziamo le API XWP.TO per integrare pagamenti Bitcoin all&apos;interno di Swap Wallet. Controlla https://xmr.to e decidi
+		Utilizziamo le API XWP.TO per integrare pagamenti Bitcoin all&apos;interno di Swap Wallet. Controlla https://xwp.to e decidi
 		tu stesso se questa è una funzionalità che vuoi usare. Il team Swap Wallet non è associato in alcun modo con XWP.TO e
 		non è in grado di aiutarti con il servizio da loro offerto.</p>
         <h2>Tasso di cambio XWP.TO<h2>
@@ -239,7 +239,7 @@
         Nessuna paura! Quando invii fondi dal tuo portafoglio, parte del tuo saldo viene temporaneamente visualizzato come non-confermato.
 		Questo è un effetto di come Swap viene scambiato sulla blockchain e di come funzionano i resti.
         Ulteriori informazioni sui resti su
-        https://getSwap.org/it/resources/moneropedia/change.html
+        https://getmonero.org/it/resources/moneropedia/change.html
         <h2>Lista delle transazioni</h2>
 	<p>Una lista delle transazioni relative al portafoglio. Nei portafogli solo-visualizzazione, vengono visualizzate solo
 		le transazioni in ingresso.</p>

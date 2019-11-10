@@ -117,7 +117,7 @@
         med något du köpt.
         <h2>TX ID</h2>
         Det här är ditt Transaktions-ID, det kan du använda för att identifiera förvirrande
-        transaktioner på Blockkedjeutforskare som <a href="https://xmrchain.net/">https://xmrchain.net/</a>
+        transaktioner på Blockkedjeutforskare som <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
         <h2>TX Nyckel (Transaktionsnyckel)</h2>
         Det här är din transaktions privatnyckel, förvara den här säkert eftersom tillgång till
         den avslöjar vilken signatur i en ring som är din.
@@ -137,7 +137,7 @@
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XWP.TO service (see https://xmr.to
+        Please note, that sending BTC is processed through the XWP.TO service (see https://xwp.to
         for details). See the section on sending BTC below.</p>
         <h2>Betalnings-ID</h2>
         <p>Du kan använda ett Betalnings-ID för att identifiera anledningen du skickat Swap till någon,
@@ -146,7 +146,7 @@
         <h1>Skicka BTC</h1>
         <h2>XWP.TO</h2>
         <p>XWP.TO är en tredjeparts tjänst som byter ut Swap mot Bitcoin. Vi använder XWP.TO API:n
-        för att integrera Bitcoin betalningar i Swap Wallet. Vänligen besök https://xmr.to och bestäm
+        för att integrera Bitcoin betalningar i Swap Wallet. Vänligen besök https://xwp.to och bestäm
         för dig själv om det är någonting du vill använda. Swap Wallet laget är inte associerad med
         XWP.TO och kan inte hjälpa dig med deras tjänst.</p>
         <h2>XWP.TO Växelkurs<h2>
@@ -171,7 +171,7 @@
 
     <string name="help_xmrto"><![CDATA[
       <p>XWP.TO är en tredjeparts tjänst som byter ut Swap mot Bitcoin. Vi använder XWP.TO API:n
-      för att integrera Bitcoin betalningar i Swap Wallet. Vänligen besök https://xmr.to och bestäm
+      för att integrera Bitcoin betalningar i Swap Wallet. Vänligen besök https://xwp.to och bestäm
       för dig själv om det är någonting du vill använda. Swap Wallet laget är inte associerad med
       XWP.TO och kan inte hjälpa dig med deras tjänst.</p>
       <h2>XWP.TO Växelkurs<h2>
