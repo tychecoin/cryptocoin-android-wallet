@@ -7,7 +7,7 @@ android {
         applicationId "com.swap.xwpwallet"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 101
+        versionCode 102
         versionName "3.1.0 'Greater Roadrunner'"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
