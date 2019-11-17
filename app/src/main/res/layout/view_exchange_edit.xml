@@ -26,7 +26,6 @@
             android:layout_gravity="center|start"
             android:layout_marginStart="16dp"
             android:layout_weight="3"
-            android:hint="@string/send_amount_hint"
             android:imeOptions="actionDone"
             android:inputType="numberDecimal"
             android:padding="4dp"
