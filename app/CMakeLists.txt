@@ -157,15 +157,15 @@ set_target_properties(net PROPERTIES IMPORTED_LOCATION
 
 add_library(hardforks STATIC IMPORTED)
 set_target_properties(hardforks PROPERTIES IMPORTED_LOCATION
-        ${EXTERNAL_LIBS_DIR}/monero/lib/${ANDROID_ABI}/libhardforks.a)
+        ${EXTERNAL_LIBS_DIR}/swap/lib/${ANDROID_ABI}/libhardforks.a)
 
 add_library(randomx STATIC IMPORTED)
 set_target_properties(randomx PROPERTIES IMPORTED_LOCATION
-        ${EXTERNAL_LIBS_DIR}/monero/lib/${ANDROID_ABI}/librandomx.a)
+        ${EXTERNAL_LIBS_DIR}/swap/lib/${ANDROID_ABI}/librandomx.a)
 
 add_library(rpc_base STATIC IMPORTED)
 set_target_properties(rpc_base PROPERTIES IMPORTED_LOCATION
-        ${EXTERNAL_LIBS_DIR}/monero/lib/${ANDROID_ABI}/librpc_base.a)
+        ${EXTERNAL_LIBS_DIR}/swap/lib/${ANDROID_ABI}/librpc_base.a)
 
 #############
 # System
