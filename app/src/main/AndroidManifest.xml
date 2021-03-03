@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.swap.xwpwallet">
+    package="com.cryptocoin.cryptowallet">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -44,7 +44,7 @@
 
             <intent-filter android:label="@string/app_name">
                 <action android:name="android.intent.action.VIEW" />
-                <data android:scheme="swap" />
+                <data android:scheme="cryptocoin" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -67,7 +67,7 @@
             android:name=".service.WalletService"
             android:description="@string/service_description"
             android:exported="false"
-            android:label="Swap Wallet Service" />
+            android:label="Cryptocoin Wallet Service" />
 
         <provider
             android:name="android.support.v4.content.FileProvider"

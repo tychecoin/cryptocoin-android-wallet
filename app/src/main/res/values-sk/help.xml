@@ -2,14 +2,14 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Vytvoriť Peňaženku - Novú</h1>
-        <p>Ak Ti treba novú Swap adresu!</p>
+        <p>Ak Ti treba novú Cryptocoin adresu!</p>
         <p>Vlož unikátny názov a heslo peňaženky.
         Heslo je určené na zabezpečenie dát peňaženky v tomto zariadení. 
 		Používaj silné heslo - alebo ešte lepšie je použiť frázu.</p>
         <h2>Zapíš si mnemotechnický Seed!</h2>
         <p>Na nasledujúcej obrazovke uvidíš svoj 25-slovný \"Mnemotechnický Seed\".
         Sú to dáta potrebné na obnovenie peňaženky a získanie prístupu k Tvojim prostriedkom.
-		Bezpečné uloženie a utajenie týchto dát je veľmi dôležité, keďže pomocou nich <em>hocikto</em> môže získať kontrolu nad vašimi XWP!</p>
+		Bezpečné uloženie a utajenie týchto dát je veľmi dôležité, keďže pomocou nich <em>hocikto</em> môže získať kontrolu nad vašimi CRYPTO!</p>
         <p>Ak stratíš heslo do peňaženky, ešte stále si môžeš obnoviť peňaženku so svojím mnemotechnickým Seedom.</p>
         <p>Ak stratíš mnemotechnický Seed, neexistuje spôsob ako ho odvodiť a všetky Tvoje mince sú navždy stratené!
         Tento Seed sa nikdy nemôže zmeniť a v prípade, že je ukradnutý, alebo inak skompromitovaný, budeš musieť presunúť svoje mince do novej peňaženky (s novým mnemotechnickým Seedom).
@@ -18,7 +18,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Vytvoriť Peňaženku - Seed</h1>
-        <p>Ak už máš Swap adresu a chceš obnoviť transakcie z blockchain!</p>
+        <p>Ak už máš Cryptocoin adresu a chceš obnoviť transakcie z blockchain!</p>
         <p>Vlož unikátny názov a heslo peňaženky. 
 		Heslo je určené na zabezpečenie dát peňaženky v tomto zariadení. 
 		Používaj silné heslo - alebo ešte lepšie je použiť frázu.</p>
@@ -33,7 +33,7 @@
         <p>Vlož unikátny názov a heslo peňaženky. 
 		Heslo je určené na zabezpečenie dát peňaženky v tomto zariadení. 
 		Používaj silné heslo - alebo ešte lepšie je použiť frázu.<p>
-		<p>Vlož svoju Swap adresu do poľa \"Verejná Adresa\" a vyplň \"Prezerací Kľúč\" and  \"Platobný Kľúč\".</p>
+		<p>Vlož svoju Cryptocoin adresu do poľa \"Verejná Adresa\" a vyplň \"Prezerací Kľúč\" and  \"Platobný Kľúč\".</p>
         <p>Ak poznáš číslo bloku svojej prvej transakcie pre túto adresu, vlož ho do poľa \"Obnov Výšku\" - zanechaním prázdneho poľa budeš skenovať <em>celú</em> blockchain,
 		aby si našiel transakcie prislúchajúce tejto adrese. To môže trvať <em>veľmi</em> dlho.</p>
 		<p>Vlož sem číslo bloku prvej transakcie pre túto adresu do políčka \"Obnov Výšku\". Môžeš tiež použiť dátum vo formáte YYYY-MM-DD. 
@@ -55,7 +55,7 @@
         <p>Ak chceš iba sledovať prichádzajúce transakcie!</p>
         <p>Vlož unikátny názov a heslo peňaženky. Heslo je určené na zabezpečenie dát peňaženky v tomto zariadení. 
         Používaj silné heslo - alebo ešte lepšie je použiť frázu.<p>
-        <p>Vlož svoju Swap adresu do poľa \"Verejná Adresa\" a vyplň \"Prezerací Kľúč\".</p>
+        <p>Vlož svoju Cryptocoin adresu do poľa \"Verejná Adresa\" a vyplň \"Prezerací Kľúč\".</p>
         <p>Ak poznáš číslo bloku svojej prvej transakcie pre túto adresu, vlož ho do poľa \"Obnov Výšku\". Môžeš tiež použiť dátum vo formáte YYYY-MM-DD. 
 		Ak to nevieš naisto, vlož približný dátum/číslo bloku <em>pred</em> tým ako si prvýkrát použil danú adresu.
 		Zanechaním prázdneho poľa budeš skenovať <em>celú</em> blockchain, aby si našiel transakcie prislúchajúce tejto adrese. To môže trvať <em>veľmi</em> dlho.</p>
@@ -65,10 +65,10 @@
         <h1>Detaily Peňaženky</h1>
         <h2>Verejná Adresa</h2>
         Vaša verejná adresa je niečo ako číslo bakového účtu, ktoré môžte zdieľať bez toho aby ste sa báli,
-		že prídete o svoje Swap. Ľudia vám budú posielať Swap práve na túto adresu.
+		že prídete o svoje Cryptocoin. Ľudia vám budú posielať Cryptocoin práve na túto adresu.
         <h2>Mnemotechnický Seed</h2>
         Tieto dáta sú potrebné len na obnovu peňaženky a získanie plného prístupu k vašim prostriedkom.
-		Bezpečné uloženie a utajenie týchto dát je veľmi dôležité, keďže pomocou nich <em>hocikto</em> môže získať kontrolu nad vašimi XWP!
+		Bezpečné uloženie a utajenie týchto dát je veľmi dôležité, keďže pomocou nich <em>hocikto</em> môže získať kontrolu nad vašimi CRYPTO!
 		Ak to ešte nemáš zapísané a uložené niekde na bezpečnom mieste, urob tak čo najskôr!
         <h2>Heslo pre súbory peňaženky</h2>
         Uisti sa, že si si heslo zapísal. Ak resetuješ zariadenie, alebo odinštaluješ appku, budeš ho potrebovať na prístup do peňaženky.
@@ -84,7 +84,7 @@
 		Po vložení novej prístupovej frázy (aj pri tej istej ako predtým), aplikácia ti vygeneruje
 		CrAzYpass a zabezpečí s ním súbory peňaženky. Zapísať!
         <h3>CrAzYpass peňaženky</h3>
-        Ak budeš potrebovať niekedy preinštalovať Swap Wallet (napríklad po resetovaní telefónu alebo pri výmene za iný),
+        Ak budeš potrebovať niekedy preinštalovať Cryptocoin Wallet (napríklad po resetovaní telefónu alebo pri výmene za iný),
 		alebo ak chceš použiť súbory peňaženky na inom zariadení či PC, budeš musieť
 		použiť toto heslo pre obnovu na opätovný prístup do svojej peňaženky.<br/>
         Označením \"Zmeň Frázu\ z menu, môžeš vybrať inú prístupovú frázu. Tu pozor, pretože to vygenereuje nové heslo pre obnovu.
@@ -93,17 +93,17 @@
         Tvoj prezerací kľúč (view key) môžeš používať na sledovanie prichádzajúcich transakcií do peňaženky,
 		zatiaľ čo míňať prostriedky tento prezerací kľúč neumožňuje.
 		<h2>Platobný Kľúč</h2>
-        Platobný Kľúč (spend key) umožňuje míňať Swap prislúchajúce danej peňaženke,
+        Platobný Kľúč (spend key) umožňuje míňať Cryptocoin prislúchajúce danej peňaženke,
 		takže ho nikomu nepredrádzaj a uchovaj rovnako bezpečne ako svoj mnemotechnický seed.
 	]]></string>
 
     <string name="help_list"><![CDATA[
         <h1>Zoznam Peňaženiek</h1>
         <h2>Uzol</h2>
-        <p>Swap Wallet používa vzdialené uzly na komunikáciu so sieťou Swap. Nie je tak potrebné sťahovať
+        <p>Cryptocoin Wallet používa vzdialené uzly na komunikáciu so sieťou Cryptocoin. Nie je tak potrebné sťahovať
 		a ukladať celú blockchain ako takú. Zoznam populárnych uzlov spolu s návodmi ako ich rozbehať môžeš nájsť na 
-		https://autonode.xwp.fyi/<p>
-        <p>Swap Wallet prichádza s niekoľkými prednastavenými uzlami. Pamätá si posledných 5 použitých uzlov.</p>
+		https://autonode.crypto.fyi/<p>
+        <p>Cryptocoin Wallet prichádza s niekoľkými prednastavenými uzlami. Pamätá si posledných 5 použitých uzlov.</p>
         <h2>Peňaženky</h2>
         <p>Tu vidíš svoje peňaženky. Sú umiestnené v adresári <tt>monerujo</tt> na internom úložisku Tvojho zariadenia.
         Môžeš použiť súborový manažér telefónu na ich vyhľadanuie a zobrazenie.
@@ -113,7 +113,7 @@
         <h3>Detaily</h3>
         <p>ukáže detaily peňaženky, seed &amp; kľúče.</p>
         <h3>Prijať</h3>
-        <p>Vytvorí QR kód na prijímanie Swap.</p>
+        <p>Vytvorí QR kód na prijímanie Cryptocoin.</p>
         <h3>Premenuj</h3>
         <p>Premenuje peňaženku. Zálohy nie sú premenované.</p>
         <h3>Záloha</h3>
@@ -129,12 +129,12 @@
     <string name="help_tx_details"><![CDATA[
         <h1>Detaily Transakcie</h1>
         <h2>Destinácia</h2>
-        Toto je verejná adresa peňaženky kde chceš poslať Swap.
+        Toto je verejná adresa peňaženky kde chceš poslať Cryptocoin.
 		<h2>ID Platby</h2>
         Môžeš použiť ID Platby na identifikáciu platby medzi dvoma stranami. Nie je to síce povinný, ale je to súkromný údaj.
-		Tak napríklad s týmto môžeš zosúladiť svoj biznis s kúpenou položkou. Táto funkcia bude v Swap nahradená podadresami.
+		Tak napríklad s týmto môžeš zosúladiť svoj biznis s kúpenou položkou. Táto funkcia bude v Cryptocoin nahradená podadresami.
         <h2>TX ID</h2>
-        Toto je ID transakcie, ktoré slúži na identifikáciu transakcie v Swap blockchain exploreri, ako napr. <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
+        Toto je ID transakcie, ktoré slúži na identifikáciu transakcie v Cryptocoin blockchain exploreri, ako napr. <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
         <h2>TX KĽÚČ (Transaction Key)</h2>
         Toto je Tvoj súkromný kľúč transakcie, uchovaj ho bezpečne a neposkytuj ho tretím stranám,
 		aby nemohli identifikovať tvoj podpis v kruhovom podpise a spraviť tak transakciu verejnú a transparentnú.		
@@ -146,65 +146,65 @@
     <string name="help_send"><![CDATA[
         <h1>Poslať</h1>
         <h2>Adresa Príjemcu</h2>
-        <p>Toto je verejná adresa peňaženky kam posielaš Swap. Môžeš ju kopírovať zo schránky, skenovať QR kód alebo vložiť manuálne.
+        <p>Toto je verejná adresa peňaženky kam posielaš Cryptocoin. Môžeš ju kopírovať zo schránky, skenovať QR kód alebo vložiť manuálne.
 		Trikrát sa uisti, že neposielaš mince na zlú adresu.</p>
-        <p>Okrem XWP adries, môžte použiť tiež
+        <p>Okrem CRYPTO adries, môžte použiť tiež
         <ul>
-            <li>OpenAlias pre XWP či BTC</li>
+            <li>OpenAlias pre CRYPTO či BTC</li>
             <li>BTC adresu</li>
             <li>bitcoin: URI (vrátane BIP70 ako bitpay)</li>
         </u>
-        Nezabúdajte, že posielanie BTC prebieha cez službu XWP.TO (detaily na https://xwp.to). Pozri sekciu nižšie o posielaní BTC</p>
+        Nezabúdajte, že posielanie BTC prebieha cez službu CRYPTO.TO (detaily na https://crypto.to). Pozri sekciu nižšie o posielaní BTC</p>
         <h2>ID Platby</h2>
         <p>ID Platby môžeš použiť na identifikáciu platby medzi dvoma stranami.
 		Nie je to síce povinný, ale je to súkromný údaj.
         Môžeš tak napríklad prelinkovať transakciu s tovarom, alebo so svojim biznisom.<p>
         <h1>Posielanie BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO je služba tretej strany, ktorá umožňuje zámenu z Swap na Bitcoin.
-        Používame XWP.TO API na integráciu Bitcoin platieb do Swap Wallet. Prosím mrkni na 
-		https://xwp.to a rozhodni sa sám, či je to naozaj služba, ktorú chceš používať.
-		Tím Swap Wallet nie je nijako spojený so službou XWP.TO a teda nemôže pomôcť s prípadnými problémami s touto službou.</p>
-        <h2>XWP.TO Výmenný Kurz<h2>
-        <p>Na obrazovke \"Množstvo\" uvidíš aktuálne parametre služby XWP.TO, vrátane aktuálneho kurzu BTC, hornej a dolnej hranice.
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO je služba tretej strany, ktorá umožňuje zámenu z Cryptocoin na Bitcoin.
+        Používame CRYPTO.TO API na integráciu Bitcoin platieb do Cryptocoin Wallet. Prosím mrkni na 
+		https://crypto.to a rozhodni sa sám, či je to naozaj služba, ktorú chceš používať.
+		Tím Cryptocoin Wallet nie je nijako spojený so službou CRYPTO.TO a teda nemôže pomôcť s prípadnými problémami s touto službou.</p>
+        <h2>CRYPTO.TO Výmenný Kurz<h2>
+        <p>Na obrazovke \"Množstvo\" uvidíš aktuálne parametre služby CRYPTO.TO, vrátane aktuálneho kurzu BTC, hornej a dolnej hranice.
 		Podotýkame, že tento kurz nie je garantovaný.
-		Tiež tam možno vidieť množstvo BTC, ktoré budú zamieňané instantne bez čakania na potvrdenia v Swap sieti. 
-	    (pozri XWP.TO FAQ ). XWP.TO si neúčtuje ďalšie extra poplatky za transakciu. - No nie je to cool?</p>
-        <h2>XWP.TO Objednávka<h2>
-        <p>Na obrazovke \"Potvrdiť\", uvidíš aktuálnu objednávku v XWP.TO. Táto objednávka je platná iba obmedzený čas - ako si môžeš všimnúť odpočítavanie na tlačítku \"Minúť\". 
+		Tiež tam možno vidieť množstvo BTC, ktoré budú zamieňané instantne bez čakania na potvrdenia v Cryptocoin sieti. 
+	    (pozri CRYPTO.TO FAQ ). CRYPTO.TO si neúčtuje ďalšie extra poplatky za transakciu. - No nie je to cool?</p>
+        <h2>CRYPTO.TO Objednávka<h2>
+        <p>Na obrazovke \"Potvrdiť\", uvidíš aktuálnu objednávku v CRYPTO.TO. Táto objednávka je platná iba obmedzený čas - ako si môžeš všimnúť odpočítavanie na tlačítku \"Minúť\". 
 		Výmenný kurz sa môže líšiť od toho, ktorý bol na predošlých obrazovkách.</p>
-        <h2>XWP.TO Tajný Kľúč<h2>
-        <p>Keďže Swap Wallet dbá len na tú časť transakcie, ktorá pracuje s Swap, 
-		tento XWP.TO Tajný Kľúč sa môže využívať na sledovanie Bitcoinovej časti transakcie a objednávky
-		na domovskej stránke XWP.TO</p>
+        <h2>CRYPTO.TO Tajný Kľúč<h2>
+        <p>Keďže Cryptocoin Wallet dbá len na tú časť transakcie, ktorá pracuje s Cryptocoin, 
+		tento CRYPTO.TO Tajný Kľúč sa môže využívať na sledovanie Bitcoinovej časti transakcie a objednávky
+		na domovskej stránke CRYPTO.TO</p>
         <p>Ber na vedomie, že tento Tajný Kľúč je platný iba 24 hodín od začiatku transakcie!</p>
-        <h2>XWP.TO Odpočítavanie!</h2>
-        <p>Akonáhle odpočítavanie dosiahne nulu, budeš potrebovať nový kľúč z XWP.TO návratom na predchádzajúci krok a obrazovku \"Potvrdiť\" .</p>
+        <h2>CRYPTO.TO Odpočítavanie!</h2>
+        <p>Akonáhle odpočítavanie dosiahne nulu, budeš potrebovať nový kľúč z CRYPTO.TO návratom na predchádzajúci krok a obrazovku \"Potvrdiť\" .</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
         <h1>Posielanie BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO  je služba tretej strany umožňujúca zámenu Swap na Bitcoin.
-        Používame XWP.TO API na integráciu Bitcoin platieb do Swap Wallet. Prosím mrkni na https://xwp.to 
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO  je služba tretej strany umožňujúca zámenu Cryptocoin na Bitcoin.
+        Používame CRYPTO.TO API na integráciu Bitcoin platieb do Cryptocoin Wallet. Prosím mrkni na https://crypto.to 
 		a rozhodni sa sám, či to je niečo, čo chceš používať. 
-		Tím Swap Wallet nie je nijako spojený so službou XWP.TO a teda nemôže pomôcť s prípadnými problémami s touto službou.</p>
-        <h2>XWP.TO Výmenný Kurz<h2>
-        <p>na obrazovke \"Množstvo\" uvidíš aktuálne parametre služby XWP.TO, vrátane aktuálneho kurzu BTC, hornej a dolnej hranice.
+		Tím Cryptocoin Wallet nie je nijako spojený so službou CRYPTO.TO a teda nemôže pomôcť s prípadnými problémami s touto službou.</p>
+        <h2>CRYPTO.TO Výmenný Kurz<h2>
+        <p>na obrazovke \"Množstvo\" uvidíš aktuálne parametre služby CRYPTO.TO, vrátane aktuálneho kurzu BTC, hornej a dolnej hranice.
 		Pamätaj, že tento kurz nie je garantovaný. Tiež tam možno vidieť množstvo BTC,
-		ktoré budú zamieňané instantne bez čakania na potvrdenia v Swap sieti.
-		(pozri XWP.TO FAQ ). XWP.TO si neúčtuje ďalšie extra poplatky za transakciu. - No nie je to cool?</p>
-        <h2>XWP.TO Objednávka<h2>
-        <p>Na obrazovke \"Potvrdiť\" , uvidíš aktuálnu objednávku v XWP.TO. 
+		ktoré budú zamieňané instantne bez čakania na potvrdenia v Cryptocoin sieti.
+		(pozri CRYPTO.TO FAQ ). CRYPTO.TO si neúčtuje ďalšie extra poplatky za transakciu. - No nie je to cool?</p>
+        <h2>CRYPTO.TO Objednávka<h2>
+        <p>Na obrazovke \"Potvrdiť\" , uvidíš aktuálnu objednávku v CRYPTO.TO. 
 		Táto objednávka je platná iba obmedzený čas - ako si môžeš všimnúť odpočítavanie na tlačítku \"Minúť\".
 		Výmenný kurz sa môže líšiť od toho, ktorý bol na predošlých obrazovkách.</p>
-		<h2>XWP.TO Tajný Kľúč<h2>
-        <p>Keďže Swap Wallet dbá len na tú časť transakcie, ktorá pracuje s Swap, 
-		tento XWP.TO Tajný Kľúč sa môže využívať na sledovanie Bitcoinovej časti transakcie a objednávky
-		na domovskej stránke XWP.TO</p>
+		<h2>CRYPTO.TO Tajný Kľúč<h2>
+        <p>Keďže Cryptocoin Wallet dbá len na tú časť transakcie, ktorá pracuje s Cryptocoin, 
+		tento CRYPTO.TO Tajný Kľúč sa môže využívať na sledovanie Bitcoinovej časti transakcie a objednávky
+		na domovskej stránke CRYPTO.TO</p>
         <p>Ber na vedomie, že tento Tajný Kľúč je platný iba 24 hodín od začiatku transakcie!</p>
-        <h2>XWP.TO Odpočítavanie!</h2>
-        <p>Akonáhle odpočítavanie dosiahne nulu, budeš potrebovať nový kľúč z XWP.TO návratom na predchádzajúci krok a obrazovku \"Potvrdiť\" .</p>
+        <h2>CRYPTO.TO Odpočítavanie!</h2>
+        <p>Akonáhle odpočítavanie dosiahne nulu, budeš potrebovať nový kľúč z CRYPTO.TO návratom na predchádzajúci krok a obrazovku \"Potvrdiť\" .</p>
     ]]></string>
 
     <string name="help_wallet"><![CDATA[
@@ -216,13 +216,13 @@
 		aby ste mohli vidieť či vám odoslalo a dorazilo všetko správne.</p>
 
         <h2>Skenovanie</h2>
-        Keďže Swap obľubuje súkromie, zakaždým pri otváraní Swap Wallet musíme skenovať blockchain aby sme videli, či nedorazili nové Monerá.
-		Swap Wallet uchováva len tie informácie, ktoré prislúchajú vašej peňaženke. Pokiaľ nemáte sychronizovanú peňaženku dlhší čas, synchronizácia môže trvať dlho.
+        Keďže Cryptocoin obľubuje súkromie, zakaždým pri otváraní Cryptocoin Wallet musíme skenovať blockchain aby sme videli, či nedorazili nové Monerá.
+		Cryptocoin Wallet uchováva len tie informácie, ktoré prislúchajú vašej peňaženke. Pokiaľ nemáte sychronizovanú peňaženku dlhší čas, synchronizácia môže trvať dlho.
         <h2>Zostatok</h2>
         <p><b>Pomóc! Zostatok v mojej peňaženke zmizol, alebo je nepotvrdený!</b><br/>
         Nestresuj! Keď odosielaš prostriedky zo svojej peňaženky, časť zostatku sa dočasne ukáže ako nepotvrdená.
 
-        Súvisí to s tým, ako je Swap navrhnuté a ako funguje zmena v blockchain.
+        Súvisí to s tým, ako je Cryptocoin navrhnuté a ako funguje zmena v blockchain.
 
 		Viac o zmenách sa dočítaš (anglicky) na https://getmonero.org/resources/moneropedia/change.html
         <h2>Zoznam Transakcií</h2>
@@ -232,16 +232,16 @@
     <string name="help_node"><![CDATA[
         <h1>Uzly</h1>
         <h2>TL;DR</h2>
-        <p>Aktuálny zoznam uzlov získaš tak, že potiahneš a pridáš do záložiek 5 uzlov, z ktorých si Swap Wallet jeden vyberie.</p>
+        <p>Aktuálny zoznam uzlov získaš tak, že potiahneš a pridáš do záložiek 5 uzlov, z ktorých si Cryptocoin Wallet jeden vyberie.</p>
         <h2>Čo je Uzol?</h2>
-        <p>Swap Wallet používa vzdialený uzol (Remote Node, niekedy nazývaný aj Daemon) a peňaženka tak môže komunikovať so sieťou Swap bez toho, aby bolo potrebné sťahovať celú blockchain.<p>
+        <p>Cryptocoin Wallet používa vzdialený uzol (Remote Node, niekedy nazývaný aj Daemon) a peňaženka tak môže komunikovať so sieťou Cryptocoin bez toho, aby bolo potrebné sťahovať celú blockchain.<p>
         <h2>Zoznam Uzlov</h2>
-        <p>Ak je zoznam prázdny, môžeš zadať adresu uzla manuálne, alebo môžeš nechať Swap Wallet preskúmať celú sieť. Prípadne oboje. Čítaj ďalej&#8230;</p>
+        <p>Ak je zoznam prázdny, môžeš zadať adresu uzla manuálne, alebo môžeš nechať Cryptocoin Wallet preskúmať celú sieť. Prípadne oboje. Čítaj ďalej&#8230;</p>
         <p>Zoznam uzlov zobrazuje všetky momentálne známe uzly. Pod každým uzlom je zobrazená časová pečiatka jeho posledného bloku.
 		Vedľa je ikonka nodu, ktorá indikuje úroveň pripojenia.</p>
         <p>Ktorýkoľvek uzol v zozname si môžte pridať do záložiek pre budúce použitie. Uzly, ktoré nebudú uložené, sa z pamäte vymažú.<p>
-        <p>Swap Wallet vyberie jeden z uložených uzlov pri každom použití. Skontroluje výšku bloku (blockheight) týchto uzlov a zistí, ktorý uzol je ako aktualizovaný, ako dlho trvá odpoveď a podľa toho vyberie pre vás optimálny uzol.</p>
-        <p>Podľa týchto charakteristík je dané aj zoradenie v zozname. Prvý uzol bude ten, ktorý Swap Wallet vybral práve teraz. Naspodku bude veľmi pomalý uzol s pomalou odozvou, alebo nedostupné uzly.</p>
+        <p>Cryptocoin Wallet vyberie jeden z uložených uzlov pri každom použití. Skontroluje výšku bloku (blockheight) týchto uzlov a zistí, ktorý uzol je ako aktualizovaný, ako dlho trvá odpoveď a podľa toho vyberie pre vás optimálny uzol.</p>
+        <p>Podľa týchto charakteristík je dané aj zoradenie v zozname. Prvý uzol bude ten, ktorý Cryptocoin Wallet vybral práve teraz. Naspodku bude veľmi pomalý uzol s pomalou odozvou, alebo nedostupné uzly.</p>
         <h2>Pridať Uzol</h2>
         <p>Dotykom na tlačítko &quot;Pridať Uzol&quot; vložíte detaily vlastného uzla.
         &quot;Adresa&quot; je hostname alebo IP-adresa uzla. Je to jediné povinné pole.
@@ -251,17 +251,17 @@
         To by malo stačiť na testovanie týchto nastavení. &quot;Test&quot;
         &quot;Výsledky Testu&quot; zobrazia výšku, čas odozvy a aktuálnu IP adresu uzla.
         Vo výsledku môže byť tiež chyba - zvyčajne preto, že uzol nie je dostupný, neodpovedá v požadovanom čase, alebo prihlasovacie údaje nie sú správne.
-		Prípadne kombinácia zadanej adresy a portu neprislúcha žiadnemu uzlu Swap siete!
+		Prípadne kombinácia zadanej adresy a portu neprislúcha žiadnemu uzlu Cryptocoin siete!
         Akonáhle test skončí úspešne (žiadna chyba sa neobjaví) - klepni na &quot;OK&quot; a ulož si daný uzol.</p>
         <h2>Vyhľadať Uzol</h2>
-        <p>Táto funkcia umožní vyhľadať uzol skenovaním Swap siete. Swap Wallet začne skenovať sieť a vyhľadávať vzdialené uzly na porte 19950.
-		Začína tým, že sa opýta uzlov vo vašich záložkách na ďalšie uzly v P2P sieti Swap, ktoré sú s nimi spojené, tých sa opýta zas na ďalšie uzly atď. 
-		V prípade, že nemáte žiadne uzly vo svojich záložkách, Swap Wallet bude skúšať uzly (seed nodes) natvrdo zapísané v kóde Swap. Vyhľadávanie končí ak Swap Wallet nájde aspoň 10 vzdialených uzlov.</p>
+        <p>Táto funkcia umožní vyhľadať uzol skenovaním Cryptocoin siete. Cryptocoin Wallet začne skenovať sieť a vyhľadávať vzdialené uzly na porte 19950.
+		Začína tým, že sa opýta uzlov vo vašich záložkách na ďalšie uzly v P2P sieti Cryptocoin, ktoré sú s nimi spojené, tých sa opýta zas na ďalšie uzly atď. 
+		V prípade, že nemáte žiadne uzly vo svojich záložkách, Cryptocoin Wallet bude skúšať uzly (seed nodes) natvrdo zapísané v kóde Cryptocoin. Vyhľadávanie končí ak Cryptocoin Wallet nájde aspoň 10 vzdialených uzlov.</p>
     ]]></string>
 
     <string name="help_uri"><![CDATA[
         <h1>Používanie platobného linku</h1>
-        <p>Swap Wallet je spustené z platobného linku. Ak chceš posielať prostriedky, postupuj nasledovne:</p>
+        <p>Cryptocoin Wallet je spustené z platobného linku. Ak chceš posielať prostriedky, postupuj nasledovne:</p>
         <p>
         1. Otvor peňaženku z ktorej chceš platiť<br>
         2. Počkaj kým sa peňaženka zosynchronizuje a zobrazí sa tlačítko "Poslať" <br>

@@ -35,52 +35,52 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>Hai inserito un indirizzo Bitcoin.</b><br/>
-        <i>Invierai XWP e il destinatario riceverà BTC tramite il servizio <b>XWP.TO</b>.</i>
+        <i>Invierai CRYPTO e il destinatario riceverà BTC tramite il servizio <b>CRYPTO.TO</b>.</i>
     ]]></string>
 
-    <string name="info_send_xmrto_success_order_label">Ordine XWP.TO</string>
+    <string name="info_send_xmrto_success_order_label">Ordine CRYPTO.TO</string>
 
     <string name="info_send_xmrto_success_btc">%1$s BTC</string>
 
 
     <string name="info_send_xmrto_paid">In attesa di conferma</string>
     <string name="info_send_xmrto_unpaid">In attesa del pagamento</string>
-    <string name="info_send_xmrto_error">Errore XWP.TO (%1$s)</string>
+    <string name="info_send_xmrto_error">Errore CRYPTO.TO (%1$s)</string>
     <string name="info_send_xmrto_sent">BTC Inviati!</string>
     <string name="info_send_xmrto_query">Richiedendo &#8230;</string>
 
     <string name="info_send_xmrto_parms"><![CDATA[
         <b>Puoi inviare %1$s &#8212; %2$s BTC</b>.<br/>
-        <i><b>XWP.TO</b> ti sta <u>attualmente</u> concedendo un tasso di cambio di <b>%3$s BTC</b></i>.
+        <i><b>CRYPTO.TO</b> ti sta <u>attualmente</u> concedendo un tasso di cambio di <b>%3$s BTC</b></i>.
     ]]></string>
     <string name="info_send_xmrto_zeroconf"><![CDATA[
         <i>Ammontare fino a <b>%1$s BTC</b> inviati <u>istantaneamente</u>!</i>
     ]]></string>
 
-    <string name="send_available_btc">Saldo: %2$s BTC (%1$s XWP)</string>
+    <string name="send_available_btc">Saldo: %2$s BTC (%1$s CRYPTO)</string>
 
     <string name="info_paymentid_integrated">&#x2714; ID pagamento integrato</string>
     <string name="info_prepare_tx">Preparando la tua transazione</string>
 
-    <string name="label_send_progress_xmrto_create">Creando l\'ordine XWP.TO</string>
-    <string name="label_send_progress_xmrto_query">Richiedendo l\'ordine XWP.TO</string>
+    <string name="label_send_progress_xmrto_create">Creando l\'ordine CRYPTO.TO</string>
+    <string name="label_send_progress_xmrto_query">Richiedendo l\'ordine CRYPTO.TO</string>
     <string name="label_send_progress_create_tx">Preparando la transazione Monero</string>
 
-    <string name="label_send_progress_queryparms">Richiedendo i parametri XWP.TO</string>
+    <string name="label_send_progress_queryparms">Richiedendo i parametri CRYPTO.TO</string>
 
-    <string name="label_generic_xmrto_error">ERRORE XWP.TO</string>
+    <string name="label_generic_xmrto_error">ERRORE CRYPTO.TO</string>
     <string name="text_generic_xmrto_error">Codice: %1$d</string>
 
     <string name="text_retry">Tocca per riprovare</string>
     <string name="text_noretry_monero">Ora siamo bloccati qui!!</string>
-    <string name="text_noretry">Oh Oh, XWP.TO sembra non essere disponibile in questo momento!</string>
+    <string name="text_noretry">Oh Oh, CRYPTO.TO sembra non essere disponibile in questo momento!</string>
 
-    <string name="text_send_btc_amount">%1$s BTC = %2$s XWP</string>
-    <string name="text_send_btc_rate">(Tasso: %1$s BTC/XWP)</string>
+    <string name="text_send_btc_amount">%1$s BTC = %2$s CRYPTO</string>
+    <string name="text_send_btc_rate">(Tasso: %1$s BTC/CRYPTO)</string>
 
     <string name="label_send_btc_xmrto_info">Visita xmr.to per supporto e tracciamento</string>
-    <string name="label_send_btc_xmrto_key_lb">Chiave segreta\nXWP.TO</string>
-    <string name="label_send_btc_xmrto_key">Chiave segreta XWP.TO</string>
+    <string name="label_send_btc_xmrto_key_lb">Chiave segreta\nCRYPTO.TO</string>
+    <string name="label_send_btc_xmrto_key">Chiave segreta CRYPTO.TO</string>
     <string name="label_send_btc_address">Indirizzo BTC di destinazione</string>
     <string name="label_send_btc_amount">Ammontare</string>
 
@@ -140,9 +140,9 @@
     <string name="label_wallet_receive">Ricevi</string>
     <string name="label_wallet_send">Invia</string>
 
-    <string name="xmr_unconfirmed_amount">+ %1$s XWP non confermati</string>
+    <string name="xmr_unconfirmed_amount">+ %1$s CRYPTO non confermati</string>
 
-    <string name="service_description">Servizio Swap Wallet</string>
+    <string name="service_description">Servizio Cryptocoin Wallet</string>
 
     <string name="status_synced">Sincronizzati:</string>
     <string name="status_remaining">Blocchi rimanenti</string>
@@ -154,14 +154,14 @@
 
     <string name="label_copy_viewkey">Chiave di visualizzazione</string>
     <string name="label_copy_address">Indirizzo pubblico</string>
-    <string name="label_copy_xmrtokey">Chiave XWP.TO</string>
+    <string name="label_copy_xmrtokey">Chiave CRYPTO.TO</string>
     <string name="message_copy_viewkey">Chiave di visualizzazione copiata negli appunti!</string>
-    <string name="message_copy_xmrtokey">Chiave XWP.TO copiata negli appunti!</string>
+    <string name="message_copy_xmrtokey">Chiave CRYPTO.TO copiata negli appunti!</string>
     <string name="message_copy_address">Indirizzo del portafoglio copiato negli appunti!</string>
     <string name="message_copy_txid">ID transazione copiato negli appunti!</string>
     <string name="message_nocopy">Copia disabilitata per ragioni di sicurezza!</string>
 
-    <string name="message_exchange_failed">Impossibile recuperare il tasso di cambio!\nUsa XWP/XWP o prova di nuovo</string>
+    <string name="message_exchange_failed">Impossibile recuperare il tasso di cambio!\nUsa CRYPTO/CRYPTO o prova di nuovo</string>
 
     <string name="generate_title">Crea portafoglio</string>
     <string name="generate_name_hint">Nome del portafoglio</string>
@@ -171,10 +171,10 @@
         <strong>Autenticazione tramite impronta digitale</strong>
         <p>Abilitando l\'autenticazione tramite impronta digitale, puoi visualizzare il tuo saldo e ricevere fondi
         senza inserire la password.</p>
-        <p>Per sicurezza aggiuntiva, Swap Wallet richiederà comunque di inserire la password per visualizzare i dettagli
+        <p>Per sicurezza aggiuntiva, Cryptocoin Wallet richiederà comunque di inserire la password per visualizzare i dettagli
         del tuo portafoglio o inviare denaro.</p>
         <strong>Avviso di sicurezza</strong>
-        <p>Infine, Swap Wallet ci tiene a ricordarti che chiunque sia in grado di procurarsi la tua impronta digitale
+        <p>Infine, Cryptocoin Wallet ci tiene a ricordarti che chiunque sia in grado di procurarsi la tua impronta digitale
         sarà in grado anche di sbirciare il saldo del tuo portafoglio.</p>
         <p>Per esempio, un utente malintenzionato potrebbe aprire il tuo portafoglio mentre dormi.</p>
         <strong>Sei sicuro/a di voler abilitare questa funzione?</strong>
@@ -219,25 +219,25 @@
     <string name="send_amount_hint">0,00</string>
     <string name="send_notes_hint">Note private (opzionali)</string>
     <string name="send_generate_paymentid_hint">Genera</string>
-    <string name="send_send_label">Spendi i miei bei Swap</string>
-    <string name="send_send_timed_label">Spendi i miei bei Swap (%1$s)</string>
+    <string name="send_send_label">Spendi i miei bei Cryptocoin</string>
+    <string name="send_send_timed_label">Spendi i miei bei Cryptocoin (%1$s)</string>
     <string name="send_qr_invalid">Non è un codice QR</string>
     <string name="send_qr_address_invalid">Non è un codice QR pagamento valido</string>
     <string name="send_address_invalid">Non è un indirizzo valido</string>
     <string name="send_title">Invia</string>
-    <string name="send_available">Saldo: %1$s XWP</string>
+    <string name="send_available">Saldo: %1$s CRYPTO</string>
     <string name="send_address_title">Indirizzo</string>
     <string name="send_amount_title">Ammontare</string>
     <string name="send_confirm_title">Conferma</string>
     <string name="send_success_title">Fatto</string>
 
     <string name="send_amount_label">Ammontare</string>
-    <string name="send_fee_btc_label">Commissione (XWP)</string>
+    <string name="send_fee_btc_label">Commissione (CRYPTO)</string>
     <string name="send_fee_label">Commissione</string>
-    <string name="send_total_btc_label">Totale (XWP)</string>
+    <string name="send_total_btc_label">Totale (CRYPTO)</string>
     <string name="send_total_label">Totale</string>
 
-    <string name="send_amount">%1$s XWP</string>
+    <string name="send_amount">%1$s CRYPTO</string>
     <string name="send_fee">+%1$s di commissione</string>
 
     <string name="send_create_tx_error_title">Errore nella creazione della transazione</string>
@@ -275,7 +275,7 @@
 
     <string name="receive_amount_too_big">Max. %1$s</string>
     <string name="receive_amount_negative">Min. 0</string>
-    <string name="receive_amount_nan">XWP non è un numero</string>
+    <string name="receive_amount_nan">CRYPTO non è un numero</string>
 
     <string name="details_alert_message">Verranno ora mostrati dati sensibili.\nGuardati alle spalle!</string>
     <string name="details_alert_yes">Sono al sicuro</string>
@@ -372,7 +372,7 @@
     <!-- please verify this means "Receiver" or "Recipient" as in "Receiver in the transaction" -->
     <string name="send_address_hint">Ricevente</string>
 
-    <string name="xmrto_error_001">XWP.TO è offline - prova più tardi</string>
+    <string name="xmrto_error_001">CRYPTO.TO è offline - prova più tardi</string>
     <string name="xmrto_error_004">Ammontare in BTC fuori dai limiti</string>
     <string name="xmrto_error_010">URL di pagamento obsoleto o invalido</string>
     <string name="xmrto_error_012">Troppe richieste</string>

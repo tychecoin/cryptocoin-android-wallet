@@ -2,7 +2,7 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Portemonnee maken - Nieuw</h1>
-        <p>Als je een nieuw Swap-adres nodig hebt.</p>
+        <p>Als je een nieuw Cryptocoin-adres nodig hebt.</p>
         <p>Voer een unieke naam en wachtwoord in.
         Met het wachtwoord worden de gegevens in je portemonnee op dit apparaat beveiligd. Gebruik een sterk wachtwoord - of liever een wachtzin van meerdere woorden.</p>
         <h2>Schrijf je hersteltekst op!</h2>
@@ -16,7 +16,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Portemonnee maken - Hersteltekst</h1>
-        <p>Als je al een Swap-adres hebt en de transacties wilt ophalen vanuit de blockchain.</p>
+        <p>Als je al een Cryptocoin-adres hebt en de transacties wilt ophalen vanuit de blockchain.</p>
         <p>Voer een unieke naam en wachtwoord in. Met het wachtwoord worden de gegevens in je portemonnee op dit apparaat beveiligd.
         Gebruik een sterk wachtwoord - of liever een wachtzin van meerdere woorden.</p>
         <p>Voer je hersteltekst in het veld \"Hersteltekst\" in.<p>
@@ -33,10 +33,10 @@
 
     <string name="help_create_keys"><![CDATA[
         <h1>Portemonnee maken - Sleutels</h1>
-        <p>Als je een Swap-adres herstelt met je sleutels.</p>
+        <p>Als je een Cryptocoin-adres herstelt met je sleutels.</p>
         <p>Voer een unieke naam en wachtwoord in. Met het wachtwoord worden de gegevens in je portemonnee op dit apparaat beveiligd.
         Gebruik een sterk wachtwoord - of liever een wachtzin van meerdere woorden.</p>
-        <p>Voer je Swap-adres in het veld \"Openbaar adres\" in, en vul de velden \"Alleen-lezen sleutel\" en \"Bestedingssleutel\" in.<p>
+        <p>Voer je Cryptocoin-adres in het veld \"Openbaar adres\" in, en vul de velden \"Alleen-lezen sleutel\" en \"Bestedingssleutel\" in.<p>
         <p>Voer in het veld \"Herstelpunt\" het bloknummer in van de eerste transactie die voor dit adres is gebruikt. Je kunt ook een datum gebruiken, met de indeling JJJJ-MM-DD. Als je het niet zeker weet, kun je een schatting invoeren van de datum/blokhoogte <em>voordat</em> je het adres van deze portemonnee voor het eerst hebt gebruikt.</p>
     ]]></string>
 
@@ -45,16 +45,16 @@
         <p>Als je alleen de binnenkomende transacties voor een portemonnee wilt bekijken.</p>
         <p>Voer een unieke naam en wachtwoord in. Met het wachtwoord worden de gegevens in je portemonnee op dit apparaat beveiligd.
         Gebruik een sterk wachtwoord - of liever een wachtzin van meerdere woorden.</p>
-        <p>Voer je Swap-adres in het veld \"Openbaar adres\" in, en vul het veld \"Alleen-lezen sleutel\" in.<p>
+        <p>Voer je Cryptocoin-adres in het veld \"Openbaar adres\" in, en vul het veld \"Alleen-lezen sleutel\" in.<p>
         <p>Voer in het veld \"Herstelpunt\" het bloknummer in van de eerste transactie die voor dit adres is gebruikt. Je kunt ook een datum gebruiken, met de indeling JJJJ-MM-DD. Als je het niet zeker weet, kun je een schatting invoeren van de datum/blokhoogte <em>voordat</em> je het adres van deze portemonnee voor het eerst hebt gebruikt.</p>
     ]]></string>
 
     <string name="help_details"><![CDATA[
         <h1>Portemonneegegevens</h1>
         <h2>Openbaar adres</h2>
-        Je openbare adres is te vergelijken met een bankrekeningnummer dat je aan iedereen kunt geven zonder het risico te lopen dat je je swap kwijtraakt. Anderen gebruiken dit adres om swap naar jouw portemonnee te sturen.
+        Je openbare adres is te vergelijken met een bankrekeningnummer dat je aan iedereen kunt geven zonder het risico te lopen dat je je cryptocoin kwijtraakt. Anderen gebruiken dit adres om cryptocoin naar jouw portemonnee te sturen.
         <h2>Hersteltekst</h2>
-        Dit is het enige dat je nodig hebt om later je portemonnee te herstellen en volledige toegang tot je geld te krijgen. Het is belangrijk om deze gegevens verborgen te houden, want hiermee kan <em>iedereen</em> volledige toegang tot je swap krijgen. Als je de hersteltekst nog niet hebt opgeschreven op een veilige plek, doe het dan nu!
+        Dit is het enige dat je nodig hebt om later je portemonnee te herstellen en volledige toegang tot je geld te krijgen. Het is belangrijk om deze gegevens verborgen te houden, want hiermee kan <em>iedereen</em> volledige toegang tot je cryptocoin krijgen. Als je de hersteltekst nog niet hebt opgeschreven op een veilige plek, doe het dan nu!
         <h2>Wachtwoord voor portemonneebestanden</h2>
         Zorg dat je dit wachtwoord opschrijft. Als je dit apparaat opnieuw instelt of de app verwijdert, heb je dit wachtwoord nodig om je portemonnee weer te gebruiken.<br/>
         <h3>CrAzYpass</h3>
@@ -64,19 +64,19 @@
         <h3>Ouderwets wachtwoord</h3>
         Als je wachtzin hierbij staat, zijn je portemonneebestanden niet zo goed beveiligd als wanneer je CrAzYpass gebruikt. Selecteer \"Wachtzin wijzigen\" in het menu om dit op te lossen. Nadat je een nieuwe wachtzin hebt ingevoerd (of dezelfde als de vorige keer), wordt er een nieuwe CrAzYpass voor je gegenereerd, waarmee je portemonneebestanden worden beveiligd. Schrijf deze op!
         <h3>Portemonnee met CrAzYpass</h3>
-        Als je Swap Wallet ooit opnieuw moet installeren (bijvoorbeeld als je je telefoon opnieuw hebt ingesteld of als je een nieuwe telefoon hebt) of als je je portemonneebestanden op een ander apparaat of een computer wilt gebruiken, moet je dit herstelwachtwoord invoeren om weer toegang tot je portemonnee te krijgen.<br/>
+        Als je Cryptocoin Wallet ooit opnieuw moet installeren (bijvoorbeeld als je je telefoon opnieuw hebt ingesteld of als je een nieuwe telefoon hebt) of als je je portemonneebestanden op een ander apparaat of een computer wilt gebruiken, moet je dit herstelwachtwoord invoeren om weer toegang tot je portemonnee te krijgen.<br/>
         Door \"Wachtzin wijzigen\" te selecteren in het menu kun je een andere wachtzin kiezen. Let op: hierdoor wordt een nieuw herstelwachtwoord gegenereerd. Schrijf het op!
         <h2>Alleen-lezen sleutel</h2>
         Met je alleen-lezen sleutel kunnen binnenkomende transacties voor je portemonnee worden gevolgd zonder toestemming te geven om het geld in je portemonnee uit te geven.
         <h2>Bestedingssleutel</h2>
-        Met je bestedingssleutel kan iedereen de swap in je portemonnee uitgeven. Laat deze sleutel dus aan niemand zien; bewaar hem veilig, net als je hersteltekst.
+        Met je bestedingssleutel kan iedereen de cryptocoin in je portemonnee uitgeven. Laat deze sleutel dus aan niemand zien; bewaar hem veilig, net als je hersteltekst.
     ]]></string>
 
     <string name="help_list"><![CDATA[
         <h1>Portemonneelijst</h1>
         <h2>Node</h2>
-        <p>Swap Wallet gebruikt een externe node om te communiceren met het Swap-netwerk zonder zelf een exemplaar van de hele blockchain te hoeven downloaden en opslaan. Hier vind je een lijst met populaire externe nodes, of kun je leren hoe je er zelf een draait: https://autonode.xwp.fyi/<p>
-        <p>Bepaalde externe nodes zijn vooraf ingesteld in Swap Wallet. De laatste vijf gebruikte nodes worden onthouden.</p>
+        <p>Cryptocoin Wallet gebruikt een externe node om te communiceren met het Cryptocoin-netwerk zonder zelf een exemplaar van de hele blockchain te hoeven downloaden en opslaan. Hier vind je een lijst met populaire externe nodes, of kun je leren hoe je er zelf een draait: https://autonode.crypto.fyi/<p>
+        <p>Bepaalde externe nodes zijn vooraf ingesteld in Cryptocoin Wallet. De laatste vijf gebruikte nodes worden onthouden.</p>
         <h2>Portemonnees</h2>
         <p>Hier worden je portemonnees weergegeven. Ze zijn opgeslagen in de map <tt>monerujo</tt> in de interne opslag van je apparaat. Je kunt ze vinden in een bestandenverkenner-app.
         Maak regelmatig back-ups van deze map naar opslag elders, voor het geval dat je apparaat in brand vliegt of wordt gestolen.</p>
@@ -85,7 +85,7 @@
         <h3>Details</h3>
         <p>Details, hersteltekst en sleutels weergeven.</p>
         <h3>Ontvangen</h3>
-        <p>Een QR-code maken voor het ontvangen van swap.</p>
+        <p>Een QR-code maken voor het ontvangen van cryptocoin.</p>
         <h3>Hernoemen</h3>
         <p>De portemonnee een andere naam geven. De naam van back-ups wordt niet veranderd.</p>
         <h3>Back-up</h3>
@@ -97,11 +97,11 @@
     <string name="help_tx_details"><![CDATA[
         <h1>Transactiedetails</h1>
         <h2>Bestemming</h2>
-        Dit is het openbare adres van de portemonnee waarnaar je Swap verstuurt.
+        Dit is het openbare adres van de portemonnee waarnaar je Cryptocoin verstuurt.
         <h2>Betalings-ID</h2>
-        Je kunt een Betalings-ID gebruiken om aan te geven waarom je Swap verzendt. Dit is volledig optioneel en blijft vertrouwelijk tussen beide partijen. Een bedrijf kan bijvoorbeeld jouw transactie koppelen aan een artikel dat je hebt gekocht.
+        Je kunt een Betalings-ID gebruiken om aan te geven waarom je Cryptocoin verzendt. Dit is volledig optioneel en blijft vertrouwelijk tussen beide partijen. Een bedrijf kan bijvoorbeeld jouw transactie koppelen aan een artikel dat je hebt gekocht.
         <h2>Transactie-ID</h2>
-        Met je transactie-ID kun je de versleutelde transactie vinden in een Swap-blockexplorer, bijvoorbeeld <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
+        Met je transactie-ID kun je de versleutelde transactie vinden in een Cryptocoin-blockexplorer, bijvoorbeeld <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
         <h2>Transactiesleutel</h2>
         Dit is de geheime sleutel van je transactie. Bewaar deze veilig, want als iemand bekendmaakt welke handtekening in een ring van jou is, wordt je transactie openbaar.
         <h2>Blok</h2>
@@ -111,46 +111,46 @@
     <string name="help_send"><![CDATA[
         <h1>Verzenden</h1>
         <h2>Adres ontvanger</h2>
-        <p>Dit is het openbare adres van de portemonnee waar je swap naartoe stuurt. Je kunt dit kopiëren via het klembord, een QR-code scannen of het adres handmatig invoeren. Controleer dit nauwkeurig om er zeker van te zijn dat je geen geld naar het verkeerde adres stuurt.</p>
-        <p>In addition to using an XWP address, you can also use
+        <p>Dit is het openbare adres van de portemonnee waar je cryptocoin naartoe stuurt. Je kunt dit kopiëren via het klembord, een QR-code scannen of het adres handmatig invoeren. Controleer dit nauwkeurig om er zeker van te zijn dat je geen geld naar het verkeerde adres stuurt.</p>
+        <p>In addition to using an CRYPTO address, you can also use
         <ul>
-            <li>an OpenAlias for XWP or BTC</li>
+            <li>an OpenAlias for CRYPTO or BTC</li>
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XWP.TO service (see https://xwp.to
+        Please note, that sending BTC is processed through the CRYPTO.TO service (see https://crypto.to
         for details). See the section on sending BTC below.</p>
         <h2>Betalings-ID</h2>
-        <p>Je kunt een Betalings-ID gebruiken om aan te geven waarom je Swap verzendt. Dit is volledig optioneel en blijft vertrouwelijk tussen beide partijen. Een bedrijf kan bijvoorbeeld jouw transactie koppelen aan een artikel dat je hebt gekocht.<p>
+        <p>Je kunt een Betalings-ID gebruiken om aan te geven waarom je Cryptocoin verzendt. Dit is volledig optioneel en blijft vertrouwelijk tussen beide partijen. Een bedrijf kan bijvoorbeeld jouw transactie koppelen aan een artikel dat je hebt gekocht.<p>
         <h1>BTC verzenden</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO is een externe service waarmee je Swap kunt inwisselen voor Bitcoin.
-        We gebruiken de API van XWP.TO om Bitcoin-betalingen te integreren in Swap Wallet. Neem eens een kijkje op https://xwp.to en besluit zelf of je dit wilt gebruiken. Het Swap Wallet-team is niet verbonden aan XWP.TO en kan je niet helpen met deze service.</p>
-        <h2>Wisselkoers XWP.TO<h2>
-        <p>Op het scherm \"Bedrag\" worden de huidige waarden voor het gebruik van XWP.TO weergegeven. Hierbij staat de huidige wisselkoers, maar ook het maximale en minimale BTC-bedrag. Houd er rekening mee dat deze koers op dit moment nog niet wordt gegarandeerd. Je ziet hier ook het maximale bedrag waarvoor de BTC-transactie meteen wordt uitgevoerd zonder te wachten op XWP-bevestigingen (zie de FAQ van XWP.TO voor meer informatie). En het mooiste is dat XWP.TO geen extra transactiekosten rekent. Hoe cool is dat?</p>
-        <h2>XWP.TO-opdracht<h2>
-        <p>Op het scherm \"Bevestigen\" wordt de eigenlijke XWP.TO-opdracht weergegeven. Deze opdracht is geldig voor een beperkte tijd. Er wordt afgeteld op de knop \"Uitgeven\". De wisselkoers kan hier anders zijn dan de schatting die op eerdere schermen is weergegeven.</p>
-        <h2>Geheime sleutel XWP.TO<h2>
-        <p>Omdat Swap Wallet alleen het Swap-gedeelte van je transactie verwerkt, kun je je geheime sleutel voor XWP.TO gebruiken om het Bitcoin-gedeelte van de opdracht te volgen op de XWP.TO-website.</p>
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO is een externe service waarmee je Cryptocoin kunt inwisselen voor Bitcoin.
+        We gebruiken de API van CRYPTO.TO om Bitcoin-betalingen te integreren in Cryptocoin Wallet. Neem eens een kijkje op https://crypto.to en besluit zelf of je dit wilt gebruiken. Het Cryptocoin Wallet-team is niet verbonden aan CRYPTO.TO en kan je niet helpen met deze service.</p>
+        <h2>Wisselkoers CRYPTO.TO<h2>
+        <p>Op het scherm \"Bedrag\" worden de huidige waarden voor het gebruik van CRYPTO.TO weergegeven. Hierbij staat de huidige wisselkoers, maar ook het maximale en minimale BTC-bedrag. Houd er rekening mee dat deze koers op dit moment nog niet wordt gegarandeerd. Je ziet hier ook het maximale bedrag waarvoor de BTC-transactie meteen wordt uitgevoerd zonder te wachten op CRYPTO-bevestigingen (zie de FAQ van CRYPTO.TO voor meer informatie). En het mooiste is dat CRYPTO.TO geen extra transactiekosten rekent. Hoe cool is dat?</p>
+        <h2>CRYPTO.TO-opdracht<h2>
+        <p>Op het scherm \"Bevestigen\" wordt de eigenlijke CRYPTO.TO-opdracht weergegeven. Deze opdracht is geldig voor een beperkte tijd. Er wordt afgeteld op de knop \"Uitgeven\". De wisselkoers kan hier anders zijn dan de schatting die op eerdere schermen is weergegeven.</p>
+        <h2>Geheime sleutel CRYPTO.TO<h2>
+        <p>Omdat Cryptocoin Wallet alleen het Cryptocoin-gedeelte van je transactie verwerkt, kun je je geheime sleutel voor CRYPTO.TO gebruiken om het Bitcoin-gedeelte van de opdracht te volgen op de CRYPTO.TO-website.</p>
         <p>Houd er rekening mee dat deze geheime sleutel maar 24 uur geldig is nadat de transactie is gestart!</p>
-        <h2>XWP.TO telt af!</h2>
-        <p>Als de knop heeft afgeteld naar nul, moet je een nieuw aanbod van XWP.TO aanvragen. Ga daarvoor terug naar de vorige stap en open het scherm \"Bevestigen\" opnieuw.</p>
+        <h2>CRYPTO.TO telt af!</h2>
+        <p>Als de knop heeft afgeteld naar nul, moet je een nieuw aanbod van CRYPTO.TO aanvragen. Ga daarvoor terug naar de vorige stap en open het scherm \"Bevestigen\" opnieuw.</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
         <h1>BTC verzenden</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO is een externe service waarmee je Swap kunt inwisselen voor Bitcoin.
-        We gebruiken de API van XWP.TO om Bitcoin-betalingen te integreren in Swap Wallet. Neem eens een kijkje op https://xwp.to en besluit zelf of je dit wilt gebruiken. Het Swap Wallet-team is niet verbonden aan XWP.TO en kan je niet helpen met deze service.</p>
-        <h2>Wisselkoers XWP.TO<h2>
-        <p>Op het scherm \"Bedrag\" worden de huidige waarden voor het gebruik van XWP.TO weergegeven. Hierbij staat de huidige wisselkoers, maar ook het maximale en minimale BTC-bedrag. Houd er rekening mee dat deze koers op dit moment nog niet wordt gegarandeerd. Je ziet hier ook het maximale bedrag waarvoor de BTC-transactie meteen wordt uitgevoerd zonder te wachten op XWP-bevestigingen (zie de FAQ van XWP.TO voor meer informatie). En het mooiste is dat XWP.TO geen extra transactiekosten rekent. Hoe cool is dat?</p>
-        <h2>XWP.TO-opdracht<h2>
-        <p>Op het scherm \"Bevestigen\" wordt de eigenlijke XWP.TO-opdracht weergegeven. Deze opdracht is geldig voor een beperkte tijd. Er wordt afgeteld op de knop \"Uitgeven\". De wisselkoers kan hier anders zijn dan de schatting die op eerdere schermen is weergegeven.</p>
-        <h2>Geheime sleutel XWP.TO<h2>
-        <p>Omdat Swap Wallet alleen het Swap-gedeelte van je transactie verwerkt, kun je je geheime sleutel voor XWP.TO gebruiken om het Bitcoin-gedeelte van de opdracht te volgen op de XWP.TO-website.</p>
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO is een externe service waarmee je Cryptocoin kunt inwisselen voor Bitcoin.
+        We gebruiken de API van CRYPTO.TO om Bitcoin-betalingen te integreren in Cryptocoin Wallet. Neem eens een kijkje op https://crypto.to en besluit zelf of je dit wilt gebruiken. Het Cryptocoin Wallet-team is niet verbonden aan CRYPTO.TO en kan je niet helpen met deze service.</p>
+        <h2>Wisselkoers CRYPTO.TO<h2>
+        <p>Op het scherm \"Bedrag\" worden de huidige waarden voor het gebruik van CRYPTO.TO weergegeven. Hierbij staat de huidige wisselkoers, maar ook het maximale en minimale BTC-bedrag. Houd er rekening mee dat deze koers op dit moment nog niet wordt gegarandeerd. Je ziet hier ook het maximale bedrag waarvoor de BTC-transactie meteen wordt uitgevoerd zonder te wachten op CRYPTO-bevestigingen (zie de FAQ van CRYPTO.TO voor meer informatie). En het mooiste is dat CRYPTO.TO geen extra transactiekosten rekent. Hoe cool is dat?</p>
+        <h2>CRYPTO.TO-opdracht<h2>
+        <p>Op het scherm \"Bevestigen\" wordt de eigenlijke CRYPTO.TO-opdracht weergegeven. Deze opdracht is geldig voor een beperkte tijd. Er wordt afgeteld op de knop \"Uitgeven\". De wisselkoers kan hier anders zijn dan de schatting die op eerdere schermen is weergegeven.</p>
+        <h2>Geheime sleutel CRYPTO.TO<h2>
+        <p>Omdat Cryptocoin Wallet alleen het Cryptocoin-gedeelte van je transactie verwerkt, kun je je geheime sleutel voor CRYPTO.TO gebruiken om het Bitcoin-gedeelte van de opdracht te volgen op de CRYPTO.TO-website.</p>
         <p>Houd er rekening mee dat deze geheime sleutel maar 24 uur geldig is nadat de transactie is gestart!</p>
-        <h2>XWP.TO telt af!</h2>
-        <p>Als de knop heeft afgeteld naar nul, moet je een nieuw aanbod van XWP.TO aanvragen. Ga daarvoor terug naar de vorige stap en open het scherm \"Bevestigen\" opnieuw.</p>
+        <h2>CRYPTO.TO telt af!</h2>
+        <p>Als de knop heeft afgeteld naar nul, moet je een nieuw aanbod van CRYPTO.TO aanvragen. Ga daarvoor terug naar de vorige stap en open het scherm \"Bevestigen\" opnieuw.</p>
     ]]></string>
 
     <string name="help_wallet"><![CDATA[
@@ -159,13 +159,13 @@
         <p>Street mode can be enabled/disabled in the menu or Gunther\'s head icon. In this mode, your
         balance is not shown on any screen so you can safely use your wallet on the street, a pub or
         other public place. Previous transactions are also hidden. New transactions will be shown, so
-        you can see that you have sent/received sweet Swap!</p>
+        you can see that you have sent/received sweet Cryptocoin!</p>
         <h2>Scannen</h2>
-        Omdat Swap graag alles geheim houdt, scannen we iedere keer als je een Swap Wallet-portemonnee opent de blockchain om te kijken of er nieuwe swap naar je portemonnee zijn overgemaakt. Hierbij wordt alleen informatie die bij je portemonnee hoort opgeslagen op je telefoon. Soms kan het even duren als je een tijd niet hebt gesynchroniseerd.
+        Omdat Cryptocoin graag alles geheim houdt, scannen we iedere keer als je een Cryptocoin Wallet-portemonnee opent de blockchain om te kijken of er nieuwe cryptocoin naar je portemonnee zijn overgemaakt. Hierbij wordt alleen informatie die bij je portemonnee hoort opgeslagen op je telefoon. Soms kan het even duren als je een tijd niet hebt gesynchroniseerd.
         <h2>Het saldo</h2>
         <p><b>Help! Het saldo van mijn portemonnee is verdwenen of niet bevestigd!</b><br/>
         Geen paniek! Wanneer je geld uit je portemonnee verzend, wordt een deel van je saldo tijdelijk aangegeven als onbevestigd.
-        Dit is het gevolg van hoe Swap wordt gemengd op de blockchain en hoe wisselgeld werkt.
+        Dit is het gevolg van hoe Cryptocoin wordt gemengd op de blockchain en hoe wisselgeld werkt.
         Lees meer over wisselgeld op https://getmonero.org/resources/moneropedia/change.html
         <h2>Transactielijst</h2>
         <p>Een lijst van de transacties van de portemonnee. In een alleen-lezen portemonnee worden alleen binnenkomende transacties weergegeven.</p>
@@ -175,14 +175,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nodes</h1>
         <h2>TL;DR</h2>
-        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Swap Wallet
+        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Cryptocoin Wallet
         to choose the best one for you!</p>
         <h2>What&apos;s a Node?</h2>
-        <p>Swap Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
-        the Swap Network without having to download and store a copy of the
+        <p>Cryptocoin Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
+        the Cryptocoin Network without having to download and store a copy of the
         whole blockchain itself.<p>
         <h2>Node List</h2>
-        <p>If the list is empty, you can either add new nodes manually or let Swap Wallet
+        <p>If the list is empty, you can either add new nodes manually or let Cryptocoin Wallet
         scan the network for you. Or both. Read on&#8230;</p>
         <p>The node list shows all currently known nodes. Additionally, the timestamp
         of the latest block known to each node is shown under the node name. An icon
@@ -191,10 +191,10 @@
         is shown next to each node.</p>
         <p>Any node in the list can be bookmarked for later use.
         Nodes which are not bookmarked will be forgotten.<p>
-        <p>Swap Wallet will choose the optimal bookmarked node each time you use it.
+        <p>Cryptocoin Wallet will choose the optimal bookmarked node each time you use it.
         It does this by checking the blockheight (how up-to-date
         is the node?) as well as the response behaviour (how fast does the node respond to requests?).</p>
-        <p>The list is sorted by these characteristics, so the top node would be the one Swap Wallet
+        <p>The list is sorted by these characteristics, so the top node would be the one Cryptocoin Wallet
         would choose right now. The bottom of the list would show very slow or unavailable nodes.</p>
         <h2>Add a Node</h2>
         <p>By touching the &quot;Add Node&quot; button at the bottom, you will be asked to
@@ -208,16 +208,16 @@
         The &quot;Test Results&quot; will display the blockheight, response time and actual IP used.
         The result may also be an error - usually because the hostname provided is
         not reachable in a sensible amount of time or the credentials are incorrect.
-        Or the hostname/port combination does not point to an actual Swap Node!
+        Or the hostname/port combination does not point to an actual Cryptocoin Node!
         Once the test passes (no error) - you&apos;re set to press &quot;OK&quot; to save &amp;
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
-        <p>Additionally, you can scan the network for nodes. Swap Wallet will start
+        <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
         scanning the network for Remote Nodes on port 19950. It begins by asking your
-        bookmarked nodes for other peers in the Swap P2P network and then continues
+        bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),
-        Swap Wallet will go straight to the Swap seed nodes hardcoded into Swap. The
+        Cryptocoin Wallet will go straight to the Cryptocoin seed nodes hardcoded into Cryptocoin. The
         scan stops when it finds 10 remote nodes in total.</p>
     ]]></string>
 

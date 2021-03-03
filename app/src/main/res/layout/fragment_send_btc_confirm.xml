@@ -27,7 +27,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
-                    <com.swap.xwpwallet.widget.SendProgressView
+                    <com.cryptocoin.cryptowallet.widget.SendProgressView
                         android:id="@+id/evStageA"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -104,7 +104,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
-                    <com.swap.xwpwallet.widget.SendProgressView
+                    <com.cryptocoin.cryptowallet.widget.SendProgressView
                         android:id="@+id/evStageB"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -153,7 +153,7 @@
             android:layout_marginEnd="16dp"
             android:layout_marginStart="16dp">
 
-            <com.swap.xwpwallet.widget.SendProgressView
+            <com.cryptocoin.cryptowallet.widget.SendProgressView
                 android:id="@+id/evStageC"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

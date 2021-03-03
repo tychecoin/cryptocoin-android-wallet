@@ -2,7 +2,7 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Lage lommebok - Ny</h1>
-        <p>Hvis du trenger en ny Swap addresse!</p>
+        <p>Hvis du trenger en ny Cryptocoin addresse!</p>
         <p>Skriv inn et unikt lommebok navn og passord.
         Passordet blir brukt til å sikre lommebokdataene på enheten. Bruk et sterkt passord -
         helst en passordfrase.</p>
@@ -22,7 +22,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Lage lommebook - Seed</h1>
-        <p>Hvis du allerede har en Swap addresse og vil gjennoprette transaksjonene fra blokkjeden!</p>
+        <p>Hvis du allerede har en Cryptocoin addresse og vil gjennoprette transaksjonene fra blokkjeden!</p>
         <p>Skriv inn et unikt lommebok navn og passord. Passordet er brukt for å sikre lommebokdataene på denne enheten.
         Bruk et sterkt passord, helst en passordfrase.</p>
         <p>Skriv inn seedet ditt i feltet \"Mnemonisk Seed\".<p>
@@ -36,7 +36,7 @@
         <p>Hvis du gjenoppretter lommeboka di ved hjelp av nøkler!</p>
         <p>Skriv inn et unikt lommebok navn og passord. Passordet er brukt for å sikre lommebokdataene på denne enheten.
         Bruk et sterkt passord, helst en passordfrase.<p>
-        <p>Skriv inn Swap-addressen din i feltet \"Offentlig Addresse\" og fyll ut \"View Key\" and \"Spend Key\".</p>
+        <p>Skriv inn Cryptocoin-addressen din i feltet \"Offentlig Addresse\" og fyll ut \"View Key\" and \"Spend Key\".</p>
         <p>Hvis du kjenner til blokkhøyden til den første transaksjonen til denne addressen,
 		skriv det inn i feltet \"Gjenopprettelseshøyde\" - hvis det er tomt vil <em>hele</em> blokkjeden skannes etter
         transaksjoner som hører til denne addressen. Dette tar <em>veldig</em> lang tid.<</p>
@@ -47,7 +47,7 @@
         <p>Hvis du bare vil følge med på innkommende transaksjoner til en lommebok!</p>
         <p>Skriv inn et unikt lommebok navn og passord. Passordet er brukt for å sikre lommebokdataene på denne enheten.
         Bruk et sterkt passord, helst en passordfrase.<p>
-        <p>Skriv inn Swap-addressen din i feltet \"Offentlig Addresse\" og fyll ut \"View-nøkkel\".</p>
+        <p>Skriv inn Cryptocoin-addressen din i feltet \"Offentlig Addresse\" og fyll ut \"View-nøkkel\".</p>
         <p>Hvis du kjenner til blokkhøyden til den første transaksjonen til denne addressen,
 		skriv det inn i feltet \"Gjenopprettelseshøyde\" - hvis det er tomt vil <em>hele</em> blokkjeden skannes etter
         transaksjoner som hører til denne addressen. Dette tar <em>veldig</em> lang tid.</p>
@@ -57,11 +57,11 @@
         <h1>Lommebokdetaljer</h1>
         <h2>Offentlig nøkkel</h2>
         Den offentlige addressen din er som bankkontonummeret ditt, som du kan dele med folk
-		uten å være redd for å miste penger. Det er denne folk sender Swap til.
+		uten å være redd for å miste penger. Det er denne folk sender Cryptocoin til.
         <h2>Mnemonisk Seed</h2>
         Dette er den eneste dataen du trenger for å gjenoprette lommeboka di senere,
 		og få full tilgang til pengene dine. Å holde denne privat er veldig viktig, siden den gir <em>hvem som helst</em> full
-        tilgang til dine swap! Hvis du ikke har skrevet den ned, vær så snill og gjør det!
+        tilgang til dine cryptocoin! Hvis du ikke har skrevet den ned, vær så snill og gjør det!
         <h2>Lommebokfiler gjenoprettelsespassord</h2>
         Vær sikker på at du skriver ned dette passordet. Hvis du nullstiller enheten eller avinstallerer appen, vil
         du trenge tilgang til lommeboka di igjen.<br/>
@@ -86,17 +86,17 @@
         View-nøkkelen din gir andre tilgang til å se innkommende transaksjoner, uten å gi dem
 		tilgang til å bruke penger.
         <h2>Spend-nøkkel</h2>
-        Spend-nøkkelen gir alle tillatelse til å bruke Swapene dine, så hold den like
+        Spend-nøkkelen gir alle tillatelse til å bruke Cryptocoinene dine, så hold den like
 		trygt som det mnemoniske seedet ditt!
     ]]></string>
 
     <string name="help_list"><![CDATA[
         <h1>Lommebokliste</h1>
         <h2>Node</h2>
-        <p>Swap Wallet bruker en ekstern node for å kommunisere med Swap-nettverket, uten å måtte
+        <p>Cryptocoin Wallet bruker en ekstern node for å kommunisere med Cryptocoin-nettverket, uten å måtte
         laste ned og oppbevare en kopi av blokkjeden selv. Du kan finne en liste over populære
-        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://autonode.xwp.fyi/<p>
-        <p>Swap Wallet kommer med noen eksterne noder lagt inn. Den husker de fem siste nodene du har brukt.</p>
+        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://autonode.crypto.fyi/<p>
+        <p>Cryptocoin Wallet kommer med noen eksterne noder lagt inn. Den husker de fem siste nodene du har brukt.</p>
         <h2>Lommebøker</h2>
         <p>Her ser du lommebøkene dine. De ligger i <tt>monerujo</tt> mappa
         på den interne lagringa for enheten din. Du kan bruke en filutforsker for å se dem.
@@ -107,7 +107,7 @@
         <h3>Detaljer</h3>
         <p>Viser lommebokdetaljene, seed og nøkler.</p>
         <h3>Motta</h3>
-        <p>Lag en QR-kode for å motta Swap.</p>
+        <p>Lag en QR-kode for å motta Cryptocoin.</p>
         <h3>Gi nytt navn</h3>
         <p>Gi nytt navn til lommeboka. Backuper blir ikke omgjort.</p>
         <h3>Backup</h3>
@@ -122,14 +122,14 @@
     <string name="help_tx_details"><![CDATA[
         <h1>Transaksjonsdetaljer</h1>
         <h2>Destinasjon</h2>
-        Dette er den offentlige adressen til lommeboka du sendte Swap til.
+        Dette er den offentlige adressen til lommeboka du sendte Cryptocoin til.
         <h2>Betalings-ID</h2>
-        Du kan bruke betalings-ID til å identifisere hvorfor du sendte Swap mellom to parter. Dette er
+        Du kan bruke betalings-ID til å identifisere hvorfor du sendte Cryptocoin mellom to parter. Dette er
         helt frivillig og privat. For eksempel lar det en bedrift tilknytte transaksjonen din med
 		en vare du har kjøpt.
         <h2>TX-ID</h2>
-        Dette er transaksjons-IDen din, som du kan bruke til å identifisere transaksjonen din på den obfuskerte Swap blokkjeden, ved å bruke en
-        blokkjedeutforsker som <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
+        Dette er transaksjons-IDen din, som du kan bruke til å identifisere transaksjonen din på den obfuskerte Cryptocoin blokkjeden, ved å bruke en
+        blokkjedeutforsker som <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
         <h2>TX-nøkkel (Transaksjonsnøkkel)</h2>
         Dette er din private transaksjonsnøkkel. Hold den privat, siden å gi den til en tredjepart
         avslører hvilken signatur i ringen som er din, og gjør derfor transaksjonen din gjennomsiktig.
@@ -140,73 +140,73 @@
     <string name="help_send"><![CDATA[
         <h1>Send</h1>
         <h2>Mottakers adresse</h2>
-        <p>Dette er den offentlige adressen til lommeboka du skal sende swap til, som du kan
+        <p>Dette er den offentlige adressen til lommeboka du skal sende cryptocoin til, som du kan
 		kopiere fra utklippstavla, skanne fra en QR-kode eller skrive inn manuellt. Vær sikker på at du trippelsjekker dette
-        for å forsikre deg om at du ikke sender swap til feil adresse.</p>
-        <p>In addition to using an XWP address, you can also use
+        for å forsikre deg om at du ikke sender cryptocoin til feil adresse.</p>
+        <p>In addition to using an CRYPTO address, you can also use
         <ul>
-            <li>an OpenAlias for XWP or BTC</li>
+            <li>an OpenAlias for CRYPTO or BTC</li>
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XWP.TO service (see https://xwp.to
+        Please note, that sending BTC is processed through the CRYPTO.TO service (see https://crypto.to
         for details). See the section on sending BTC below.</p>
         <h2>Betalings-ID</h2>
-        <p>Du kan bruke betalings-ID til å identifisere hvorfor du sendte Swap mellom to parter. Dette er
+        <p>Du kan bruke betalings-ID til å identifisere hvorfor du sendte Cryptocoin mellom to parter. Dette er
         helt frivillig og privat. For eksempel lar det en bedrift tilknytte transaksjonen din med
 		en vare du har kjøpt.<p>
         <h1>Å sende BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO er en tredjepartstjeneste som lar deg veksle Swap til Bitcoin.
-        Vi bruker XWP.TO-APIen til å integrere BTC-betalinger i Swap Wallet. Sjekk ut
-        https://xwp.to og bestem for deg selv om dette er noe du vil bruke. Swap Wallet-utviklerne
-        er ikke assosierte med XWP.TO og kan ikke hjelpe deg med deres tjeneste.</p>
-        <h2>XWP.TO vekslingskurs<h2>
-        <p>På \"Mengde\" skjermen vil du bli vist de nåværende parametrene til XWP.TO-tjenesten. Disse
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO er en tredjepartstjeneste som lar deg veksle Cryptocoin til Bitcoin.
+        Vi bruker CRYPTO.TO-APIen til å integrere BTC-betalinger i Cryptocoin Wallet. Sjekk ut
+        https://crypto.to og bestem for deg selv om dette er noe du vil bruke. Cryptocoin Wallet-utviklerne
+        er ikke assosierte med CRYPTO.TO og kan ikke hjelpe deg med deres tjeneste.</p>
+        <h2>CRYPTO.TO vekslingskurs<h2>
+        <p>På \"Mengde\" skjermen vil du bli vist de nåværende parametrene til CRYPTO.TO-tjenesten. Disse
         inkluderer den nåværende vekslingskursen så vel som nedre og øvre BTC-grenser. Vær oppmerksom på at
         kursen ikke er garantert på dette punktet. Du vil også se
         den øvre grensa for at BTC-transaksjonen skal gå igjennom uten å vente på
-        XWP-bekreftelser (se XWP.TO-FAQen for fler detaljer). Legg merke til at XWP.TO
+        CRYPTO-bekreftelser (se CRYPTO.TO-FAQen for fler detaljer). Legg merke til at CRYPTO.TO
         ikke har noen ekstra avgifter - hvor kult er ikke det?</p>
-        <h2>XWP.TO ordre<h2>
-        <p>På \"Bekreft\" skjermen, vil du se den faktiske XWP.TO ordren. Denne ordren er gyldig for
+        <h2>CRYPTO.TO ordre<h2>
+        <p>På \"Bekreft\" skjermen, vil du se den faktiske CRYPTO.TO ordren. Denne ordren er gyldig for
         en begrensa tid - du legger kanskje til en nedtelling på \"Bruk\" knappen. Veklingskursen kan være
         enn den veiledende kursen vist på de tidligere skjermene.</p>
-        <h2>XWP.TO hemmelig nøkkel<h2>
-        <p>Fordi Swap Wallet bare håndterer XWP delen av transaksjonen din, kan din XWP.TO hemmelige nøkkel
-        bli brukt til å spore BTC-transaksjonen på XWP.TO sine hjemmesider.</p>
+        <h2>CRYPTO.TO hemmelig nøkkel<h2>
+        <p>Fordi Cryptocoin Wallet bare håndterer CRYPTO delen av transaksjonen din, kan din CRYPTO.TO hemmelige nøkkel
+        bli brukt til å spore BTC-transaksjonen på CRYPTO.TO sine hjemmesider.</p>
         <p>Vær oppmerksom på at denne nøkkelen kun er tilgjengelig for 24-timer etter transaksjonen
 		har blitt utført!</p>
-        <h2>XWP.TO nedtelling!</h2>
-        <p>Når nedtellinga når null, må du få en ny kvote fra XWP.TO ved å gå tilbake til
+        <h2>CRYPTO.TO nedtelling!</h2>
+        <p>Når nedtellinga når null, må du få en ny kvote fra CRYPTO.TO ved å gå tilbake til
         det tidligere steget og komme tilbake til \"Bekreft\" skjermen.</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
         <h1>Å sende BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO er en tredjepartstjeneste som lar deg veksle Swap til Bitcoin.
-        Vi bruker XWP.TO-APIen til å integrere BTC-betalinger i Swap Wallet. Sjekk ut
-        https://xwp.to og bestem for deg selv om dette er noe du vil bruke. Swap Wallet-utviklerne
-        er ikke assosierte med XWP.TO og kan ikke hjelpe deg med deres tjeneste.</p>
-        <h2>XWP.TO vekslingskurs<h2>
-        <p>På \"Mengde\" skjermen vil du bli vist de nåværende parametrene til XWP.TO-tjenesten. Disse
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO er en tredjepartstjeneste som lar deg veksle Cryptocoin til Bitcoin.
+        Vi bruker CRYPTO.TO-APIen til å integrere BTC-betalinger i Cryptocoin Wallet. Sjekk ut
+        https://crypto.to og bestem for deg selv om dette er noe du vil bruke. Cryptocoin Wallet-utviklerne
+        er ikke assosierte med CRYPTO.TO og kan ikke hjelpe deg med deres tjeneste.</p>
+        <h2>CRYPTO.TO vekslingskurs<h2>
+        <p>På \"Mengde\" skjermen vil du bli vist de nåværende parametrene til CRYPTO.TO-tjenesten. Disse
         inkluderer den nåværende vekslingskursen så vel som nedre og øvre BTC-grenser. Vær oppmerksom på at
         kursen ikke er garantert på dette punktet. Du vil også se
         den øvre grensa for at BTC-transaksjonen skal gå igjennom uten å vente på
-        XWP-bekreftelser (se XWP.TO-FAQen for fler detaljer). Legg merke til at XWP.TO
+        CRYPTO-bekreftelser (se CRYPTO.TO-FAQen for fler detaljer). Legg merke til at CRYPTO.TO
         ikke har noen ekstra avgifter - hvor kult er ikke det?</p>
-        <h2>XWP.TO ordre<h2>
-        <p>På \"Bekreft\" skjermen, vil du se den faktiske XWP.TO ordren. Denne ordren er gyldig for
+        <h2>CRYPTO.TO ordre<h2>
+        <p>På \"Bekreft\" skjermen, vil du se den faktiske CRYPTO.TO ordren. Denne ordren er gyldig for
         en begrensa tid - du legger kanskje til en nedtelling på \"Bruk\" knappen. Veklingskursen kan være
         enn den veiledende kursen vist på de tidligere skjermene.</p>
-        <h2>XWP.TO hemmelig nøkkel<h2>
-        <p>Fordi Swap Wallet bare håndterer XWP delen av transaksjonen din, kan din XWP.TO hemmelige nøkkel
-        bli brukt til å spore BTC-transaksjonen på XWP.TO sine hjemmesider.</p>
+        <h2>CRYPTO.TO hemmelig nøkkel<h2>
+        <p>Fordi Cryptocoin Wallet bare håndterer CRYPTO delen av transaksjonen din, kan din CRYPTO.TO hemmelige nøkkel
+        bli brukt til å spore BTC-transaksjonen på CRYPTO.TO sine hjemmesider.</p>
         <p>Vær oppmerksom på at denne nøkkelen kun er tilgjengelig for 24-timer etter transaksjonen
 		har blitt utført!</p>
-		<h2>XWP.TO nedtelling!</h2>
-        <p>Når nedtellinga når null, må du få en ny kvote fra XWP.TO ved å gå tilbake til
+		<h2>CRYPTO.TO nedtelling!</h2>
+        <p>Når nedtellinga når null, må du få en ny kvote fra CRYPTO.TO ved å gå tilbake til
         det tidligere steget og komme tilbake til \"Bekreft\" skjermen.</p>
     ]]></string>
 
@@ -228,17 +228,17 @@
         <p>Street mode can be enabled/disabled in the menu or Gunther\'s head icon. In this mode, your
         balance is not shown on any screen so you can safely use your wallet on the street, a pub or
         other public place. Previous transactions are also hidden. New transactions will be shown, so
-        you can see that you have sent/received sweet Swap!</p>
+        you can see that you have sent/received sweet Cryptocoin!</p>
         <h2>Skanning</h2>
-        Fordi Swap liker å holde ting privat, må vi hver gang du åpner en lommebok i Swap Wallet
-        skanne blokkjeden for å se om noen nye swap har blitt sendt til lommeboka di, som bare
+        Fordi Cryptocoin liker å holde ting privat, må vi hver gang du åpner en lommebok i Cryptocoin Wallet
+        skanne blokkjeden for å se om noen nye cryptocoin har blitt sendt til lommeboka di, som bare
         lagrer informasjon til telefonen din som tilhører lommeboka. Noen ganger kan det ta litt
 		tid fordi du ikke har synkronisert på en stund.
         <h2>Saldo</h2>
         <p><b>Hjelp! Kontosaldoen min har blitt borte, eller noe er ubekrefta!</b><br/>
         Ikke få panikk! Når du sender penger fra lommeboka di, vil noe av saldoen din bli
 		vist som ubekrefta en liten periode.
-        Dette er et resultat av hvordan Swap veksles på blokkjeden og hvordan vekslepenger funker.
+        Dette er et resultat av hvordan Cryptocoin veksles på blokkjeden og hvordan vekslepenger funker.
         Les mer om vekslepenger på https://getmonero.org/resources/moneropedia/change.html
         <h2>Transaksjonsliste</h2>
         <p>En liste over lommeboktransaksjonene. In view lommebøker, kan man bare se innkommende transaksjoner.</p>
@@ -247,14 +247,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nodes</h1>
         <h2>TL;DR</h2>
-        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Swap Wallet
+        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Cryptocoin Wallet
         to choose the best one for you!</p>
         <h2>What&apos;s a Node?</h2>
-        <p>Swap Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
-        the Swap Network without having to download and store a copy of the
+        <p>Cryptocoin Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
+        the Cryptocoin Network without having to download and store a copy of the
         whole blockchain itself.<p>
         <h2>Node List</h2>
-        <p>If the list is empty, you can either add new nodes manually or let Swap Wallet
+        <p>If the list is empty, you can either add new nodes manually or let Cryptocoin Wallet
         scan the network for you. Or both. Read on&#8230;</p>
         <p>The node list shows all currently known nodes. Additionally, the timestamp
         of the latest block known to each node is shown under the node name. An icon
@@ -263,10 +263,10 @@
         is shown next to each node.</p>
         <p>Any node in the list can be bookmarked for later use.
         Nodes which are not bookmarked will be forgotten.<p>
-        <p>Swap Wallet will choose the optimal bookmarked node each time you use it.
+        <p>Cryptocoin Wallet will choose the optimal bookmarked node each time you use it.
         It does this by checking the blockheight (how up-to-date
         is the node?) as well as the response behaviour (how fast does the node respond to requests?).</p>
-        <p>The list is sorted by these characteristics, so the top node would be the one Swap Wallet
+        <p>The list is sorted by these characteristics, so the top node would be the one Cryptocoin Wallet
         would choose right now. The bottom of the list would show very slow or unavailable nodes.</p>
         <h2>Add a Node</h2>
         <p>By touching the &quot;Add Node&quot; button at the bottom, you will be asked to
@@ -280,16 +280,16 @@
         The &quot;Test Results&quot; will display the blockheight, response time and actual IP used.
         The result may also be an error - usually because the hostname provided is
         not reachable in a sensible amount of time or the credentials are incorrect.
-        Or the hostname/port combination does not point to an actual Swap Node!
+        Or the hostname/port combination does not point to an actual Cryptocoin Node!
         Once the test passes (no error) - you&apos;re set to press &quot;OK&quot; to save &amp;
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
-        <p>Additionally, you can scan the network for nodes. Swap Wallet will start
+        <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
         scanning the network for Remote Nodes on port 19950. It begins by asking your
-        bookmarked nodes for other peers in the Swap P2P network and then continues
+        bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),
-        Swap Wallet will go straight to the Swap seed nodes hardcoded into Swap. The
+        Cryptocoin Wallet will go straight to the Cryptocoin seed nodes hardcoded into Cryptocoin. The
         scan stops when it finds 10 remote nodes in total.</p>
     ]]></string>
 

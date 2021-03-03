@@ -6,15 +6,15 @@ source script/env.sh
 
 cd $EXTERNAL_LIBS_BUILD_ROOT
 
-url="https://github.com/swap-dev/swap"
-version="swap-android"
+url="https://github.com/gonzothedev/crypto"
+version="cryptocoin-android"
 
-if [ ! -d "swap" ]; then
+if [ ! -d "cryptocoin" ]; then
   git clone ${url} -b ${version}
-  cd swap
+  cd cryptocoin
   git submodule update --recursive --init
 else
-  cd swap
+  cd cryptocoin
   git checkout ${version}
   git pull
   git submodule update --recursive --init

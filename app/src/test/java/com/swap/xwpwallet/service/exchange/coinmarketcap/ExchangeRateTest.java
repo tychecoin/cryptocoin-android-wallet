@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.swap.xwpwallet.service.exchange.coinmarketcap;
+package com.cryptocoin.cryptowallet.service.exchange.coinmarketcap;
 
-import com.swap.xwpwallet.service.exchange.api.ExchangeApi;
-import com.swap.xwpwallet.service.exchange.api.ExchangeCallback;
-import com.swap.xwpwallet.service.exchange.api.ExchangeException;
-import com.swap.xwpwallet.service.exchange.api.ExchangeRate;
+import com.cryptocoin.cryptowallet.service.exchange.api.ExchangeApi;
+import com.cryptocoin.cryptowallet.service.exchange.api.ExchangeCallback;
+import com.cryptocoin.cryptowallet.service.exchange.api.ExchangeException;
+import com.cryptocoin.cryptowallet.service.exchange.api.ExchangeRate;
 
 import net.jodah.concurrentunit.Waiter;
 
@@ -73,7 +73,7 @@ public class ExchangeRateTest {
     public void queryExchangeRate_shouldBeGetMethod()
             throws InterruptedException {
 
-        exchangeApi.queryExchangeRate("XWP", "EUR", mockExchangeCallback);
+        exchangeApi.queryExchangeRate("CRYPTO", "EUR", mockExchangeCallback);
 
         RecordedRequest request = mockWebServer.takeRequest();
         assertEquals("GET", request.getMethod());
@@ -83,7 +83,7 @@ public class ExchangeRateTest {
     public void queryExchangeRate_shouldHavePairInUrl()
             throws InterruptedException {
 
-        exchangeApi.queryExchangeRate("XWP", "EUR", mockExchangeCallback);
+        exchangeApi.queryExchangeRate("CRYPTO", "EUR", mockExchangeCallback);
 
         RecordedRequest request = mockWebServer.takeRequest();
         assertEquals("/328/?convert=EUR", request.getPath());
@@ -92,7 +92,7 @@ public class ExchangeRateTest {
     @Test
     public void queryExchangeRate_wasSuccessfulShouldRespondWithRate()
             throws TimeoutException {
-        final String base = "XWP";
+        final String base = "CRYPTO";
         final String quote = "EUR";
         final double rate = 1.56;
         MockResponse jsonMockResponse = new MockResponse().setBody(
@@ -120,7 +120,7 @@ public class ExchangeRateTest {
     @Test
     public void queryExchangeRate_wasSuccessfulShouldRespondWithRateUSD()
             throws TimeoutException {
-        final String base = "XWP";
+        final String base = "CRYPTO";
         final String quote = "USD";
         final double rate = 1.56;
         MockResponse jsonMockResponse = new MockResponse().setBody(
@@ -150,7 +150,7 @@ public class ExchangeRateTest {
             throws TimeoutException {
         mockWebServer.enqueue(new MockResponse().setResponseCode(500));
 
-        exchangeApi.queryExchangeRate("XWP", "USD", new ExchangeCallback() {
+        exchangeApi.queryExchangeRate("CRYPTO", "USD", new ExchangeCallback() {
             @Override
             public void onSuccess(final ExchangeRate exchangeRate) {
                 waiter.fail();
@@ -175,7 +175,7 @@ public class ExchangeRateTest {
                 createMockExchangeRateErrorResponse());
         mockWebServer.enqueue(jsonMockResponse);
 
-        exchangeApi.queryExchangeRate("XWP", "ABC", new ExchangeCallback() {
+        exchangeApi.queryExchangeRate("CRYPTO", "ABC", new ExchangeCallback() {
             @Override
             public void onSuccess(final ExchangeRate exchangeRate) {
                 waiter.fail();

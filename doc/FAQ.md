@@ -1,31 +1,31 @@
 # FAQ
 
 ## What is it?
-- A **Swap** lightwallet for Android. You get to choose what remote node you want to connect to. No need to download the blockchain.
+- A **Cryptocoin** lightwallet for Android. You get to choose what remote node you want to connect to. No need to download the blockchain.
 
 ## What features does it have?
 
-- Uses Swap v3.0.2
+- Uses Cryptocoin v3.0.2
 - Support for Android >= 5.0
 - Mainnet
 - Recover wallets from mnemonic seed or from keys
-- *Street Mode* which will hide the XWP amount on the screen for security purposes
+- *Street Mode* which will hide the CRYPTO amount on the screen for security purposes
 - Multiple wallets
 - Support for accounts
 - View wallet details (address, keys, etc.)
 - View transactions including details and copy to clipboard
-- Spend XWP (handle with care on mainnet!)
-- Manually import existing wallet (by copying them to the Swap folder)
+- Spend CRYPTO (handle with care on mainnet!)
+- Manually import existing wallet (by copying them to the Cryptocoin folder)
 - Background updating (make sure you exit the wallet to stop updating to save some battery)
 - Access to daemon with username/password and nonstandard port
 - Only 5 decimal places shown in transactions (full amount in details - click on transaction)
 - All significant figures shown in balance
 - QR Code scanning - make sure to *ALWAYS* verify the scanned code is what it is advertised to be!
-- QR Code for receiving with conversion of XWP to USD/EUR and back through Coingecko API
+- QR Code for receiving with conversion of CRYPTO to USD/EUR and back through Coingecko API
 - Backup wallets to `backups` folder in main wallet folder (old backups are overwritten)
 - Rename wallets
 - Archive (=Backup and delete)
-- 1 default proxy remote node: *autonode.xwp.fyi:19950*; you can check the individual remote node via https://autonode.xwp.fyi
+- 1 default proxy remote node: *autonode.crypto.fyi:19950*; you can check the individual remote node via https://autonode.crypto.fyi
 - Node-o-matic engine will scan 10 available public remote nodes on Internet and automatically bookmark the best node for you
 
 ## How do I use a node with username & password?
@@ -46,7 +46,7 @@ They are never erased (for now). You can delete this whole folder from time to t
 Also, the backup folder named "`backups`" (formerly `.backups`) is never automatically cleaned up.
 You may want to do housekeeping manually with a file browser.
 
-All wallet files (`testnet` and `mainnet`) are stored in the main `Swap Wallet` folder.
+All wallet files (`testnet` and `mainnet`) are stored in the main `Cryptocoin Wallet` folder.
 So be careful erasing stuff. One of the future releases will split the wallets and move `testnet`
  wallets out of there.
 
@@ -55,7 +55,7 @@ No, but it looks fantastic. Just check it out.
 
 ## Can I use existing wallet files?
 
-If you want to use existing wallet files, you need to copy the wallet files from you current Swap client. These are:
+If you want to use existing wallet files, you need to copy the wallet files from you current Cryptocoin client. These are:
 ```
 WalletName
 WalletName.address.txt

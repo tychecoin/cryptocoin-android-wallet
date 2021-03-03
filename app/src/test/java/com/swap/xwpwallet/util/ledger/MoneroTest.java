@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.swap.xwpwallet.util.ledger;
+package com.cryptocoin.cryptowallet.util.ledger;
 
 import org.junit.Rule;
 import org.junit.Test;

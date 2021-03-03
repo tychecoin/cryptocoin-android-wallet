@@ -1,4 +1,4 @@
-package com.swap.xwpwallet.util;
+package com.cryptocoin.cryptowallet.util;
 
 import org.junit.Test;
 

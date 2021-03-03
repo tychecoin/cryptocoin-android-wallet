@@ -34,51 +34,51 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>Έβαλες μια διεύθυνση bitcoin.</b><br/>
-        <i>Θα στείλεις XWP και ο παραλήπτης θα πάρει BTC μέσο της υπηρεσίας <b>XWP.TO</b>.</i>
+        <i>Θα στείλεις CRYPTO και ο παραλήπτης θα πάρει BTC μέσο της υπηρεσίας <b>CRYPTO.TO</b>.</i>
     ]]></string>
 
-    <string name="info_send_xmrto_success_order_label">Εντολή XWP.TO</string>
+    <string name="info_send_xmrto_success_order_label">Εντολή CRYPTO.TO</string>
 
     <string name="info_send_xmrto_success_btc">%1$s BTC</string>
 
     <string name="info_send_xmrto_paid">Επιβεβαίωση Εκκρεμεί</string>
     <string name="info_send_xmrto_unpaid">Πληρωμή σε εκκρεμότητα</string>
-    <string name="info_send_xmrto_error">XWP.TO Σφάλμα (%1$s)</string>
+    <string name="info_send_xmrto_error">CRYPTO.TO Σφάλμα (%1$s)</string>
     <string name="info_send_xmrto_sent">BTC Αποστάλθηκαν!</string>
     <string name="info_send_xmrto_query">Αίτηση &#8230;</string>
 
     <string name="info_send_xmrto_parms"><![CDATA[
         <b>Μπορείς να στείλεις %1$s &#8212; %2$s BTC</b>.<br/>
-        <i>Το <b>XWP.TO</b> σου δίνει ισοτιμία ανταλλαγής <b>%3$s BTC</b> <u>αυτή τη στιγμή</u></i>.
+        <i>Το <b>CRYPTO.TO</b> σου δίνει ισοτιμία ανταλλαγής <b>%3$s BTC</b> <u>αυτή τη στιγμή</u></i>.
     ]]></string>
     <string name="info_send_xmrto_zeroconf"><![CDATA[
         <i>Ποσά μέχρι <b>%1$s BTC</b> θα σταλούν <u>άμεσα</u>!</i>
     ]]></string>
 
-    <string name="send_available_btc">Σύνολο: %2$s BTC (%1$s XWP)</string>
+    <string name="send_available_btc">Σύνολο: %2$s BTC (%1$s CRYPTO)</string>
 
     <string name="info_paymentid_integrated">&#x2714; ID πληρωμής ενσωματωμένο</string>
     <string name="info_prepare_tx">Προετοιμασία της συναλλαγής σου</string>
 
-    <string name="label_send_progress_xmrto_create">Δημιουργία εντολής με XWP.TO</string>
-    <string name="label_send_progress_xmrto_query">Αίτηση εντολής στο XWP.TO</string>
+    <string name="label_send_progress_xmrto_create">Δημιουργία εντολής με CRYPTO.TO</string>
+    <string name="label_send_progress_xmrto_query">Αίτηση εντολής στο CRYPTO.TO</string>
     <string name="label_send_progress_create_tx">Προετοιμασά συναλλαγής Monero</string>
 
     <string name="label_send_progress_queryparms">Αίτηση στο xmr.to για παραμέτρους</string>
 
-    <string name="label_generic_xmrto_error">XWP.TO ΣΦΑΛΜΑ</string>
+    <string name="label_generic_xmrto_error">CRYPTO.TO ΣΦΑΛΜΑ</string>
     <string name="text_generic_xmrto_error">Κωδικός σφάλματος: %1$d</string>
 
     <string name="text_retry">Πάτησε για να προσπαθήσεις ξανά</string>
     <string name="text_noretry_monero">Τώρα έχουμε κολλήσει εδώ!</string>
-    <string name="text_noretry">Ωχ,το XWP.TO φαίνεται να μην ειναι προσωρινά διαθέσιμο!</string>
+    <string name="text_noretry">Ωχ,το CRYPTO.TO φαίνεται να μην ειναι προσωρινά διαθέσιμο!</string>
 
-    <string name="text_send_btc_amount">%1$s BTC = %2$s XWP</string>
-    <string name="text_send_btc_rate">(Rate: %1$s BTC/XWP)</string>
+    <string name="text_send_btc_amount">%1$s BTC = %2$s CRYPTO</string>
+    <string name="text_send_btc_rate">(Rate: %1$s BTC/CRYPTO)</string>
 
     <string name="label_send_btc_xmrto_info">Επίσκεψη στο xmr.to για υποστήριξη &amp; με εντοπισμό συναλλαγής</string>
-    <string name="label_send_btc_xmrto_key_lb">Μυστικό Κλειδί\nXWP.TO</string>
-    <string name="label_send_btc_xmrto_key">XWP.TO Μυστικό Κλειδί</string>
+    <string name="label_send_btc_xmrto_key_lb">Μυστικό Κλειδί\nCRYPTO.TO</string>
+    <string name="label_send_btc_xmrto_key">CRYPTO.TO Μυστικό Κλειδί</string>
     <string name="label_send_btc_address">BTC Διεύθυνση Παραλήπτη</string>
     <string name="label_send_btc_amount">Ποσό</string>
 
@@ -129,9 +129,9 @@
     <string name="label_wallet_receive">Λήψη</string>
     <string name="label_wallet_send">Αποστολή</string>
 
-    <string name="xmr_unconfirmed_amount">+ %1$s XWP μη επιβεβαιωμένα</string>
+    <string name="xmr_unconfirmed_amount">+ %1$s CRYPTO μη επιβεβαιωμένα</string>
 
-    <string name="service_description">Υπηρεσία Swap Wallet</string>
+    <string name="service_description">Υπηρεσία Cryptocoin Wallet</string>
 
     <string name="status_synced">Συγχρονισμένα:</string>
     <string name="status_remaining">Μπλοκς που απομένουν</string>
@@ -143,14 +143,14 @@
 
     <string name="label_copy_viewkey">Κλειδί Προβολής(View Key)</string>
     <string name="label_copy_address">Δημόσια Διεύθυνση(Public Address)</string>
-    <string name="label_copy_xmrtokey">Κλειδή XWP.TO</string>
+    <string name="label_copy_xmrtokey">Κλειδή CRYPTO.TO</string>
     <string name="message_copy_viewkey">Το Κλειδί Προβολής αντιγράφηκε στο πρόχειρο!</string>
-    <string name="message_copy_xmrtokey">Το Κλειδή XWP.TO αντιγράφηκε στο πρόχειρο!</string>
+    <string name="message_copy_xmrtokey">Το Κλειδή CRYPTO.TO αντιγράφηκε στο πρόχειρο!</string>
     <string name="message_copy_address">Η διύθυνση πορτοφολιού αντιγράφηκε στο πρόχειρο!</string>
     <string name="message_copy_txid">Το ID συναλλαγής αντιγράφηκε στο πρόχειρο!</string>
     <string name="message_nocopy">Η αντιγραφή είναι απενεργοποιημένη για λόγους ασφαλείας!</string>
 
-    <string name="message_exchange_failed">Δεν είναι δυνατή η συναλλαγματική ισοτιμία! Χρησιμοποίησε XWP/XWP ή προσπάθησε ξανά</string>
+    <string name="message_exchange_failed">Δεν είναι δυνατή η συναλλαγματική ισοτιμία! Χρησιμοποίησε CRYPTO/CRYPTO ή προσπάθησε ξανά</string>
 
     <string name="generate_title">Δημιουργία Πορτοφολιού</string>
     <string name="generate_name_hint">Όνομα Πορτοφολιού</string>
@@ -192,25 +192,25 @@
     <string name="send_amount_hint">0.00</string>
     <string name="send_notes_hint">Προσωπικές σημειώσεις (προαιρετικό)</string>
     <string name="send_generate_paymentid_hint">Δημιουργία</string>
-    <string name="send_send_label">Ξόδεψε τα γλυκά μου Swap</string>
-    <string name="send_send_timed_label">Ξόδεψε τα γλυκά μου Swap (%1$s)</string>
+    <string name="send_send_label">Ξόδεψε τα γλυκά μου Cryptocoin</string>
+    <string name="send_send_timed_label">Ξόδεψε τα γλυκά μου Cryptocoin (%1$s)</string>
     <string name="send_qr_invalid">Δεν είναι QR κώδικας</string>
     <string name="send_qr_address_invalid">Δεν είναι έγκυρος κωδικός QR πληρωμής</string>
     <string name="send_address_invalid">Δεν είναι έγκυρη η διεύθυνση</string>
     <string name="send_title">Αποστολή</string>
-    <string name="send_available">Υπόλοιπο: %1$s XWP</string>
+    <string name="send_available">Υπόλοιπο: %1$s CRYPTO</string>
     <string name="send_address_title">Διεύθυνση</string>
     <string name="send_amount_title">Ποσό</string>
     <string name="send_confirm_title">Επιβεβαίωση</string>
     <string name="send_success_title">Έγινε</string>
 
     <string name="send_amount_label">Ποσό</string>
-    <string name="send_fee_btc_label">Κόμιστρο (XWP)</string>
+    <string name="send_fee_btc_label">Κόμιστρο (CRYPTO)</string>
     <string name="send_fee_label">Κόμιστρο</string>
-    <string name="send_total_btc_label">Σύνολο (XWP)</string>
+    <string name="send_total_btc_label">Σύνολο (CRYPTO)</string>
     <string name="send_total_label">Σύνολο</string>
 
-    <string name="send_amount">%1$s XWP</string>
+    <string name="send_amount">%1$s CRYPTO</string>
     <string name="send_fee">+%1$s Κόμιστρο</string>
 
     <string name="send_create_tx_error_title">Σφάλμα Δημιουργίας Συναλλαγής</string>
@@ -248,7 +248,7 @@
 
     <string name="receive_amount_too_big">Μέγιστο %1$s</string>
     <string name="receive_amount_negative">Ελάχιστο 0</string>
-    <string name="receive_amount_nan">XWP δεν υπάρχει αριθμός</string>
+    <string name="receive_amount_nan">CRYPTO δεν υπάρχει αριθμός</string>
 
     <string name="details_alert_message">Θα εμφανιστούν τώρα ευαίσθητα δεδομένα. \nΠρόσεχε ποιος είναι πίσω σου!</string>
     <string name="details_alert_yes">Είμαι ασφαλής</string>
@@ -279,10 +279,10 @@
         <strong>Fingerprint Authentication</strong>
         <p>With fingerprint authentication enabled, you can view wallet balance and receive funds
         without entering password.</p>
-        <p>But for additional security, Swap Wallet will still require you to enter password when
+        <p>But for additional security, Cryptocoin Wallet will still require you to enter password when
         viewing wallet details or sending funds.</p>
         <strong>Security Warning</strong>
-        <p>Finally, Swap Wallet wants to remind you that anyone who can get your fingerprint will be
+        <p>Finally, Cryptocoin Wallet wants to remind you that anyone who can get your fingerprint will be
         able to peep into your wallet balance.</p>
         <p>For instance, a malicious user around you can open your wallet when you are asleep.</p>
         <strong>Are you sure to enable this function?</strong>
@@ -369,7 +369,7 @@
     <string name="send_address_bip70">Resolved Payment URI &#x2714;</string>
     <string name="send_address_hint">Receiver</string>
 
-    <string name="xmrto_error_001">XWP.TO offline - try again later</string>
+    <string name="xmrto_error_001">CRYPTO.TO offline - try again later</string>
     <string name="xmrto_error_004">BTC amount out of bounds</string>
     <string name="xmrto_error_010">Invalid or outdated Payment URL</string>
     <string name="xmrto_error_012">Too many requests</string>

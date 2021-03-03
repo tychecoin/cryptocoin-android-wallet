@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.swap.xwpwallet.xmrto.network;
+package com.cryptocoin.cryptowallet.xmrto.network;
 
-import com.swap.xwpwallet.xmrto.api.XmrToCallback;
-import com.swap.xwpwallet.xmrto.XmrToError;
-import com.swap.xwpwallet.xmrto.XmrToException;
-import com.swap.xwpwallet.xmrto.api.QueryOrderParameters;
-import com.swap.xwpwallet.xmrto.api.XmrToApi;
+import com.cryptocoin.cryptowallet.xmrto.api.XmrToCallback;
+import com.cryptocoin.cryptowallet.xmrto.XmrToError;
+import com.cryptocoin.cryptowallet.xmrto.XmrToException;
+import com.cryptocoin.cryptowallet.xmrto.api.QueryOrderParameters;
+import com.cryptocoin.cryptowallet.xmrto.api.XmrToApi;
 
 import net.jodah.concurrentunit.Waiter;
 

@@ -19,7 +19,7 @@
             android:gravity="center"
             android:minWidth="56dp" />
 
-        <com.swap.xwpwallet.widget.CTextInputLayout
+        <com.cryptocoin.cryptowallet.widget.CTextInputLayout
             android:id="@+id/etAmount"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
                 android:inputType="numberDecimal"
                 tools:text="87.00000" />
 
-        </com.swap.xwpwallet.widget.CTextInputLayout>
+        </com.cryptocoin.cryptowallet.widget.CTextInputLayout>
     </LinearLayout>
 
     <LinearLayout

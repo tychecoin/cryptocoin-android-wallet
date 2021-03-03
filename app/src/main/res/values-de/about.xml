@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_close">Schließen</string>
-    <string name="about_whoami">Ich bin Swap Wallet</string>
+    <string name="about_whoami">Ich bin Cryptocoin Wallet</string>
     <string name="about_version">Version %1$s (%2$d)</string>
     
     <string name="credits_text"><![CDATA[
@@ -11,14 +11,14 @@
         m2049r, baltsar777, anhdres, keejef,
         rehrar, EarlOfEgo et al.
         <br/><br/>
-        <a href="https://xwp.one/">xwp.one</a>
+        <a href="https://crypto.one/">crypto.one</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
         <h1>Datenschutzerklärung</h1>
         <p>Diese Seite informiert dich über unsere Richtlinien bezüglich der Sammlung,
         Nutzung und Weitergabe persönlicher Informationen, die wir von Nutzern unserer
-        App erhalten (Swap Wallet: Swap-Wallet).
+        App erhalten (Cryptocoin Wallet: Cryptocoin-Wallet).
         </p>
         <p>Mit der Nutzung der App stimmst du der Erfassung und Nutzung von Informationen in
         Übereinstimmung mit dieser Erklärung zu.
@@ -26,33 +26,33 @@
         <h2>Gesammelte Daten</h2>
         <p>Personenbezogene Daten sind jegliche Art von Daten, die eine Person identifizieren können.
         </p>
-        <p>Swap-Schlüssel und öffentliche Adressen werden von der App zum Zweck der Verarbeitung 
-	von Transaktionen lokal gesammelt und verarbeitet und verschlüsselt in das Swap-Netzwerk übertragen.
+        <p>Cryptocoin-Schlüssel und öffentliche Adressen werden von der App zum Zweck der Verarbeitung 
+	von Transaktionen lokal gesammelt und verarbeitet und verschlüsselt in das Cryptocoin-Netzwerk übertragen.
         </p>
         <p>Andere persönliche Daten werden von der App nicht gesammelt.</p>
-        <p>Wenn du den Umrechner (optional) nutzt, fragt Swap Wallet
+        <p>Wenn du den Umrechner (optional) nutzt, fragt Cryptocoin Wallet
 	den aktuellen Kurs über die öffentliche Schnittstelle von www.coingecko.com ab.
         Siehe dir ihre Datenschutzerklärung unter https://www.coingecko.com/en/privacy für
         Details darüber an, wie Daten in deinen Anfragen gesammelt werden.</p>
         <h2>App-Berechtigungen</h2>
         <ul>
-        <li>INTERNET : Verbinde zum Swap-Netzwerk über einen Swap-Node</li>
+        <li>INTERNET : Verbinde zum Cryptocoin-Netzwerk über einen Cryptocoin-Node</li>
         <li>READ_EXTERNAL_STORAGE : Lese die auf dem Gerät gespeicherten Wallet-Dateien aus</li>
         <li>WRITE_EXTERNAL_STORAGE : Schreibe Wallet-Dateien auf das Gerät</li>
         <li>WAKE_LOCK : Halte das Gerät während der Synchronisation wach</li>
-        <li>CAMERA : Scanne QR-Codes, um Swap zu erhalten</li>
+        <li>CAMERA : Scanne QR-Codes, um Cryptocoin zu erhalten</li>
         </ul>
         <h2>Änderungen an dieser Datenschutzerklärung</h2>
         <p>Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren.
 	Wir werden dich über jegliche Änderungen an der Datenschutzerklärung in der App und auf der
-	Website (www.xwp.one) informieren.
+	Website (www.crypto.one) informieren.
         Es wird empfohlen, diese Datenschutzerklärung regelmäßig auf Änderungen zu überprüfen.
         <p>Diese Datenschutzerklärung wurde zuletzt geändert am: 10. November 2017.
         </p>
         <h2>Kontakt</h2>
         <p>Wenn du Fragen zu unserer Datenschutzerklärung hast,
         oder wie deine Daten gesammelt und verarbeitet werden,
-        schreibe bitte eine eMail an xwpdev@gmail.com
+        schreibe bitte eine eMail an cryptodev@gmail.com
         </p>
         ]]></string>
 </resources>

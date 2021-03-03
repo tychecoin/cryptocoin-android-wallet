@@ -37,7 +37,7 @@
             style="@style/MoneroText.PosAmount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="autonode.xwp.fyi" />
+            tools:text="autonode.crypto.fyi" />
 
         <TextView
             android:id="@+id/tvAddress"

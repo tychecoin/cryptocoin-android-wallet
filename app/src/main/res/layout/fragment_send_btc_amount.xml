@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <com.swap.xwpwallet.widget.SendProgressView
+        <com.cryptocoin.cryptowallet.widget.SendProgressView
             android:id="@+id/evXmrToParms"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
         </LinearLayout>
     </FrameLayout>
 
-    <com.swap.xwpwallet.widget.ExchangeBtcEditText
+    <com.cryptocoin.cryptowallet.widget.ExchangeBtcEditText
         android:id="@+id/etAmount"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

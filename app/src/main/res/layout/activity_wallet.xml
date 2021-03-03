@@ -13,7 +13,7 @@
         android:gravity="center_horizontal"
         android:orientation="vertical">
 
-        <com.swap.xwpwallet.widget.Toolbar
+        <com.cryptocoin.cryptowallet.widget.Toolbar
             android:id="@+id/toolbar"
             style="@style/ToolBarStyle.Event"
             android:layout_width="match_parent"

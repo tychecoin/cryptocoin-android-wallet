@@ -60,7 +60,7 @@
                         android:layout_height="wrap_content"
                         android:drawableStart="@drawable/ic_refresh_black_24dp"
                         android:drawablePadding="8dp"
-                        tools:text="autonode.xwp.fyi" />
+                        tools:text="autonode.crypto.fyi" />
 
                     <TextView
                         android:id="@+id/tvNodeAddress"

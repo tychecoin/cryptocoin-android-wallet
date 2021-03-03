@@ -2,7 +2,7 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Δημιουργία πορτοφολιού - Νέο</h1>
-        <p>Εάν χρειάζεστε μια νέα διεύθυνση Swap!</p>
+        <p>Εάν χρειάζεστε μια νέα διεύθυνση Cryptocoin!</p>
         <p>Δώσε ένα μοναδικό όνομα και κωδικό πρόσβασης πορτοφολιού.
         Ο κωδικός πρόσβασης χρησιμοποιείται για τη διασφάλιση των δεδομένων του πορτοφολιού στη συσκευή.
 		Χρησιμοποίησε έναν ισχυρό κωδικό πρόσβασης - ακόμα καλύτερα χρησιμοποιήσε μια φράση-κωδικό.</p>
@@ -22,7 +22,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Δημιουργία πορτοφολιού - Σπόρος</h1>
-        <p>Εάν έχεις ήδη μια Διεύθυνση Swap και θέλεις να επαναφέρεις τις συναλλαγές από το blockchain!</p>
+        <p>Εάν έχεις ήδη μια Διεύθυνση Cryptocoin και θέλεις να επαναφέρεις τις συναλλαγές από το blockchain!</p>
         <p>Βάλε ένα μοναδικό όνομα χρήστη και κωδικό για το πορτοφόλι. Ο κωδικός χρησιμοποιείται για τη διασφάλιση των δεδομένων του πορτοφολιού στη συσκευή.
         Χρησιμοποιήστε έναν ισχυρό κωδικό πρόσβασης - ακόμα καλύτερα χρησιμοποιήστε μια φράση-κωδικό.</p>
         <p>Βάλε τον Σπόρο σου στο πεδίο \"Μνημονικός Σπόρος\".<p>
@@ -36,7 +36,7 @@
         <p>Εάν επαναφέρεις το πορτοφόλι χρησιμοποιώντας τα κλειδιά του πορτοφολιού σου!</p>
         <p>Βάλε ένα μοναδικό όνομα χρήστη και κωδικό για το πορτοφόλι. Ο κωδικός χρησιμοποιείται για τη διασφάλιση των δεδομένων του πορτοφολιού στη συσκευή.
         Χρησιμοποιήστε έναν ισχυρό κωδικό πρόσβασης - ακόμα καλύτερα χρησιμοποιήστε μια φράση-κωδικό.</p>
-        <p>Βάλε την Διεύθυνση Swap στο πεδίο \"Δημόσια Διεύθυνση\" και συμπλήρωσε το \"Κλειδί Προβολής\" και \"Κλειδί Ξοδεύματος\".</p>
+        <p>Βάλε την Διεύθυνση Cryptocoin στο πεδίο \"Δημόσια Διεύθυνση\" και συμπλήρωσε το \"Κλειδί Προβολής\" και \"Κλειδί Ξοδεύματος\".</p>
         <p>Εάν ξέρεις τον αριθμό μπλοκ της πρώτης συναλλαγής για αυτή την διεύθυνση, βάλε τον στο
         πεδίο \"Ύψος ανάκτησης\" - αφήνοντάς το κενό θα σαρωθεί <em>ολόκληρο</em> το blockchain για
         συναλλαγές που ανήκουν στην διεύθυνσή σου. Αυτό παίρνει <em>πολύ</em> ώρα.</p>
@@ -47,7 +47,7 @@
         <p>Εάν θέλεις μόνο να παρακολουθείς για εισερχόμενες συναλλαγές σε ένα πορτοφόλι!</p>
         <p>Βάλε ένα μοναδικό όνομα χρήστη και κωδικό για το πορτοφόλι. Ο κωδικός χρησιμοποιείται για τη διασφάλιση των δεδομένων του πορτοφολιού στη συσκευή.
         Χρησιμοποιήστε έναν ισχυρό κωδικό πρόσβασης - ακόμα καλύτερα χρησιμοποιήστε μια φράση-κωδικό.</p>
-        <p>Βάλε την Διεύθυνση Swap στο πεδίο \"Δημόσια Διεύθυνση\" και συμπλήρωσε το \"Κλειδί Προβολής\".</p>
+        <p>Βάλε την Διεύθυνση Cryptocoin στο πεδίο \"Δημόσια Διεύθυνση\" και συμπλήρωσε το \"Κλειδί Προβολής\".</p>
         <p>Εάν ξέρεις τον αριθμό μπλοκ της πρώτης συναλλαγής για αυτή την διεύθυνση, βάλε τον στο
         πεδίο \"Ύψος ανάκτησης\" - αφήνοντάς το κενό θα σαρωθεί <em>ολόκληρο</em> το blockchain για
         συναλλαγές που ανήκουν στην διεύθυνσή σου. Αυτό παίρνει <em>πολύ</em> ώρα.</p>
@@ -57,7 +57,7 @@
         <h1>Λεπτομέρειες Πορτοφολιού</h1>
         <h2>Δημόσια διεύθυνση</h2>
         Η δημόσια διεύθυνσή σου είναι σαν τον αριθμό τραπεζικού λογαριασμού μπορείς να την μοιραστείς με οποιονδήποτε
-        χωρίς να φοβάσαι οτι θα χάσεις τα Swap σου. Μπορείς να λάβεις Swap στο πορτοφόλι σου με αυτή την διεύθυνση.
+        χωρίς να φοβάσαι οτι θα χάσεις τα Cryptocoin σου. Μπορείς να λάβεις Cryptocoin στο πορτοφόλι σου με αυτή την διεύθυνση.
         <h2>Μνημονικός Σπόρος</h2>
         Αυτό είναι τα μόνα δεδομένα που χρειάζεσαι για να επαναφέρεις το πορτοφόλι σου οποτεδήποτε στο μέλλον
         και να έχεις πλήρη πρόσβαση στα κεφάλαιά σου. Το να το κρατήσεις ασφαλές και ιδιωτικό είναι πολύ σημαντικό, καθώς δίνει στον <em>οποιονδήποτε</em>
@@ -66,17 +66,17 @@
         Το κλειδί προβολής(view key) μπορεί να χρησιμοποιηθεί για να παρακολουθήσει εισερχόμενες συναλλαγές
         στο πορτοφόλι σου χωρίς να δίνει την δυνατότητα να ξοδέψεις κεφάλαια από αυτό.
         <h2>Κλειδί ξοδεύματος</h2>
-        Το κλειδί ξοδεύματος(spend key) επιτρέπει στον οποιονδήποτε να ξοδέψει τα Swap που σχετίζοντε με το πορτοφόλι σου,
+        Το κλειδί ξοδεύματος(spend key) επιτρέπει στον οποιονδήποτε να ξοδέψει τα Cryptocoin που σχετίζοντε με το πορτοφόλι σου,
         για αυτό μην μοιραστείς με κανέναν αυτό το κλειδί, κράτα το ασφαλές όπως και τον Μνημονικό σου Σπόρο.
     ]]></string>
 
     <string name="help_list"><![CDATA[
         <h1>Λίστα Πορτοφολιών</h1>
         <h2>Κόμβος</h2>
-        <p>Το Swap Wallet χρησιμοποιεί έναν Απομακρυσμένο Κόμβο(Remote Node) για επικοινωνία με το Δίκτυο του Swap χωρίς
+        <p>Το Cryptocoin Wallet χρησιμοποιεί έναν Απομακρυσμένο Κόμβο(Remote Node) για επικοινωνία με το Δίκτυο του Cryptocoin χωρίς
         να χρειάζεται να κατεβάσει και αποθηκεύσει ολόκληρο το blockchain. Μπορείς να βρεις μια λίστα απο δημοφιλείς
-        απομακρυσμένους κόμβους ή να μάθεις πως να τρέχεις τον δικό σου απομακρυσμένο κόμβο εδώ https://autonode.xwp.fyi/<p>
-        <p>Το Swap Wallet έχει κάποιους προκαθορισμένους Απομακρυσμένους Κόμβους. Θυμάται τους τελευταίους πέντε που χρησιμοποιήθηκαν.</p>
+        απομακρυσμένους κόμβους ή να μάθεις πως να τρέχεις τον δικό σου απομακρυσμένο κόμβο εδώ https://autonode.crypto.fyi/<p>
+        <p>Το Cryptocoin Wallet έχει κάποιους προκαθορισμένους Απομακρυσμένους Κόμβους. Θυμάται τους τελευταίους πέντε που χρησιμοποιήθηκαν.</p>
         <h2>Πορτοφόλια</h2>
         <p>Εδώ βλέπεις τα πορτοφόλια σου. Βρίσκοντε στον φάκελο <tt>monerujo</tt>
         στην εσωτερική αποθήκευση της συσκευής σας. Μπορείς να τα δεις με μια εφαρμογή εξερεύνησης αρχείων.
@@ -87,7 +87,7 @@
         <h3>Λεπτομέριες</h3>
         <p>Δες λεπτομέρειες πορτοφολιού, σπόρο &amp; κλειδιά.</p>
         <h3>Λήψη</h3>
-        <p>Δημιουργία ενός κωδικού QR για λήψη Swap.</p>
+        <p>Δημιουργία ενός κωδικού QR για λήψη Cryptocoin.</p>
         <h3>Μετονομασία</h3>
         <p>Μετονόμασε το πορτοφόλι. Τα αντίγραφα ασφαλείας δεν θα μετονομαστούν.</p>
         <h3>Αντιγρ. Ασφαλείας</h3>
@@ -102,14 +102,14 @@
     <string name="help_tx_details"><![CDATA[
         <h1>Λεπτομέρειες Συναλλαγής</h1>
         <h2>Προορισμός</h2>
-        Αυτό είναι η δημόσια διεύθυνση του πορτοφολιού που στέλνεις Swap.
+        Αυτό είναι η δημόσια διεύθυνση του πορτοφολιού που στέλνεις Cryptocoin.
         <h2>ID Πληρωμής</h2>
-        Μπορείς να χρησιμοποιήσεις ένα ID Πληρωμής(Payment ID) για να προσδιορίσεις τον λόγο που στέλνεις Swap
+        Μπορείς να χρησιμοποιήσεις ένα ID Πληρωμής(Payment ID) για να προσδιορίσεις τον λόγο που στέλνεις Cryptocoin
         ανάμεσα σε δύο ενδιαφερόμενους αυτό είναι προεραιτικό και ιδωτικό. Για παράδειγμα μπορεί να επιτρέψει σε μια επιχείρηση
         να κανονίσει την συναλλαγή σου με ένα αντικείμενο που αγόρασες.
         <h2>ID Συναλλαγής(TX ID)</h2>
-        Αυτό είναι το ID της συναλλαγής που μπορείς να χρησιμοποιήσεις για να διευκρινήσεις την θολωμένη συναλλαγή σου σε εναν Swap
-        Blockchain εξερευνητή όπως το <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
+        Αυτό είναι το ID της συναλλαγής που μπορείς να χρησιμοποιήσεις για να διευκρινήσεις την θολωμένη συναλλαγή σου σε εναν Cryptocoin
+        Blockchain εξερευνητή όπως το <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
         <h2>Κλειδί συναλλαγής(TX KEY)</h2>
         Αυτό είναι το ιδιωτικό κλειδί της συναλλαγής σου, κράτησέ το ασφαλές από τρίτους γιατί
         αποκαλύπτει ποια υπογραφή σε έναν δακτύλιο(ring) είναι δική σου, επομένως κάνει την συναλλαγή σου φανερή.
@@ -120,73 +120,73 @@
     <string name="help_send"><![CDATA[
         <h1>Αποστολή</h1>
         <h2>Διεύθυνση παραλήπτη</h2>
-        <p>Αυή είναι η δημόσια διεύθυνση πορτοφολιού που στέλνεις Swap, μπορείς να το αντιγράψεις
+        <p>Αυή είναι η δημόσια διεύθυνση πορτοφολιού που στέλνεις Cryptocoin, μπορείς να το αντιγράψεις
         από το πρόχειρο, να σαρώσεις έναν κωδικό QR ή να το πληκτρολογήσεις. Βεβαιώσου οτι έχεις τριπλο-ελέγξει
         για να είσαι σίγουρος ότι δεν στέλνεις σε λάθος διύθυνση τα κεφάλαια σου.</p>
-        <p>In addition to using an XWP address, you can also use
+        <p>In addition to using an CRYPTO address, you can also use
         <ul>
-            <li>an OpenAlias for XWP or BTC</li>
+            <li>an OpenAlias for CRYPTO or BTC</li>
             <li>a BTC address</li>
             <li>a bitcoin: URI (including BIP70 like bitpay)</li>
         </u>
-        Please note, that sending BTC is processed through the XWP.TO service (see https://xwp.to
+        Please note, that sending BTC is processed through the CRYPTO.TO service (see https://crypto.to
         for details). See the section on sending BTC below.</p>
         <h2>ID Πληρωμής</h2>
-        <p>Μπορείς να χρησιμοποιήσεις ένα ID Πληρωμής(Payment ID) για να προσδιορίσεις τον λόγο που στέλνεις Swap
+        <p>Μπορείς να χρησιμοποιήσεις ένα ID Πληρωμής(Payment ID) για να προσδιορίσεις τον λόγο που στέλνεις Cryptocoin
         ανάμεσα σε δύο ενδιαφερόμενους αυτό είναι προεραιτικό και ιδωτικό. Για παράδειγμα μπορεί να επιτρέψει σε μια επιχείρηση
         να κανονίσει την συναλλαγή σου με ένα αντικείμενο που αγόρασες.<p>
         <h1>Αποστολή BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>Το XWP.TO είναι τρίτος πάροχος που δρα σαν ανταλλακτήριο από Swap σε Bitcoin.
-        Χρησιμοποιούμε το API του XWP.TO για να ενσωματώσουμε πληρωμές Bitcoin στο Swap Wallet. Παρακαλώ δες το
-        https://xwp.to και αποφάσισε για τον εαυτό σου εαν αυτό είναι κάτι που θες να χρησιμοποιήσεις. Η Ομάδα του
-        Swap Wallet δεν συνδέεται με το XWP.TO και δεν μπορεί να σε βοηθήσει με την υπηρεσία.</p>
-        <h2>Ισοτιμία συναλλάγματος XWP.TO<h2>
-        <p>Στην οθόνη \"Ποσό\" θα σου δωθούν οι τρέχουσες παράμετροι της υπηρεσίας XWP.TO. Αυτές
+        <h2>CRYPTO.TO</h2>
+        <p>Το CRYPTO.TO είναι τρίτος πάροχος που δρα σαν ανταλλακτήριο από Cryptocoin σε Bitcoin.
+        Χρησιμοποιούμε το API του CRYPTO.TO για να ενσωματώσουμε πληρωμές Bitcoin στο Cryptocoin Wallet. Παρακαλώ δες το
+        https://crypto.to και αποφάσισε για τον εαυτό σου εαν αυτό είναι κάτι που θες να χρησιμοποιήσεις. Η Ομάδα του
+        Cryptocoin Wallet δεν συνδέεται με το CRYPTO.TO και δεν μπορεί να σε βοηθήσει με την υπηρεσία.</p>
+        <h2>Ισοτιμία συναλλάγματος CRYPTO.TO<h2>
+        <p>Στην οθόνη \"Ποσό\" θα σου δωθούν οι τρέχουσες παράμετροι της υπηρεσίας CRYPTO.TO. Αυτές
         περιλαμβάνουν την τρέχουσα ισοτιμία καθώς και τα μέγιστα και ελάχιστα όρια BTC. Σημειωτέον ότι αυτή η
         ισοτιμία δεν εξασφαλίζεται σε αυτό το σημείο. Θα δεις επίσης το ποσό για το οποιό
         η συναλλαγή BTC θα εκτελεσθέι άμεσα χωρίς αναμονή για επιβαιώσεις στο δίκτυο του
-        XWP (δες το FAQ του XWP.TO για περισσότερες λεπτομέρειες). Σημειωτέο, ότι το XWP.TO
+        CRYPTO (δες το FAQ του CRYPTO.TO για περισσότερες λεπτομέρειες). Σημειωτέο, ότι το CRYPTO.TO
         δεν χρεώνει επιπλέον προμήθειες - πόσο πρώτο είναι αυτό;</p>
-        <h2>Εντολή XWP.TO<h2>
-        <p>Στην οθόνη \"Επιβεβαίωση\", θα δεις την πραγματική εντολή XWP.TO. Αυτή η εντολή ισχύει για
+        <h2>Εντολή CRYPTO.TO<h2>
+        <p>Στην οθόνη \"Επιβεβαίωση\", θα δεις την πραγματική εντολή CRYPTO.TO. Αυτή η εντολή ισχύει για
         περιορισμένο χρόνο - μπορεί να προσέξεις μια αντίστροφη μέτρηση στο κουμπί \"Ξόδεψε\". Η ισοτιμία
         μπορεί να είναι διαφορετική από την ενδεικτική που φαινόταν σε προηγούμενες οθόνες.</p>
-        <h2>Μυστικό Κλειδί XWP.TO<h2>
-        <p>Μιας και το Swap Wallet διαχειρίζεται μόνο την πλευρά του Swap της συναλλαγής το μυστικό κλειδί XWP.TO
-        μπορεί να χρησιμοποιηθεί για να εντοπίσει την συναλλαγή απο μεριάς Bitcoin στην XWP.TO εντολή σου στην αρχική τους σελίδα.</p>
+        <h2>Μυστικό Κλειδί CRYPTO.TO<h2>
+        <p>Μιας και το Cryptocoin Wallet διαχειρίζεται μόνο την πλευρά του Cryptocoin της συναλλαγής το μυστικό κλειδί CRYPTO.TO
+        μπορεί να χρησιμοποιηθεί για να εντοπίσει την συναλλαγή απο μεριάς Bitcoin στην CRYPTO.TO εντολή σου στην αρχική τους σελίδα.</p>
         <p>Σημειωτέο ότι, αυτό το μυστικό κλειδί θα ισχύει για 24 ώρες από όταν ξεκίνησες
         την συναλλαγή!</p>
-        <h2>Αντίστροφη μέτρηση XWP.TO!</h2>
-        <p>Μόλις η αντίστροφη μέτρηση φθάσει στο μηδέν, χρειάζεται να ξεκινήσεις πάλι την συναλλαγή στο XWP.TO πηγαίνοντας
+        <h2>Αντίστροφη μέτρηση CRYPTO.TO!</h2>
+        <p>Μόλις η αντίστροφη μέτρηση φθάσει στο μηδέν, χρειάζεται να ξεκινήσεις πάλι την συναλλαγή στο CRYPTO.TO πηγαίνοντας
         πίσω στο προηγούμενο βήμα και μετά επιστρέφοντας στην οθόνη \"Επιβεβαίωση\".</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
         <h1>Αποστολή BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>Το XWP.TO είναι τρίτος πάροχος που δρα σαν ανταλλακτήριο από Swap σε Bitcoin
-        Χρησιμοποιούμε το API του XWP.TO για να ενσωματώσουμε πληρωμές Bitcoin στο Swap Wallet. Παρακαλώ δες το
-        https://xwp.to και αποφάσισε για τον εαυτό σου εαν αυτό είναι κάτι που θες να χρησιμοποιήσεις. Η Ομάδα του
-        Swap Wallet δεν συνδέεται με το XWP.TO και δεν μπορεί να σε βοηθήσει με την υπηρεσία.</p>
-        <h2>Ισοτιμία συναλλάγματος XWP.TO<h2>
-        <p>Στην οθόνη \"Ποσό\" θα σου δωθούν οι τρέχουσες παράμετροι της υπηρεσίας XWP.TO. Αυτές
+        <h2>CRYPTO.TO</h2>
+        <p>Το CRYPTO.TO είναι τρίτος πάροχος που δρα σαν ανταλλακτήριο από Cryptocoin σε Bitcoin
+        Χρησιμοποιούμε το API του CRYPTO.TO για να ενσωματώσουμε πληρωμές Bitcoin στο Cryptocoin Wallet. Παρακαλώ δες το
+        https://crypto.to και αποφάσισε για τον εαυτό σου εαν αυτό είναι κάτι που θες να χρησιμοποιήσεις. Η Ομάδα του
+        Cryptocoin Wallet δεν συνδέεται με το CRYPTO.TO και δεν μπορεί να σε βοηθήσει με την υπηρεσία.</p>
+        <h2>Ισοτιμία συναλλάγματος CRYPTO.TO<h2>
+        <p>Στην οθόνη \"Ποσό\" θα σου δωθούν οι τρέχουσες παράμετροι της υπηρεσίας CRYPTO.TO. Αυτές
         περιλαμβάνουν την τρέχουσα ισοτιμία καθώς και τα μέγιστα και ελάχιστα όρια BTC. Σημειωτέον ότι αυτή η
         ισοτιμία δεν εξασφαλίζεται σε αυτό το σημείο. Θα δεις επίσης το ποσό για το οποιό
         η συναλλαγή BTC θα εκτελεσθέι άμεσα χωρίς αναμονή για επιβαιώσεις στο δίκτυο του
-        XWP (δες το FAQ του XWP.TO για περισσότερες λεπτομέρειες). Σημειωτέο, ότι το XWP.TO
+        CRYPTO (δες το FAQ του CRYPTO.TO για περισσότερες λεπτομέρειες). Σημειωτέο, ότι το CRYPTO.TO
         δεν χρεώνει επιπλέον προμήθειες - πόσο πρώτο είναι αυτό;</p>
-        <h2>Εντολή XWP.TO<h2>
-        <p>Στην οθόνη \"Επιβεβαίωση\", θα δεις την πραγματική εντολή XWP.TO. Αυτή η εντολή ισχύει για
+        <h2>Εντολή CRYPTO.TO<h2>
+        <p>Στην οθόνη \"Επιβεβαίωση\", θα δεις την πραγματική εντολή CRYPTO.TO. Αυτή η εντολή ισχύει για
         περιορισμένο χρόνο - μπορεί να προσέξεις μια αντίστροφη μέτρηση στο κουμπί \"Ξόδεψε\". Η ισοτιμία
         μπορεί να είναι διαφορετική από την ενδεικτική που φαινόταν σε προηγούμενες οθόνες.</p>
-        <h2>Μυστικό Κλειδί XWP.TO<h2>
-        <p>Μιας και το Swap Wallet διαχειρίζεται μόνο την πλευρά του Swap της συναλλαγής το μυστικό κλειδί XWP.TO
-        μπορεί να χρησιμοποιηθεί για να εντοπίσει την συναλλαγή απο μεριάς Bitcoin στην XWP.TO εντολή σου στην αρχική τους σελίδα.</p>
+        <h2>Μυστικό Κλειδί CRYPTO.TO<h2>
+        <p>Μιας και το Cryptocoin Wallet διαχειρίζεται μόνο την πλευρά του Cryptocoin της συναλλαγής το μυστικό κλειδί CRYPTO.TO
+        μπορεί να χρησιμοποιηθεί για να εντοπίσει την συναλλαγή απο μεριάς Bitcoin στην CRYPTO.TO εντολή σου στην αρχική τους σελίδα.</p>
         <p>Σημειωτέο ότι, αυτό το μυστικό κλειδί θα ισχύει για 24 ώρες από όταν ξεκίνησες
         την συναλλαγή!</p>
-        <h2>Αντίστροφη μέτρηση XWP.TO!</h2>
-        <p>Μόλις η αντίστροφη μέτρηση φθάσει στο μηδέν, χρειάζεται να ξεκινήσεις πάλι την συναλλαγή στο XWP.TO πηγαίνοντας
+        <h2>Αντίστροφη μέτρηση CRYPTO.TO!</h2>
+        <p>Μόλις η αντίστροφη μέτρηση φθάσει στο μηδέν, χρειάζεται να ξεκινήσεις πάλι την συναλλαγή στο CRYPTO.TO πηγαίνοντας
         πίσω στο προηγούμενο βήμα και μετά επιστρέφοντας στην οθόνη \"Επιβεβαίωση\".</p>
     ]]></string>
 
@@ -208,17 +208,17 @@
         <p>Street mode can be enabled/disabled in the menu or Gunther\'s head icon. In this mode, your
         balance is not shown on any screen so you can safely use your wallet on the street, a pub or
         other public place. Previous transactions are also hidden. New transactions will be shown, so
-        you can see that you have sent/received sweet Swap!</p>
+        you can see that you have sent/received sweet Cryptocoin!</p>
         <h2>Σάρωση</h2>
-        Επειδή το Swap θέλει να κρατάει τα πράγματα ιδιωτικά, κάθε φορά που ανοίγεις ένα πορτοφόλι
-        Swap Wallet πρέπει να σαρώσουμε όλο το blockchain για να βρεθούν νέα ληφθέντα Swap στο πορτοφόλι σας, αυτό
+        Επειδή το Cryptocoin θέλει να κρατάει τα πράγματα ιδιωτικά, κάθε φορά που ανοίγεις ένα πορτοφόλι
+        Cryptocoin Wallet πρέπει να σαρώσουμε όλο το blockchain για να βρεθούν νέα ληφθέντα Cryptocoin στο πορτοφόλι σας, αυτό
         αποθηκεύει μόνο πληροφορίες στο τηλέφωνό σου που ανιστοιχούν στο πορτοφόλι σου. Μερικές φορές
         μπορεί να χρειαστεί λίγος χρόνος γιατί δεν έχεις συγχρονίσει για μεγάλο χρονικό διάστημα.
         <h2>Το Υπόλοιπο</h2>
         <p><b>Βοήθεια! Το υπόλοιπο του πορτοφολιού μου εξαφανίστηκε ή ειναι μη επιβεβαιωμένο!</b><br/>
         Μην πανικοβάλεσαι! Όταν στέλνεις κεφάλαια από το πορτοφόλι σου, ένα μέρος
         του υπολοίπου σου θα δείχνει για λίγο ως μη επιβεβαιωμένο.
-        Αυτό συμβαίνει σαν αποτέλεσμα του πως το Swap ανταλλάσεται στο blockchain και το πως δουλεύουν τα ρέστα.
+        Αυτό συμβαίνει σαν αποτέλεσμα του πως το Cryptocoin ανταλλάσεται στο blockchain και το πως δουλεύουν τα ρέστα.
         Διάβασε περισσότερα για τα ρέστα εδώ(Αγγλικά) https://getmonero.org/resources/moneropedia/change.html
         <h2>Λίστα Συναλλαγών</h2>
         <p>Μια λίστα απο τις συναλλαγές του πορτοφολιού. Στα πορτοφόλια παρακολούθησης φαίνοντε μόνο οι εισερχόμενες συναλλαγές.</p>
@@ -227,14 +227,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nodes</h1>
         <h2>TL;DR</h2>
-        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Swap Wallet
+        <p>Refresh the nodes list by pulling down &amp; bookmark 3&#8211;5 nodes to allow Cryptocoin Wallet
         to choose the best one for you!</p>
         <h2>What&apos;s a Node?</h2>
-        <p>Swap Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
-        the Swap Network without having to download and store a copy of the
+        <p>Cryptocoin Wallet uses a Remote Node (sometimes also called Daemon) to communicate with
+        the Cryptocoin Network without having to download and store a copy of the
         whole blockchain itself.<p>
         <h2>Node List</h2>
-        <p>If the list is empty, you can either add new nodes manually or let Swap Wallet
+        <p>If the list is empty, you can either add new nodes manually or let Cryptocoin Wallet
         scan the network for you. Or both. Read on&#8230;</p>
         <p>The node list shows all currently known nodes. Additionally, the timestamp
         of the latest block known to each node is shown under the node name. An icon
@@ -243,10 +243,10 @@
         is shown next to each node.</p>
         <p>Any node in the list can be bookmarked for later use.
         Nodes which are not bookmarked will be forgotten.<p>
-        <p>Swap Wallet will choose the optimal bookmarked node each time you use it.
+        <p>Cryptocoin Wallet will choose the optimal bookmarked node each time you use it.
         It does this by checking the blockheight (how up-to-date
         is the node?) as well as the response behaviour (how fast does the node respond to requests?).</p>
-        <p>The list is sorted by these characteristics, so the top node would be the one Swap Wallet
+        <p>The list is sorted by these characteristics, so the top node would be the one Cryptocoin Wallet
         would choose right now. The bottom of the list would show very slow or unavailable nodes.</p>
         <h2>Add a Node</h2>
         <p>By touching the &quot;Add Node&quot; button at the bottom, you will be asked to
@@ -260,16 +260,16 @@
         The &quot;Test Results&quot; will display the blockheight, response time and actual IP used.
         The result may also be an error - usually because the hostname provided is
         not reachable in a sensible amount of time or the credentials are incorrect.
-        Or the hostname/port combination does not point to an actual Swap Node!
+        Or the hostname/port combination does not point to an actual Cryptocoin Node!
         Once the test passes (no error) - you&apos;re set to press &quot;OK&quot; to save &amp;
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
-        <p>Additionally, you can scan the network for nodes. Swap Wallet will start
+        <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
         scanning the network for Remote Nodes on port 19950. It begins by asking your
-        bookmarked nodes for other peers in the Swap P2P network and then continues
+        bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),
-        Swap Wallet will go straight to the Swap seed nodes hardcoded into Swap. The
+        Cryptocoin Wallet will go straight to the Cryptocoin seed nodes hardcoded into Cryptocoin. The
         scan stops when it finds 10 remote nodes in total.</p>
     ]]></string>
 

@@ -2,7 +2,7 @@
 <resources>
     <string name="help_create_new"><![CDATA[
         <h1>Créer un Portefeuille - Nouveau</h1>
-        <p>Si vous avez besoin d’une nouvelle adresse Swap !</p>
+        <p>Si vous avez besoin d’une nouvelle adresse Cryptocoin !</p>
         <p>Entrez un nom et un mot de passe unique pour le portefeuille.
         Le mot de passe permet de sécuriser les données de votre portefeuille sur votre appareil.
         Utilisez un mot de passe fort - mieux, utilisez une phrase secrète.</p>
@@ -23,7 +23,7 @@
 
     <string name="help_create_seed"><![CDATA[
         <h1>Créer un Portefeuille - Phrase Mnémonique</h1>
-        <p>Si vous avez déjà une adresse Swap et que vus voulez reécupérer vos transactions depuis la chaïne de blocs !</p>
+        <p>Si vous avez déjà une adresse Cryptocoin et que vus voulez reécupérer vos transactions depuis la chaïne de blocs !</p>
         <p>Entrez un nom et un mot de passe unique pour le portefeuille.
         Le mot de passe permet de sécuriser les données de votre portefeuille sur votre appareil.
         Utilisez un mot de passe fort - mieux, utilisez une phrase secrète.</p>
@@ -40,7 +40,7 @@
         <p>Entrez un nom et un mot de passe unique pour le portefeuille.
         Le mot de passe permet de sécuriser les données de votre portefeuille sur votre appareil.
         Utilisez un mot de passe fort - mieux, utilisez une phrase secrète.<p>
-        <p>Entrez votre adresse Swap dans le champ \"Adresse Publique\" et remplissez \"Clef d’Audit\" et \"Clef de dépense\".</p>
+        <p>Entrez votre adresse Cryptocoin dans le champ \"Adresse Publique\" et remplissez \"Clef d’Audit\" et \"Clef de dépense\".</p>
         <p>Entrez le numéro du bloc de la première transaction utilisée pour cette adresse dans le
         champ \"Hauteur de restauration\". Vous pouvez également utiliser une date au format AAA-MM-JJ.
         Si vous n\'êtes pas sûr, entrer une date / hauteur de block approximative <em>avant</em> que vous
@@ -53,7 +53,7 @@
         <p>Entrez un nom et un mot de passe unique pour le portefeuille.
         Le mot de passe permet de sécuriser les données de votre portefeuille sur votre appareil.
         Utilisez un mot de passe fort - mieux, utilisez une phrase secrète.<p>
-        <p>Entrez votre adresse Swap dans le champ \"Adresse Publique\" et remplissez la \"Clef d’Audit\".</p>
+        <p>Entrez votre adresse Cryptocoin dans le champ \"Adresse Publique\" et remplissez la \"Clef d’Audit\".</p>
         <p>Entrez le numéro du bloc de la première transaction utilisée pour cette adresse dans le
         champ \"Hauteur de restauration\". Vous pouvez également utiliser une date au format AAA-MM-JJ.
         Si vous n\'êtes pas sûr, entrer une date / hauteur de block approximative <em>avant</em> que vous
@@ -64,11 +64,11 @@
         <h1>Détails du Portefeuille</h1>
         <h2>Adresse Publique</h2>
         Votre adresse publique est comme votre numéro de compte en banque, vous pouvez la partager avec n’importe qui sans
-        craindre de perdre vos Swap. On porra envoyer des Swap dans votre portefeuille en utilisant cette adresse.
+        craindre de perdre vos Cryptocoin. On porra envoyer des Cryptocoin dans votre portefeuille en utilisant cette adresse.
         <h2>Phrase Mnémonique</h2>
         C’est la seule donée nécessaire pour récupérer votre portefeuille ultérieurement et obtenir l’accès à
         vos fonds. Il est très imprtant de la garder sécurisée et confidentielle, car elle donne <em>à quiconque</em>
-        le contrôle total de vos Swap ! Si vous ne l’avez pas écrite à un emplacement sécurisé, faites-le !
+        le contrôle total de vos Cryptocoin ! Si vous ne l’avez pas écrite à un emplacement sécurisé, faites-le !
         <h2>Mdp de restauration des fichiers du Portefeuille</h2>
         Assurez vous de noter ce mot de passe. Si vous réinitialisez votre appareil ou désinstallez l’application,
         vous en aurez besoin pour accéder de nouveau à votre portefeuille.<br/>
@@ -84,7 +84,7 @@
         Après avoir renseigné une nouvelle phrase secrète (voire la même que précédemment) l’application va générer
         un CrAzYpass pour vous et sécuriser les fichiers de votre portefeuille avec. Notez-le !
         <h3>Portefeuilles CrAzYpass</h3>
-        Si vous avez un jour besoin de réinstaller Swap Wallet (par exemple après réinitialisation de votre téléphone, ou
+        Si vous avez un jour besoin de réinstaller Cryptocoin Wallet (par exemple après réinitialisation de votre téléphone, ou
         remplacement de celui-ci) ou si vous voulez utiliser vos fichiers de portefeuille sur un appareil différent ou
         un PC, vous devrez utiliser ce Mot de Passe de Restauration adin d’accéder de nouveau à votre portefeuille.<br/>
         En choisissant \"Modifier Phrase Secrète\" à partir du menu, vous pouvez choisir une nouvelle phrase secrète.
@@ -93,18 +93,18 @@
         Votre clef d’Audit peut vous servir à surveiller les transactions entrantes sur votre portefeuille sans autoriser
         la dépense de vos fonds dans votre portefeuille.
         <h2>Clefs de dépense</h2>
-        Votre clef de dépense permet à quiconque de dépenser les Swap associés à votre portefeuille, alors ne la
+        Votre clef de dépense permet à quiconque de dépenser les Cryptocoin associés à votre portefeuille, alors ne la
         communiquez à personne, gardez-la en sécurité comme votre phrase Mnémonique.
     ]]></string>
 
     <string name="help_list"><![CDATA[
         <h1>Liste des Portefeuilles</h1>
         <h2>Nœud</h2>
-        <p>Swap Wallet utilise un nœud distant pour communiquer avec le réseau Swap sans avoir à
+        <p>Cryptocoin Wallet utilise un nœud distant pour communiquer avec le réseau Cryptocoin sans avoir à
         télécharger et stocker une copie complète de la chaîne de bloc. vous pourrez trouver une
         liste de nœud distant populaire ou apprendre comment faire fonctionner votre propre nœud
-        distant ici https://autonode.xwp.fyi/<p>
-        <p>Swap Wallet est fourni avec quelques Nœuds distants préenregistrés. Les cinq derniers nœuds utilisé sont sauvegardés.</p>
+        distant ici https://autonode.crypto.fyi/<p>
+        <p>Cryptocoin Wallet est fourni avec quelques Nœuds distants préenregistrés. Les cinq derniers nœuds utilisé sont sauvegardés.</p>
         <h2>Portefeuilles</h2>
         <p>Ici vous pouvez voir vos Portefeuilles. Ils se trouvent dans le dossier <tt>monerujo</tt>
         du stockage interne de votre appareil. Vous pouvez utiliser une application d’explorateur
@@ -115,7 +115,7 @@
         <h3>Détails</h3>
         <p>Affichez les détails du portefeuille, phrase mnémonique &amp; Clefs.</p>
         <h3>Recevoir</h3>
-        <p>Faites un QR code pour recevoir des Swap.</p>
+        <p>Faites un QR code pour recevoir des Cryptocoin.</p>
         <h3>Renommer</h3>
         <p>Renommez le portefeuille. Les sauvegardes ne sont pas renommées.</p>
         <h3>Sauvegarde</h3>
@@ -130,15 +130,15 @@
     <string name="help_tx_details"><![CDATA[
         <h1>Détails de la Transaction</h1>
         <h2>Destination</h2>
-        C’est l’adresse publique du portefeuille auquel vous avez envoyé des Swap
+        C’est l’adresse publique du portefeuille auquel vous avez envoyé des Cryptocoin
         <h2>ID de Paiement</h2>
         Vous pouvez utiliser un ID de paiement pour identifier la raison pour laquelle vous avez
-        envoyé des Swap entre deux parties. C’est totallement privé et optionnel. Il permet par
+        envoyé des Cryptocoin entre deux parties. C’est totallement privé et optionnel. Il permet par
         exemple à une société de faire concorder votre transaction avec un article que vous avez
         acheté.
         <h2>ID TX</h2>
         C’est votre ID de transaction, vous pouvez l’utiliser pour identifier vos transaction masquées
-        sur un explorateur de la chaîne de blocs Swap comme <a href="https://explorer.xwp.fyi/">https://explorer.xwp.fyi/</a>
+        sur un explorateur de la chaîne de blocs Cryptocoin comme <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
         <h2>Clef TX (Clef de Transaction)</h2>
         C’est la clef privée de votre transaction, conservez là en sécurité car la révéler à un
         tiers révèlerait quelle signature est la votre dans un cercle, et donc rendrait votre
@@ -150,75 +150,75 @@
     <string name="help_send"><![CDATA[
         <h1>Envoyer</h1>
         <h2>Adresse de Destinataire</h2>
-        <p>C’est l’adresse publique du portefeuille auquel vous allez envoyer des Swap, vous pouvez
+        <p>C’est l’adresse publique du portefeuille auquel vous allez envoyer des Cryptocoin, vous pouvez
         la copier/coller, scanner un QR code ou la saisir manuellement. Vérifiez là bien trois fois
         afin de vous assurer que vous n’envoyez pas de pièces à la mauvaise adresse.</p>
-        <p>En complément de l’utilisation d’une adresse XWP, vous pouvez aussi utiliser
+        <p>En complément de l’utilisation d’une adresse CRYPTO, vous pouvez aussi utiliser
         <ul>
-            <li>une adresse OpenAlias pour XWP ou BTC</li>
+            <li>une adresse OpenAlias pour CRYPTO ou BTC</li>
             <li>une adresse BTC</li>
             <li>une URI bitcoin: (incluant BIP70 comme bitpay)</li>
         </u>
-        Notez que l’envoi de BTC est traité à travers le service XWP.TO (voir https://xwp.to pour
+        Notez que l’envoi de BTC est traité à travers le service CRYPTO.TO (voir https://crypto.to pour
         plus de détails). Voir la rubrique sur l’envoi de BTC plus bas.</p>
         <h2>ID de Paiement</h2>
         <p>Vous pouvez utiliser un ID de paiement pour identifier la raison pour laquelle vous avez
-        envoyé des Swap entre deux parties. C’est totallement privé et optionnel. Il permet par
+        envoyé des Cryptocoin entre deux parties. C’est totallement privé et optionnel. Il permet par
         exemple à une société de faire concorder votre transaction avec un article que vous avez
         acheté.</p>
         <h1>Envoyer des BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
-        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Wallet. Veuillez
-        consulter https://xwp.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
-        n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
-        <h2>Taux de change XWP.TO<h2>
-        <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO est un service tierce-partie qui agit commme un change depuis Cryptocoin vers Bitcoin.
+        Nous utilisons l’API CRYPTO.TO pour intégrer les paiements Bitcoin dans Cryptocoin Wallet. Veuillez
+        consulter https://crypto.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Cryptocoin Wallet
+        n’est pas affiliée à CRYPTO.TO et ne peut pas vous aider concernant leurs services.</p>
+        <h2>Taux de change CRYPTO.TO<h2>
+        <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive CRYPTO.TO. Cela
         inclus le taux de change actuel, ainsi que les limites BTC hautes et basses. Notez que ce taux
         n’est pas garantit à ce stade. Vous verrez également le montnt jusqu’auquel la transaction BTC
-        sera exécutée instantanément sans attendre de confirmation XWP (voir la FAQ XWP.TO pour plus de
-        détails). Veuillez noter que XWP.TO n’ajoute pas de frais additionnels - c’est pas cool ça ?</p>
-        <h2>Ordre XWP.TO<h2>
-        <p>Sur l’écran \"Confirmation\", vous verez l’ordre XWP.TO actuel. Cette ordre est valide pour
+        sera exécutée instantanément sans attendre de confirmation CRYPTO (voir la FAQ CRYPTO.TO pour plus de
+        détails). Veuillez noter que CRYPTO.TO n’ajoute pas de frais additionnels - c’est pas cool ça ?</p>
+        <h2>Ordre CRYPTO.TO<h2>
+        <p>Sur l’écran \"Confirmation\", vous verez l’ordre CRYPTO.TO actuel. Cette ordre est valide pour
         un temps limité - vous pouvez remarquer le compte à rebours sur le bouton \"Dépenser\". Ce taux
         de change peut être différent du taux indicatif de l’écran précédent.</p>
-        <h2>Clef Secrète XWP.TO<h2>
-        <p>Comme Swap Wallet ne traite que le volet Swap de votre transaction, votre clef secrète
-        XWP.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
-        de XWP.TO.</p>
+        <h2>Clef Secrète CRYPTO.TO<h2>
+        <p>Comme Cryptocoin Wallet ne traite que le volet Cryptocoin de votre transaction, votre clef secrète
+        CRYPTO.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
+        de CRYPTO.TO.</p>
         <p>Veuillez noter que cette clef secrète est seulement valable 24h après le lancement de la
         transaction !</p>
-        <h2>Compte à Rebours XWP.TO !</h2>
+        <h2>Compte à Rebours CRYPTO.TO !</h2>
         <p>Une fois que le compte à rebours atteint zéro, vous devrez obtenir un nouveau devis depuis
-        XWP.TO en retournant à l’étape précédente puis en revenant à l’écran \"Confirmation\".</p>
+        CRYPTO.TO en retournant à l’étape précédente puis en revenant à l’écran \"Confirmation\".</p>
     ]]></string>
 
     <string name="help_xmrto"><![CDATA[
         <h1>Envoyer des BTC</h1>
-        <h2>XWP.TO</h2>
-        <p>XWP.TO est un service tierce-partie qui agit commme un change depuis Swap vers Bitcoin.
-        Nous utilisons l’API XWP.TO pour intégrer les paiements Bitcoin dans Swap Wallet. Veuillez
-        consulter https://xwp.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Swap Wallet
-        n’est pas affiliée à XWP.TO et ne peut pas vous aider concernant leurs services.</p>
-        <h2>Taux de change XWP.TO<h2>
-        <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive XWP.TO. Cela
+        <h2>CRYPTO.TO</h2>
+        <p>CRYPTO.TO est un service tierce-partie qui agit commme un change depuis Cryptocoin vers Bitcoin.
+        Nous utilisons l’API CRYPTO.TO pour intégrer les paiements Bitcoin dans Cryptocoin Wallet. Veuillez
+        consulter https://crypto.to et décidez vous-même si vous souhaitez l’utiliser. L’équipe Cryptocoin Wallet
+        n’est pas affiliée à CRYPTO.TO et ne peut pas vous aider concernant leurs services.</p>
+        <h2>Taux de change CRYPTO.TO<h2>
+        <p>Sur l’écran \"Montant\" vous seront indiqué les paramètres actuels du serive CRYPTO.TO. Cela
         inclus le taux de change actuel, ainsi que les limites BTC hautes et basses. Notez que ce taux
         n’est pas garantit à ce stade. Vous verrez également le montnt jusqu’auquel la transaction BTC
-        sera exécutée instantanément sans attendre de confirmation XWP (voir la FAQ XWP.TO pour plus de
-        détails). Veuillez noter que XWP.TO n’ajoute pas de frais additionnels - c’est pas cool ça ?</p>
-        <h2>Ordre XWP.TO<h2>
-        <p>Sur l’écran \"Confirmation\", vous verez l’ordre XWP.TO actuel. Cette ordre est valide pour
+        sera exécutée instantanément sans attendre de confirmation CRYPTO (voir la FAQ CRYPTO.TO pour plus de
+        détails). Veuillez noter que CRYPTO.TO n’ajoute pas de frais additionnels - c’est pas cool ça ?</p>
+        <h2>Ordre CRYPTO.TO<h2>
+        <p>Sur l’écran \"Confirmation\", vous verez l’ordre CRYPTO.TO actuel. Cette ordre est valide pour
         un temps limité - vous pouvez remarquer le compte à rebours sur le bouton \"Dépenser\". Ce taux
         de change peut être différent du taux indicatif de l’écran précédent.</p>
-        <h2>Clef Secrète XWP.TO<h2>
-        <p>Comme Swap Wallet ne traite que le volet Swap de votre transaction, votre clef secrète
-        XWP.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
-        de XWP.TO.</p>
+        <h2>Clef Secrète CRYPTO.TO<h2>
+        <p>Comme Cryptocoin Wallet ne traite que le volet Cryptocoin de votre transaction, votre clef secrète
+        CRYPTO.TO peut être utilisée pour suivre le volet Bitcoin de votre ordre sur la page d’accueil
+        de CRYPTO.TO.</p>
         <p>Veuillez noter que cette clef secrète est seulement valable 24h après le lancement de la
         transaction !</p>
-        <h2>Compte à Rebours XWP.TO !</h2>
+        <h2>Compte à Rebours CRYPTO.TO !</h2>
         <p>Une fois que le compte à rebours atteint zéro, vous devrez obtenir un nouveau devis depuis
-        XWP.TO en retournant à l’étape précédente puis en revenant à l’écran \"Confirmation\".</p>
+        CRYPTO.TO en retournant à l’étape précédente puis en revenant à l’écran \"Confirmation\".</p>
     ]]></string>
 
     <string name="help_create_ledger"><![CDATA[
@@ -242,10 +242,10 @@
         ce mode, votre solde n’est visible sur aucun écran afin que vous puissiez utiliser votre
         portefeuille en toute sécurité dans la rue, un bar ou autre lieu public. Les transactions
         précédentes sont également masquées. Les nouvelles transactions seront affichées, afin que vous
-        puissiez voir que vous avez envoyé ou reçu vos doux Swap !</p>
+        puissiez voir que vous avez envoyé ou reçu vos doux Cryptocoin !</p>
         <h2>Analyse</h2>
-        Comme Swap aime garder les choses confidentielles, nous devons scanner la chaîne de blocs
-        chaque fois que vous ouvrez un portefeuille Swap Wallet pour voir si de nouveaux Swap ont été
+        Comme Cryptocoin aime garder les choses confidentielles, nous devons scanner la chaîne de blocs
+        chaque fois que vous ouvrez un portefeuille Cryptocoin Wallet pour voir si de nouveaux Cryptocoin ont été
         envoyés à votre portefeuille, cela ne stocke sur votre appareil que les informations appartenant
         à votre portefeuille. Parfois cela peut prendre un moment si vous n’avez pas synchronisé depuis
         longtemps.
@@ -253,8 +253,8 @@
         <p><b>Au secours ! Le solde de mon portefeuille a disparu ou est non confirmé !</b><br/>
         Ne paniquez pas ! Lorsque vous envoyez des fonds sur votre portefeuille, une partie de votre
         solde sera temporairement affichée comme non confirmée.
-        Cela se produit à cause de la façon dont Swap est échangé sur la chaîne de blocs et du
-        fonctionnement de la monnaie dans Swap. Apprenez-en plus à propos de la monnaie dans Swap
+        Cela se produit à cause de la façon dont Cryptocoin est échangé sur la chaîne de blocs et du
+        fonctionnement de la monnaie dans Cryptocoin. Apprenez-en plus à propos de la monnaie dans Cryptocoin
         sur https://getmonero.org/fr/resources/moneropedia/change.html
         <h2>Liste des Transactions</h2>
         <p>Une listes des transactions du portefeuille. Dans un portefeuille d’Audit, seules les
@@ -264,14 +264,14 @@
     <string name="help_node"><![CDATA[
         <h1>Nœuds</h1>
         <h2>En résumé</h2>
-        <p>Rafraichit la liste de nœuds en faisant glisser vers le bas &amp; met en favoris 3 à 5 nœuds pour permettre à Swap Wallet
+        <p>Rafraichit la liste de nœuds en faisant glisser vers le bas &amp; met en favoris 3 à 5 nœuds pour permettre à Cryptocoin Wallet
         de choisir le meilleur pour vous !</p>
         <h2>Qu’est-ce qu’un Nœud ?</h2>
-        <p>Swap Wallet utilise un Nœud distant (parfois appelé un Démon) pour communiquer avec
-        le réseau Swap sans avoir à télécharger et stocker une copie complète de la
+        <p>Cryptocoin Wallet utilise un Nœud distant (parfois appelé un Démon) pour communiquer avec
+        le réseau Cryptocoin sans avoir à télécharger et stocker une copie complète de la
         chaîne de blocs elle-même.<p>
         <h2>Liste de Nœuds</h2>
-        <p>Si la liste est vide, vous pouvez soit ajouter de nouveaux nœuds manuellement, ou laisser Swap Wallet
+        <p>Si la liste est vide, vous pouvez soit ajouter de nouveaux nœuds manuellement, ou laisser Cryptocoin Wallet
         scanner le réseau pour vous. Ou les deux. Lire la suite&#8230;</p>
         <p>La liste des nœuds affiche tous les nœuds connus. De plus, l’horodatage
         du dernier bloc connu par chaque nœud est indiqué en dessous du nom du nœud. Une icône
@@ -280,10 +280,10 @@
         est affiché à coté de chaque nœud.</p>
         <p>N’importe quel nœud de la liste peut être ajouté aux favoris pour un usage ultérieur.
         Les nœuds qui ne sont pas en favoris seront oubliés.<p>
-        <p>Swap Wallet choisira le nœud optimal parmi les favoris à chaque fois que vous l’utiliserez.
+        <p>Cryptocoin Wallet choisira le nœud optimal parmi les favoris à chaque fois que vous l’utiliserez.
         Ceci est fait en vérifiant la hauteur de bloc (à quel point le nœud
         est à jour ?) de même que le comportement de réponse (à quelle vitesse le nœud répond aux requêtes ?).</p>
-        <p>La liste est triée selon ces caractéristiques, afin que le nœud le plus haut soit celui que Swap Wallet
+        <p>La liste est triée selon ces caractéristiques, afin que le nœud le plus haut soit celui que Cryptocoin Wallet
         utilisera tout de suite. Le bas de la liste montrera des nœuds très lents ou indisponibles.</p>
         <h2>Ajouter un Nœud</h2>
         <p>En touchant le bouton &quot;Ajouter un Nœud&quot; en bas, il vous sera demandé
@@ -297,16 +297,16 @@
         Le &quot;Résultat du test&quot; indiquera la hauteur de bloc, le temps de réponse et l’adresse IP actuellement utilisée.
         Le résultat pourrait également être une erreur - habituellement car le nom d’hôte fourni n’est
         pas joignable pendant un temps non négligeable, ou que les identifiants sont incorrects.
-        Ou la combinaison nom d’hôte/port ne renvoie pas vers un nœud Swap réel !
+        Ou la combinaison nom d’hôte/port ne renvoie pas vers un nœud Cryptocoin réel !
         Une fois que le test réussit (sans erreur) - vous êtes prêt à appuyer sur &quot;OK&quot; pour sauvegarder &amp;
         mettre ce nœud en favori.</p>
         <h2>Rechercher des Nœuds</h2>
-        <p>De plus, vous pouvez rechercher des nœuds sur le réseau. Swap Wallet va commencer à
+        <p>De plus, vous pouvez rechercher des nœuds sur le réseau. Cryptocoin Wallet va commencer à
         parcourir le réseau à la recherche de nœuds distants sur le port 19950. Il commence par demander à vos
-        nœuds en favoris d’autres homologues dans le réseau Swap P2P puis continue
+        nœuds en favoris d’autres homologues dans le réseau Cryptocoin P2P puis continue
         en demandant leurs homologues à ceux-ci, et ainsi de suite. Si vous n’avez pas de nœuds en favoris
         (ou s’ils ne communiquent pas leurs homologues),
-        Swap Wallet va communiquer directement avec les nœuds d’ensemencement codés en dur dans Swap. La
+        Cryptocoin Wallet va communiquer directement avec les nœuds d’ensemencement codés en dur dans Cryptocoin. La
         recherche s’arrête lorsqu’un total de 10 nœuds distant est récupéré.</p>
     ]]></string>
 

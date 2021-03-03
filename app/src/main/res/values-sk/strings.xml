@@ -35,52 +35,52 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>Vložil si Bitcoin adresu.</b><br/>
-        <i>Pošleš XWP a adresát dostane BTC cez službu <b>XWP.TO</b>.</i>
+        <i>Pošleš CRYPTO a adresát dostane BTC cez službu <b>CRYPTO.TO</b>.</i>
     ]]></string>
 
-    <string name="info_send_xmrto_success_order_label">XWP.TO Objednávka</string>
+    <string name="info_send_xmrto_success_order_label">CRYPTO.TO Objednávka</string>
 
     <string name="info_send_xmrto_success_btc">%1$s BTC</string>
 
 
     <string name="info_send_xmrto_paid">Čaká na Potvrdenie</string>
     <string name="info_send_xmrto_unpaid">Čakajúca Platba</string>
-    <string name="info_send_xmrto_error">XWP.TO Chyba (%1$s)</string>
+    <string name="info_send_xmrto_error">CRYPTO.TO Chyba (%1$s)</string>
     <string name="info_send_xmrto_sent">BTC Odoslané!</string>
     <string name="info_send_xmrto_query">Zisťujem &#8230;</string>
 
     <string name="info_send_xmrto_parms"><![CDATA[
         <b>Môžeš poslať %1$s &#8212; %2$s BTC</b>.<br/>
-        <i><b>XWP.TO</b> ti dáva výmenný kurz of <b>%3$s BTC</b> <u>práve teraz</u></i>.
+        <i><b>CRYPTO.TO</b> ti dáva výmenný kurz of <b>%3$s BTC</b> <u>práve teraz</u></i>.
     ]]></string>
     <string name="info_send_xmrto_zeroconf"><![CDATA[
         <i>čiastka do <b>%1$s BTC</b> bude odoslaná <u>okamžite</u>!</i>
     ]]></string>
 
-    <string name="send_available_btc">Zostatok: %2$s BTC (%1$s XWP)</string>
+    <string name="send_available_btc">Zostatok: %2$s BTC (%1$s CRYPTO)</string>
 
     <string name="info_paymentid_integrated">&#x2714; Payment ID integrované</string>
     <string name="info_prepare_tx">Pripravujem transakciu</string>
 
-    <string name="label_send_progress_xmrto_create">Vytváram objednávku na XWP.TO</string>
-    <string name="label_send_progress_xmrto_query">Pýtam sa na objednávku XWP.TO</string>
+    <string name="label_send_progress_xmrto_create">Vytváram objednávku na CRYPTO.TO</string>
+    <string name="label_send_progress_xmrto_query">Pýtam sa na objednávku CRYPTO.TO</string>
     <string name="label_send_progress_create_tx">Pripravujem Monero transakciu</string>
 
-    <string name="label_send_progress_queryparms">Posielam XWP.TO parametre</string>
+    <string name="label_send_progress_queryparms">Posielam CRYPTO.TO parametre</string>
 
-    <string name="label_generic_xmrto_error">CHYBA XWP.TO</string>
+    <string name="label_generic_xmrto_error">CHYBA CRYPTO.TO</string>
     <string name="text_generic_xmrto_error">Kód chyby: %1$d</string>
 
     <string name="text_retry">Klepni pre opakovanie</string>
     <string name="text_noretry_monero">Uviazli sme tu!</string>
-    <string name="text_noretry">Myslím, že služba XWP.TO nie je momentálne dostupná!</string>
+    <string name="text_noretry">Myslím, že služba CRYPTO.TO nie je momentálne dostupná!</string>
 
-    <string name="text_send_btc_amount">%1$s BTC = %2$s XWP</string>
-    <string name="text_send_btc_rate">(Kurz: %1$s BTC/XWP)</string>
+    <string name="text_send_btc_amount">%1$s BTC = %2$s CRYPTO</string>
+    <string name="text_send_btc_rate">(Kurz: %1$s BTC/CRYPTO)</string>
 
-    <string name="label_send_btc_xmrto_info">Navštív XWP.TO pre podporu &amp; tracking</string>
-    <string name="label_send_btc_xmrto_key_lb">Tajný kľúč\nXWP.TO</string>
-    <string name="label_send_btc_xmrto_key">XWP.TO Tajný kľúč</string>
+    <string name="label_send_btc_xmrto_info">Navštív CRYPTO.TO pre podporu &amp; tracking</string>
+    <string name="label_send_btc_xmrto_key_lb">Tajný kľúč\nCRYPTO.TO</string>
+    <string name="label_send_btc_xmrto_key">CRYPTO.TO Tajný kľúč</string>
     <string name="label_send_btc_address">Cieľová BTC Adresa</string>
     <string name="label_send_btc_amount">Čiastka</string>
 
@@ -139,9 +139,9 @@
     <string name="label_wallet_receive">Prijať</string>
     <string name="label_wallet_send">Poslať</string>
 
-    <string name="xmr_unconfirmed_amount">+ %1$s XWP nepotvrdených</string>
+    <string name="xmr_unconfirmed_amount">+ %1$s CRYPTO nepotvrdených</string>
 
-    <string name="service_description">Swap Wallet Service</string>
+    <string name="service_description">Cryptocoin Wallet Service</string>
 
     <string name="status_synced">Synchronizované:</string>
     <string name="status_remaining">zostávajúcich blokov</string>
@@ -153,14 +153,14 @@
 
     <string name="label_copy_viewkey">Prezerací Kľúč</string>
     <string name="label_copy_address">Verejná Adresa</string>
-    <string name="label_copy_xmrtokey">Kľúč XWP.TO</string>
+    <string name="label_copy_xmrtokey">Kľúč CRYPTO.TO</string>
     <string name="message_copy_viewkey">Prezerací Kľúč skopírovaný do schránky!</string>
-    <string name="message_copy_xmrtokey">XWP.TO kľúč skopírovaný do schránky!</string>
+    <string name="message_copy_xmrtokey">CRYPTO.TO kľúč skopírovaný do schránky!</string>
     <string name="message_copy_address">Adresa peňaženky skopírovaná do schránky!</string>
     <string name="message_copy_txid">ID Transakcie skopírované do schránky!</string>
     <string name="message_nocopy">Kopírovanie vypnuté z bezpečnostných dôvodov!</string>
 
-    <string name="message_exchange_failed">Neviem získať výmenný kurz!\nSkús XWP/XWP alebo vyskúšaj neskôr</string>
+    <string name="message_exchange_failed">Neviem získať výmenný kurz!\nSkús CRYPTO/CRYPTO alebo vyskúšaj neskôr</string>
 
     <string name="generate_title">Vytvor Peňaženku</string>
     <string name="generate_name_hint">Názov Peňaženky</string>
@@ -169,9 +169,9 @@
     <string name="generate_fingerprint_warn"><![CDATA[
         <strong>Overenie odtlačkom prsta</strong>
         <p>Pomocou overenia odtlačkom prsta, môžeš vidieť zostatok a prijímať prostriedky, bez zadávania hesla.</p>
-        <p>Avšak kvôli zvýšeniu bezpečnosti, Swap Wallet bude stále vyžadovať heslo na zobrazenie detailov peňaženky a posielanie.</p>
+        <p>Avšak kvôli zvýšeniu bezpečnosti, Cryptocoin Wallet bude stále vyžadovať heslo na zobrazenie detailov peňaženky a posielanie.</p>
         <strong>Bezpečnostné Varovanie</strong>
-        <p>Swap Wallet Ti chce pripomenúť, že ktokoľvek kto získa prístup k Tvojim odtlačkom, bude schopný nazrieť do tvojej peňaženky.</p>
+        <p>Cryptocoin Wallet Ti chce pripomenúť, že ktokoľvek kto získa prístup k Tvojim odtlačkom, bude schopný nazrieť do tvojej peňaženky.</p>
         <p>Napríklad záškodník niekde v blízkosti môže otvoriť Tvoju peňaženku keď spíš.</p>
         <strong>Si si istý, že chceš povoliť túto funkciu?</strong>
     ]]></string>
@@ -221,19 +221,19 @@
     <string name="send_qr_address_invalid">Neplatný QR Kód Platby</string>
     <string name="send_address_invalid">Neplatná Adresa</string>
     <string name="send_title">Poslať</string>
-    <string name="send_available">Zostatok: %1$s XWP</string>
+    <string name="send_available">Zostatok: %1$s CRYPTO</string>
     <string name="send_address_title">Adresa</string>
     <string name="send_amount_title">Čiastka</string>
     <string name="send_confirm_title">Potvrdiť</string>
     <string name="send_success_title">Hotovo</string>
 
     <string name="send_amount_label">Čiastka</string>
-    <string name="send_fee_btc_label">poplatok (XWP)</string>
+    <string name="send_fee_btc_label">poplatok (CRYPTO)</string>
     <string name="send_fee_label">poplatok</string>
-    <string name="send_total_btc_label">Total (XWP)</string>
+    <string name="send_total_btc_label">Total (CRYPTO)</string>
     <string name="send_total_label">Total</string>
 
-    <string name="send_amount">%1$s XWP</string>
+    <string name="send_amount">%1$s CRYPTO</string>
     <string name="send_fee">+%1$s poplatok</string>
 
     <string name="send_create_tx_error_title">Vytvor Chybu Transakcie</string>
@@ -271,7 +271,7 @@
 
     <string name="receive_amount_too_big">Max. %1$s</string>
     <string name="receive_amount_negative">Min. 0</string>
-    <string name="receive_amount_nan">XWP nie číslo</string>
+    <string name="receive_amount_nan">CRYPTO nie číslo</string>
 
     <string name="details_alert_message">Budú zobrazené citlivé dáta.\nPozri cez plece!</string>
     <string name="details_alert_yes">Som v bezpečí</string>
@@ -370,7 +370,7 @@
     <!-- please verify this means "Receiver" or "Recipient" as in "Receiver in the transaction" -->
     <string name="send_address_hint">Príjemca</string>
 
-    <string name="xmrto_error_001">XWP.TO je offline - skús neskôr</string>
+    <string name="xmrto_error_001">CRYPTO.TO je offline - skús neskôr</string>
     <string name="xmrto_error_004">Množstvo BTC je mimo rámca</string>
     <string name="xmrto_error_010">Neplatná alebo stará URL platby</string>
     <string name="xmrto_error_012">Príliš veľa požiadaviek</string>

@@ -33,7 +33,7 @@
             android:visibility="visible" />
     </RelativeLayout>
 
-    <com.swap.xwpwallet.widget.ExchangeEditText
+    <com.cryptocoin.cryptowallet.widget.ExchangeEditText
         android:id="@+id/etAmount"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

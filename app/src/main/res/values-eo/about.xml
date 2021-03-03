@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_close">Fermi</string>
-    <string name="about_whoami">Mi estas Swap</string>
+    <string name="about_whoami">Mi estas Cryptocoin</string>
     <string name="about_version">Versio %1$s (%2$d)</string>
 
     <string name="credits_text"><![CDATA[
@@ -11,45 +11,45 @@
         m2049r, baltsar777, anhdres, keejef,
         rehrar, EarlOfEgo, ErCiccione kaj aliaj.
         <br/><br/>
-        <a href="https://xwp.one/">xwp.one</a>
+        <a href="https://crypto.one/">crypto.one</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
         <h1>Privateca politiko</h1>
         <p>Tiu paĝo informas vin pri nia politiko rilate al la kolektado, uzado
         kaj rivelado de personaj informoj kiujn ni ricevas de uzantoj de la
-        aplikaĵo. (Swap: Swap Wallet).</p>
+        aplikaĵo. (Cryptocoin: Cryptocoin Wallet).</p>
         <p>Uzante la aplikaĵon, vi akceptas la kolektadon kaj uzon de informoj
         kongrue al tiu politiko.</p>
         <h2>Kolektitaj datumoj</h2>
         <p>Persona datumo estas ĉiu ajn datumo kiu povas identigi personon.<p>
-        <p>Swap-ŝlosiloj kaj publikaj adresoj kolektiĝas kaj traktiĝas de la aplikaĵo
-        lokale, por la celo trakti transakciojn, kaj sendiĝas sur la Swap-reto je ĉifrita
+        <p>Cryptocoin-ŝlosiloj kaj publikaj adresoj kolektiĝas kaj traktiĝas de la aplikaĵo
+        lokale, por la celo trakti transakciojn, kaj sendiĝas sur la Cryptocoin-reto je ĉifrita
         formo.</p>
         <p>Aliaj personaj datumoj ne kolektiĝas de la aplikaĵo.</p>
         <p>Se vi uzas la opcian funkcionon, kiu permesas nombrumi vian pagon je alia valuto (ekz. dolaroj),
-        Swap informpetos pri la kurzo per la publika interfaco de www.coingecko.com.
+        Cryptocoin informpetos pri la kurzo per la publika interfaco de www.coingecko.com.
         Vidu ilian privatecan politikon je https://www.coingecko.com/en/privacy por detaloj pri
         kiel la datumo de viaj petoj kolektiĝos.</p>
         <h2>Permesoj de la aplikaĵo</h2>
         <ul>
-        <li>INTERRETO : Konekti kun la Swap-reto per noda demono</li>
+        <li>INTERRETO : Konekti kun la Cryptocoin-reto per noda demono</li>
         <li>LEGI_EKSTERAJN_MEMORILOJN : Legi la monujdosierojn kiuj konserviĝas en la aparato</li>
         <li>SKRIBI_EKSTERAJN_MEMORILOJN : Skribi la monujdosierojn kiuj konserviĝas en la aparato</li>
         <li>LASI_VEKA : Lasi la aparaton veka dum la sinkronizado</li>
-        <li>FILMILO : Skani QR-kodojn por ricevi Swapn</li>
+        <li>FILMILO : Skani QR-kodojn por ricevi Cryptocoinn</li>
         </ul>
         <h2>Ŝanĝoj de la privateca politiko</h2>
         <p>Ni eble ĝisdatigos tiun privatecan politikon de temp\' al tempo. Ni
         sciigos vin pri ĉiu ŝanĝo tiel : ni sendos la novan privatecan politikon en la
-        aplikaĵon kaj sur la retejo (www.xwp.one)
+        aplikaĵon kaj sur la retejo (www.crypto.one)
         Ni konsilas al vi, ke vi regule gvatu tiun dokumenton kaze de ŝanĝoj.
         <p>Tiu privateca politiko ĝisdatiĝis lastfoje la 10an de novembro 2017.
         </p>
         <h2>Kontaktu nin</h2>
         <p>Se vi havas ian demandon pri nia privateca politiko,
         aŭ pri kiel viaj datumoj kolektiĝas kaj traktiĝas,
-        kontaktu retpoŝte xwpdev@gmail.com.
+        kontaktu retpoŝte cryptodev@gmail.com.
         </p>
         ]]></string>
 </resources>

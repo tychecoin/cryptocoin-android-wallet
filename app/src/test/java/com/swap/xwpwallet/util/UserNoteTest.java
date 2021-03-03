@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.swap.xwpwallet.util;
+package com.cryptocoin.cryptowallet.util;
 
-import com.swap.xwpwallet.data.UserNotes;
+import com.cryptocoin.cryptowallet.data.UserNotes;
 
 import org.junit.Test;
 
