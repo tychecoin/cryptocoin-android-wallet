@@ -29,7 +29,7 @@
 
     <color name="colorPrimaryDark">#A262FB</color>
     <!--color name="colorAccent">#009ADA</color-->
-    <color name="colorAccent">@color/gradientPurple</color>
+    <color name="colorAccent">#02d76c</color>
 
     <color name="white">#ffffff</color>
 </resources>
