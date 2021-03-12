@@ -6,7 +6,7 @@ source script/env.sh
 
 cd $EXTERNAL_LIBS_BUILD_ROOT
 
-url="https://github.com/GonzoTheDev/crypto"
+url="https://github.com/tychecoin/crypto"
 version="crypto-android"
 
 if [ ! -d "crypto" ]; then
