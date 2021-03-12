@@ -4,7 +4,7 @@
 
 set -e
 
-packages=(boost openssl cryptocoin libsodium)
+packages=(boost openssl crypto libsodium)
 archs=(arm arm64 x86 x86_64)
 
 for arch in ${archs[@]}; do
@@ -33,7 +33,7 @@ for arch in ${archs[@]}; do
 		rm -f $OUTPUT_DIR/*.a
 		cp -a $INPUT_DIR/$arch/lib/*.a $OUTPUT_DIR
 
-		if [ $package = "cryptocoin" ]; then
+		if [ $package = "crypto" ]; then
 			rm -rf $OUTPUT_DIR/../../include
 		  cp -a $INPUT_DIR/include $OUTPUT_DIR/../..
 		fi

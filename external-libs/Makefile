@@ -57,4 +57,4 @@ distclean: clean
 
 archive: libsodium openssl boost monero
 	echo "Packing external-libs"
-	tar czfv  external-libs.tgz libsodium openssl boost swap
+	tar czfv  external-libs.tgz libsodium openssl boost crypto
