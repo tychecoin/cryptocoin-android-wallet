@@ -8,7 +8,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 104
-        versionName "3.1.2 'Greater Roadrunner'"
+        versionName "3.2.1 'Crested Coua'"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
