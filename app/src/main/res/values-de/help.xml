@@ -97,7 +97,7 @@
         <h2>Node</h2>
         <p>Cryptocoin Wallet benutzt einen Drittanbieter-Node, um mit dem Cryptocoin-Netzwerk zu kommunizieren, ohne
         die gesamte Blockchain herunterladen zu müssen. Eine Liste bekannter Drittanbieter-Nodes
-	oder eine Anleitung zum Betreiben eines eigenen Drittanbieter-Nodes findest du unter https://autonode.crypto.fyi/<p>
+	oder eine Anleitung zum Betreiben eines eigenen Drittanbieter-Nodes findest du unter https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet besitzt einige voreingestellte Drittanbieter-Nodes. Es erinnert sich an die letzten 5 benutzten Nodes.</p>
         <h2>Wallets</h2>
         <p>Hier siehst du deine Wallets. Sie befinden sich im <tt>monerujo</tt> Ordner
@@ -130,7 +130,7 @@
 		Zum Beispiel kann ein Unternehmen damit Zahlungen und Verkäufe miteinander verbinden.
         <h2>TX-ID</h2>
         Dies ist deine Transaktions-ID, die du benutzen kannst, um verschleierte Transaktionen mit einem Cryptocoin-
-        Blockchain-Explorer wie <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a> zu identifizieren.
+        Blockchain-Explorer wie <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a> zu identifizieren.
         <h2>TX-Schlüssel (Transaktionsschlüssel)</h2>
         Dies ist dein geheimer Transaktionsschlüssel. Bewahre ihn sicher auf, da er Dritten deine Signatur in einem Ring offenbart 
 	und deshalb deine Transaktionen transparent macht.
@@ -268,7 +268,7 @@
         Node-Details im nachfolgenden Dialog gefragt werden.
         Die &quot;Adresse&quot; ist die Web- oder IP-Adresse des Nodes – dies ist der einzig
         notwendige Eintrag.
-        Gebe den &quot;Port&quot; ein, wenn der Node nicht den standardmäßigen Port (also 19950) benutzt.
+        Gebe den &quot;Port&quot; ein, wenn der Node nicht den standardmäßigen Port (also 22222) benutzt.
         Du kannst auch optional den Node benennen, damit du ihn später einfacher identifizieren kannst.
         Einige Nodes erfordern Login-Informationen, um sie zu benutzen. Gebe den dir zugekommenen Nutzernamen &amp;
         das Passwort in die entsprechenden Felder ein. Jetzt kannst du diese Einstellung &quot;Testen&quot;.
@@ -280,7 +280,7 @@
         vorzumerken.</p>
         <h2>Suche nach Nodes</h2>
         <p>Außerdem kannst du das Netzwerk nach Nodes durchsuchen. Cryptocoin Wallet wird
-        das Netzwerk nach Drittanbieter-Nodes auf Port 19950 durchsuchen. Es fängt damit an, deine
+        das Netzwerk nach Drittanbieter-Nodes auf Port 22222 durchsuchen. Es fängt damit an, deine
         vorgemerkten Nodes nach anderen Teilnehmern im Cryptocoin-P2P-Netzwerk zu fragen und fährt dann damit fort,
         diese nach ihren Verbindungen zu fragen und so weiter. Wenn du keine vorgemerkten Nodes hast
         (oder diese uns nicht über ihre Verbindungen informieren),

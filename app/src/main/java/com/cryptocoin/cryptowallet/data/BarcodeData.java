@@ -100,7 +100,7 @@ public class BarcodeData {
     }
 
     public String getUriString() {
-        if (asset != Asset.XMR) throw new IllegalStateException("We can only do XMR stuff!");
+        if (asset != Asset.XMR) throw new IllegalStateException("We can only do CRYPTO stuff!");
         StringBuilder sb = new StringBuilder();
         sb.append(BarcodeData.XMR_SCHEME).append(address);
         boolean first = true;

@@ -102,7 +102,7 @@
         <h2>Uzol</h2>
         <p>Cryptocoin Wallet používa vzdialené uzly na komunikáciu so sieťou Cryptocoin. Nie je tak potrebné sťahovať
 		a ukladať celú blockchain ako takú. Zoznam populárnych uzlov spolu s návodmi ako ich rozbehať môžeš nájsť na 
-		https://autonode.crypto.fyi/<p>
+		https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet prichádza s niekoľkými prednastavenými uzlami. Pamätá si posledných 5 použitých uzlov.</p>
         <h2>Peňaženky</h2>
         <p>Tu vidíš svoje peňaženky. Sú umiestnené v adresári <tt>monerujo</tt> na internom úložisku Tvojho zariadenia.
@@ -134,7 +134,7 @@
         Môžeš použiť ID Platby na identifikáciu platby medzi dvoma stranami. Nie je to síce povinný, ale je to súkromný údaj.
 		Tak napríklad s týmto môžeš zosúladiť svoj biznis s kúpenou položkou. Táto funkcia bude v Cryptocoin nahradená podadresami.
         <h2>TX ID</h2>
-        Toto je ID transakcie, ktoré slúži na identifikáciu transakcie v Cryptocoin blockchain exploreri, ako napr. <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        Toto je ID transakcie, ktoré slúži na identifikáciu transakcie v Cryptocoin blockchain exploreri, ako napr. <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>TX KĽÚČ (Transaction Key)</h2>
         Toto je Tvoj súkromný kľúč transakcie, uchovaj ho bezpečne a neposkytuj ho tretím stranám,
 		aby nemohli identifikovať tvoj podpis v kruhovom podpise a spraviť tak transakciu verejnú a transparentnú.		
@@ -245,7 +245,7 @@
         <h2>Pridať Uzol</h2>
         <p>Dotykom na tlačítko &quot;Pridať Uzol&quot; vložíte detaily vlastného uzla.
         &quot;Adresa&quot; je hostname alebo IP-adresa uzla. Je to jediné povinné pole.
-        &quot;Port&quot; ak uzol používa iný ako predvolený port (napr. 19950).
+        &quot;Port&quot; ak uzol používa iný ako predvolený port (napr. 22222).
         Môžte si aj pomenovať svoje uzly pre budúce použitie. Je to voliteľné.
 		Niektoré uzly vyžadujú na používanie aj prihlasovacie údaje. V tom prípade napíšte užívateľské meno a heslo do príslušných polí.
         To by malo stačiť na testovanie týchto nastavení. &quot;Test&quot;
@@ -254,7 +254,7 @@
 		Prípadne kombinácia zadanej adresy a portu neprislúcha žiadnemu uzlu Cryptocoin siete!
         Akonáhle test skončí úspešne (žiadna chyba sa neobjaví) - klepni na &quot;OK&quot; a ulož si daný uzol.</p>
         <h2>Vyhľadať Uzol</h2>
-        <p>Táto funkcia umožní vyhľadať uzol skenovaním Cryptocoin siete. Cryptocoin Wallet začne skenovať sieť a vyhľadávať vzdialené uzly na porte 19950.
+        <p>Táto funkcia umožní vyhľadať uzol skenovaním Cryptocoin siete. Cryptocoin Wallet začne skenovať sieť a vyhľadávať vzdialené uzly na porte 22222.
 		Začína tým, že sa opýta uzlov vo vašich záložkách na ďalšie uzly v P2P sieti Cryptocoin, ktoré sú s nimi spojené, tých sa opýta zas na ďalšie uzly atď. 
 		V prípade, že nemáte žiadne uzly vo svojich záložkách, Cryptocoin Wallet bude skúšať uzly (seed nodes) natvrdo zapísané v kóde Cryptocoin. Vyhľadávanie končí ak Cryptocoin Wallet nájde aspoň 10 vzdialených uzlov.</p>
     ]]></string>

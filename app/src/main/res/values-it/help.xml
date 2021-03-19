@@ -101,7 +101,7 @@
         <h2>Nodo</h2>
 	<p>Cryptocoin Wallet usa un nodo remoto per comunicare con la rete Cryptocoin senza dover scaricare e mantenere in
 		memoria una copia della blockchain intera. Puoi trovare una lista di nodi remoti popolari o
-		imparare come eseguire un tuo personale nodo remoto a questo sito: https://autonode.crypto.fyi/<p>
+		imparare come eseguire un tuo personale nodo remoto a questo sito: https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet contiene già una lista di nodi remoti e tiene memoria degli ultimi cinque nodi utilizzati.</p>
         <h2>Portafogli</h2>
 	<p>Qui trovi la lista dei portafogli. I portafogli sono fisicamente posizionati nella cartella <tt>monerujo</tt>
@@ -134,7 +134,7 @@
 	Ad esempio può aiutare un venditore ad associare una transazione ricevuta ad un bene da te acquistato.
         <h2>TX ID (ID di Transazione)</h2>
 	Questo è l&apos;ID della transazione che puoi usare per identificare la tua transazione offuscata su un explorer della
-	blockchain Cryptocoin, ad esempio <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+	blockchain Cryptocoin, ad esempio <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>TX KEY (Chiave di transazione)</h2>
 	Questa è la tua chiave privata della transazione. Conservala al sicuro poiché rivelare questa chiave a terze
 	parti rivela quale firma in un anello è la tua, rendendo quindi la tua transazione trasparente.
@@ -272,7 +272,7 @@
         <p>Toccando il pulsante &quot;Aggiungi nodo&quot; in fondo, ti verrà chiesto di
         inserire i dettagli del nodo nella schermata successiva.
         L&apos;&quot;Indirizzo&quot; è il nome host o l&apos;indirizzo IP del nodo - questa è l&apos;unica informazione necessaria.
-        Inserisci la &quot;Porta&quot; se il nodo utilizza una porta diversa da quella di default (es. 19950).
+        Inserisci la &quot;Porta&quot; se il nodo utilizza una porta diversa da quella di default (es. 22222).
         Puoi inoltre assegnare un nome al nodo, in modo tale da poterlo facilmente identificare in futuro.
         Alcuni nodi richiedono delle credenziali per poter essere usati. Inserisci negli appositi campi il nome utente &amp;
         password forniti. Ora puoi &quot;Effettuare un Test&quot; con queste impostazioni.
@@ -284,7 +284,7 @@
         aggiungere questo nodo ai segnalibri.</p>
         <h2>Esegui scansione alla ricerca di nodi</h2>
         <p>Puoi anche eseguire una scansione su rete alla ricerca di nodi. Cryptocoin Wallet inizierà
-        la scansione della rete alla ricerca di nodi sulla porta 19950, chiedendo dapprima ai tuoi
+        la scansione della rete alla ricerca di nodi sulla porta 22222, chiedendo dapprima ai tuoi
 	nodi salvati i loro peer all&apos;interno della rete P2P di Cryptocoin per poi proseguire
 	chiedendo peer a questi ultimi e così via. Se non hai nodi salvati
         (o se essi non ci comunicano i loro peer),

@@ -77,7 +77,7 @@
         <h2>Node</h2>
 
         <p>Cryptocoin Wallet utilitza un node remot per comunicar-se amb la xarxa Cryptocoin sense necessitat
-         de descarregar i emmagatzemar una còpia de tota la blockchain sencera. Podeu trobar una llista dels nodes remots més populars o aprendre a configurar el vostre propi node 	remot aquí https://autonode.crypto.fyi/<p>
+         de descarregar i emmagatzemar una còpia de tota la blockchain sencera. Podeu trobar una llista dels nodes remots més populars o aprendre a configurar el vostre propi node 	remot aquí https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet té alguns Nodes remots incorporats. Se’n recorda dels últims cinc nodes empleats.</p>
         <h2>Portamonedes</h2>
         <p>Aquí podeu veure els portamonedes. Es troben a la carpeta <tt> monerujo </tt>
@@ -104,7 +104,7 @@
         <h2>ID de Pagament</h2>
 	Podeu utilitzar un ID de pagament per identificar el motiu pel qual heu enviat a Cryptocoin entre dues parts. Això és totalment opcional i privat. Per exemple, això pot permetre 	a una empresa associar la transacció amb un article que heu comprat.
         <h2>ID de Transacció</h2>
-	Aquest és el vostre ID de transacció que podeu utilitzar per identificar la vostra transacció oculta en un Explorador de Blockchain de Cryptocoin com <a href="https://explorer.crypto.fyi/"> https://explorer.crypto.fyi/ </a>
+	Aquest és el vostre ID de transacció que podeu utilitzar per identificar la vostra transacció oculta en un Explorador de Blockchain de Cryptocoin com <a href="https://explorer.crypt-o-coin.cash/"> https://explorer.crypt-o-coin.cash/ </a>
         <h2>Clau de Transacció</h2>
         Aquesta és la vostra clau privada de transacció, manteniu-la segureta ja que mostrar-la a tercers els revelia quina signatura dins un anell és la vostra, fent que la vostra 	transacció sigui transparent.
         <h2>Bloc</h2>
@@ -211,7 +211,7 @@
         que introduïu els detalls del node al següent diàleg.
         El &quot;Adreça&quot; és el nom del servidor o adreça IP del node - aquesta és la única
         entrada obligatòria.
-        Introduïu el &quot;Port&quot; si el node s’executa en un port no predeterminat (per exemple, 19950).
+        Introduïu el &quot;Port&quot; si el node s’executa en un port no predeterminat (per exemple, 22222).
         També podeu anomenar opcionalment el node, de manera que el pugueu identificar més fàcilment més endavant.
         Alguns nodes necessiten credencials per utilitzar-los. Introduïu el nom d’usuari i
         contrasenya proporcionats als camps corresponents. Ara podeu &quot;Test&quot; aquesta configuració.
@@ -223,7 +223,7 @@
         marcar aquest node.</p>
         <h2>Escanejar Nodes</h2>
         <p>A més, podeu escanejar la xarxa per buscar nodes. Cryptocoin Wallet començarà
-         escanejant la xarxa per als nodes remots al port 19950. Començarà per preguntar als vostres
+         escanejant la xarxa per als nodes remots al port 22222. Començarà per preguntar als vostres
          nodes marcats per altres companys de la xarxa P2P de Cryptocoin, i després continuarà
          preguntant-los per als seus companys, etc. Si no teniu cap node marcat
          (o no ens informen sobre els seus companys),

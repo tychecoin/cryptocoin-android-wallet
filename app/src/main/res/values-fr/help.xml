@@ -103,7 +103,7 @@
         <p>Cryptocoin Wallet utilise un nœud distant pour communiquer avec le réseau Cryptocoin sans avoir à
         télécharger et stocker une copie complète de la chaîne de bloc. vous pourrez trouver une
         liste de nœud distant populaire ou apprendre comment faire fonctionner votre propre nœud
-        distant ici https://autonode.crypto.fyi/<p>
+        distant ici https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet est fourni avec quelques Nœuds distants préenregistrés. Les cinq derniers nœuds utilisé sont sauvegardés.</p>
         <h2>Portefeuilles</h2>
         <p>Ici vous pouvez voir vos Portefeuilles. Ils se trouvent dans le dossier <tt>monerujo</tt>
@@ -138,7 +138,7 @@
         acheté.
         <h2>ID TX</h2>
         C’est votre ID de transaction, vous pouvez l’utiliser pour identifier vos transaction masquées
-        sur un explorateur de la chaîne de blocs Cryptocoin comme <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        sur un explorateur de la chaîne de blocs Cryptocoin comme <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>Clef TX (Clef de Transaction)</h2>
         C’est la clef privée de votre transaction, conservez là en sécurité car la révéler à un
         tiers révèlerait quelle signature est la votre dans un cercle, et donc rendrait votre
@@ -290,7 +290,7 @@
         d’entrer les détails du nœud dans la boite de dialogue suivante.
         L’&quot;Adresse&quot; est le nom d’hôte ou l’adresse IP du nœud - c’est le seul
         champ obligatoire.
-        Entrer le &quot;Port&quot; si le nœud ne fonctionne pas sur un port par défaut (p.e. 19950).
+        Entrer le &quot;Port&quot; si le nœud ne fonctionne pas sur un port par défaut (p.e. 22222).
         Vous pouvez optionnellement donner un nom au nœud, afin que vous puissiez plus facilement l’identifier plus tard.
         Certains nœud nécessitent des identifiants pour les utiliser. Entrer les nom d’utilisateur &amp;
         mot de passe dans les champs appropriés. Maintenant vous pouvez &quot;Tester&quot; ces paramêtres.
@@ -302,7 +302,7 @@
         mettre ce nœud en favori.</p>
         <h2>Rechercher des Nœuds</h2>
         <p>De plus, vous pouvez rechercher des nœuds sur le réseau. Cryptocoin Wallet va commencer à
-        parcourir le réseau à la recherche de nœuds distants sur le port 19950. Il commence par demander à vos
+        parcourir le réseau à la recherche de nœuds distants sur le port 22222. Il commence par demander à vos
         nœuds en favoris d’autres homologues dans le réseau Cryptocoin P2P puis continue
         en demandant leurs homologues à ceux-ci, et ainsi de suite. Si vous n’avez pas de nœuds en favoris
         (ou s’ils ne communiquent pas leurs homologues),

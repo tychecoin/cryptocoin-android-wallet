@@ -146,7 +146,7 @@
         negocio pueda asociar inequívocamente tu transacción con un producto que has comprado.
         <h2>ID de Transacción</h2>
         Este es un identificador de tu transacción que puede ser utilizado para ubicar tu transacción
-        ofuscada en la cadena de bloques de Cryptocoin usando un explorador como <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        ofuscada en la cadena de bloques de Cryptocoin usando un explorador como <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>Clave de transacción</h2>
         Esta es la clave privada de tu transacción, mantenla segura ya que revelarla a un tercero
         desvela que firma en un anillo de transacciones es la tuya, por tanto haciendo tus transacciones transparentes.
@@ -305,7 +305,7 @@
         como marcador este nodo.</p>
         <h2>Escanear por Nodos</h2>
         <p>Adicionalmente, puedes escanear la red por nodos. Cryptocoin Wallet empezará
-        escaneando la red por Nodos Remotos con puerto 19950. Comienza preguntando tus
+        escaneando la red por Nodos Remotos con puerto 22222. Comienza preguntando tus
         nodos marcados por otros compañeros en la red P2P de Cryptocoin y después continúa
         preguntando por nodos a ellos por sus compañeros, y así. Si no tienes nodos marcados
         (o no nos comunican sobre sus compañeros),

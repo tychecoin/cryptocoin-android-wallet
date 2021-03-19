@@ -87,7 +87,7 @@ public class LoginActivity extends BaseActivity
     private static final String NODES_PREFS_NAME = "nodes";
     private static final String PREF_DAEMON_STAGENET = "daemon_stagenet";
     private static final String PREF_DAEMON_MAINNET = "daemon_mainnet";
-    private static final String DEFAULT_DAEMONLIST_MAINNET = "autonode.crypto.fyi:19950";
+    private static final String DEFAULT_DAEMONLIST_MAINNET = "node1.crypt-o-coin.cash:22222";
         
     private NodeInfo node = null;
 
@@ -944,7 +944,7 @@ public class LoginActivity extends BaseActivity
                         NodeInfo currentNode = getNode();
                         // get it from the connected node if we have one, and go back ca. 4 days
                         final long restoreHeight =
-                                (currentNode != null) ? currentNode.getHeight() - 2000 : -1;
+                                (currentNode != null) ? 0 : 0;
                         Wallet newWallet = WalletManager.getInstance()
                                 .createWallet(aFile, password, MNEMONIC_LANGUAGE, restoreHeight);
                         return checkAndCloseWallet(newWallet);

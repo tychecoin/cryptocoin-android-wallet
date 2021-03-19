@@ -251,7 +251,7 @@ public class NodeInfo extends Node {
         return false;
     }
 
-    static final private int[] TEST_PORTS = {19950}; // check only opt-in port
+    static final private int[] TEST_PORTS = {22222}; // check only opt-in port
 
     public boolean findRpcService() {
         // if already have an rpcPort, use that

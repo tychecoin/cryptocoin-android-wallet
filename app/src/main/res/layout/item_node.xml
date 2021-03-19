@@ -37,14 +37,14 @@
             style="@style/MoneroText.PosAmount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="autonode.crypto.fyi" />
+            tools:text="node1.crypt-o-coin.cash" />
 
         <TextView
             android:id="@+id/tvAddress"
             style="@style/MoneroText.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="172.81.177.187:19950" />
+            tools:text="207.148.24.233:22222" />
     </LinearLayout>
 
     <ImageView

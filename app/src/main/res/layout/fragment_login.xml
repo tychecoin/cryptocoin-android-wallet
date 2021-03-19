@@ -60,7 +60,7 @@
                         android:layout_height="wrap_content"
                         android:drawableStart="@drawable/ic_refresh_black_24dp"
                         android:drawablePadding="8dp"
-                        tools:text="autonode.crypto.fyi" />
+                        tools:text="node1.crypt-o-coin.cash" />
 
                     <TextView
                         android:id="@+id/tvNodeAddress"
@@ -68,7 +68,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="32dp"
-                        tools:text="172.81.177.187:19950" />
+                        tools:text="207.148.24.233:22222" />
                 </LinearLayout>
             </FrameLayout>
 

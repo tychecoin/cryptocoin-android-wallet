@@ -119,7 +119,7 @@
         <h2>Nodo</h2>
         <p>Cryptocoin Wallet uzas foran nodon por komuniki kun la Cryptocoin-Reto sen elŝuti kaj konservi kopion
         de la tuta blokĉeno. Vi povas trovi liston de popularaj foraj nodoj, aŭ lerni kiel starigi
-        vian propran foran nodon, tie : https://autonode.crypto.fyi/</p>
+        vian propran foran nodon, tie : https://node1.crypt-o-coin.cash/</p>
         <p>Cryptocoin Wallet estas jam antaŭagordita por kelkaj foraj nodoj. Ĝi memoros la kvin laste uzitajn
         nodojn. </p>
 
@@ -160,7 +160,7 @@
 
         <h2>Transakcia ID</h2>
         Tio identigas vian transakcion, vi povas uzi ĝin por sekvi vian tro daŭran transakction ĉe
-        Monera blokĉen-esplorilo, kiel <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        Monera blokĉen-esplorilo, kiel <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
 
         <h2>Transakcia ŝlosilo</h2>
         Tio estas la privata ŝlosilo de la transakcio, vi konservu ĝin sekrete. Se iu triulo vidos
@@ -293,7 +293,7 @@
         en la sekva formularo.
         La &quot;Adreso&quot; estas la nomo de la gastiganto aŭ IP-adreso de la nodo - estas la nura
         deviga entajpo.
-        Entajpu la &quot;Pordont&quot; se la nodo funkcias je nedefaŭlta pordo (ekz. 19950).
+        Entajpu la &quot;Pordont&quot; se la nodo funkcias je nedefaŭlta pordo (ekz. 22222).
         Vi opcie povas nomi la nodon, tiel ke vi poste rekonu ĝin pli facile.
         Iuj nodoj postulas ensalutilojn (uzantonomon kaj pasvorton) por uziĝi. Entajpu ilin en la
         taŭgaj kampoj. Nun vi povas &quot;Testi&quot; tiujn agordojn.
@@ -304,7 +304,7 @@
         Post la sukceso de la testo (neniu eraro) - vi povas premi &quot;OK&quot; por konservi tiun nodon.</p>
 
         <h2>Serĉi nodojn</h2>
-        <p>Vi povas aldone skani la reton, serĉante nodojn. Cryptocoin Wallet komencos la skanadon je la pordo 19950.
+        <p>Vi povas aldone skani la reton, serĉante nodojn. Cryptocoin Wallet komencos la skanadon je la pordo 22222.
         Ĝi komence petos viajn markitajn nodojn je aliaj partoprenantoj de la P2P-reto,
         kaj poste petos tiujn partoprenantoj je iliaj aliaj konektitaj partoprenantojn,
         kaj tiel plu.

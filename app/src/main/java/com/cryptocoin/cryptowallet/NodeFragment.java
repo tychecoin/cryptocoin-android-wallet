@@ -258,14 +258,9 @@ public class NodeFragment extends Fragment
                     }
                 });
                 // also seed with monero seed nodes (see p2p/net_node.inl:410 in monero src)
-                seedList.add(new NodeInfo(new InetSocketAddress("66.70.141.138", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("58.185.155.109", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("172.105.126.220", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("176.58.102.113", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("192.155.82.50", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("seed1.crypto.one", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("seed2.crypto.one", 19949)));
-                seedList.add(new NodeInfo(new InetSocketAddress("seed3.crypto.one", 19949)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed1.crypt-o-coin.cash", 11111)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed2.crypt-o-coin.cash", 11111)));
+                seedList.add(new NodeInfo(new InetSocketAddress("seed3.crypt-o-coin.cash", 11111)));
                 d.seedPeers(seedList);
                 d.awaitTermination(NODES_TO_FIND);
             }

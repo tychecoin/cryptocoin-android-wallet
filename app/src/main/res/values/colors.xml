@@ -6,11 +6,11 @@
     <color name="tx_failed">@color/moneroBlack</color>
 
     <color name="gradientCyan">#78C8F4</color>
-    <color name="gradientPurple">#A262FB</color>
+    <color name="gradientPurple">#00cc66</color>
 
     <color name="trafficGray">#9B9B9B</color>
 
-    <color name="take">#a262fb</color>
+    <color name="take">#00cc66</color>
     <color name="give">#2eaaf4</color>
 
     <color name="moneroWhite">#ffffff</color>
@@ -27,7 +27,7 @@
     <color name="moneroText">#FF616161</color>
 
 
-    <color name="colorPrimaryDark">#A262FB</color>
+    <color name="colorPrimaryDark">#00cc66</color>
     <!--color name="colorAccent">#009ADA</color-->
     <color name="colorAccent">#02d76c</color>
 

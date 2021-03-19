@@ -95,7 +95,7 @@
         <h2>Node</h2>
         <p>Cryptocoin Wallet bruker en ekstern node for å kommunisere med Cryptocoin-nettverket, uten å måtte
         laste ned og oppbevare en kopi av blokkjeden selv. Du kan finne en liste over populære
-        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://autonode.crypto.fyi/<p>
+        eksterne noder eller lære hvordan du driver din egen eksterne node her: https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet kommer med noen eksterne noder lagt inn. Den husker de fem siste nodene du har brukt.</p>
         <h2>Lommebøker</h2>
         <p>Her ser du lommebøkene dine. De ligger i <tt>monerujo</tt> mappa
@@ -129,7 +129,7 @@
 		en vare du har kjøpt.
         <h2>TX-ID</h2>
         Dette er transaksjons-IDen din, som du kan bruke til å identifisere transaksjonen din på den obfuskerte Cryptocoin blokkjeden, ved å bruke en
-        blokkjedeutforsker som <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        blokkjedeutforsker som <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>TX-nøkkel (Transaksjonsnøkkel)</h2>
         Dette er din private transaksjonsnøkkel. Hold den privat, siden å gi den til en tredjepart
         avslører hvilken signatur i ringen som er din, og gjør derfor transaksjonen din gjennomsiktig.
@@ -285,7 +285,7 @@
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
         <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
-        scanning the network for Remote Nodes on port 19950. It begins by asking your
+        scanning the network for Remote Nodes on port 22222. It begins by asking your
         bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),

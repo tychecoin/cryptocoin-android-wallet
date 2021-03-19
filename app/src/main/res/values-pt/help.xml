@@ -93,7 +93,7 @@
         <h2>Nó</h2>
         <p>O Cryptocoin Wallet utiliza um Nó Remoto para comunicar com a rede Cryptocoin sem ter que descarregar e
         guardar uma cópia da blockchain inteira. Podes encontrar uma lista de nós remotos populares ou
-        aprende como correr o teu próprio nó remoto em https://autonode.crypto.fyi/<p>
+        aprende como correr o teu próprio nó remoto em https://node1.crypt-o-coin.cash/<p>
         <p>O Cryptocoin Wallet vem com alguns Nós Remotos predefinidos. O histórico dos últimos 5 nós é guardado.</p>
         <h2>Carteiras</h2>
         <p>Aqui vês as tuas carteiras. Estão localizadas na pasta <tt>monerujo</tt>
@@ -127,7 +127,7 @@
         é que uma determinada transacção está a pagar.
         <h2>ID TX</h2>
         Este é o ID da tua Transacção que podes utilizar para identificar a tua transacção ofuscada
-        num explorador da Cryptocoin Blockchain como o <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        num explorador da Cryptocoin Blockchain como o <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>Chave TX (Chave da Transacção)</h2>
         Esta é a chave privada da tua transacção, mantém-a segura já que revelá-la a um terceiro
         revela qual a tua assinatura num anel, fazendo com que a tua transacção seja transparente.
@@ -273,7 +273,7 @@
 	<p>Tocando no botão &quot;Adicionar Nó&quot; no fundo, poderás adicionar os detalhes 
 	na janela de dialogo.
 	Em &quot;Endereço&quot; está o hostname ou endereço IP do nó - este é o unico campo necessário.
-	Introduz a &quot;Porta&quot; se o nó corre com uma porta nao standard (ex 19950).
+	Introduz a &quot;Porta&quot; se o nó corre com uma porta nao standard (ex 22222).
 	Podes opcionalmente introduzir também um nome para mais facilmente o identificares mais tarde.
 	Alguns nós requerem credenciais para os usar, introduz o nome de usuario &amp;
 	e palavra passe nos campos disponibilizados. Agora podes &quot;Testar&quot; estas configurações. 
@@ -285,7 +285,7 @@
         favorito este nó.</p>
         <h2>Procurar Nós</h2>
 	<p>Adicionalmente, podes procurar nós na Rede de Cryptocoin. O Cryptocoin Wallet vai realizar
-	uma busca na rede por nós remotos na porta 19950. Vai começar por procurar nos teus
+	uma busca na rede por nós remotos na porta 22222. Vai começar por procurar nos teus
 	nós favoritos por outros pares na rede P2P do Cryptocoin e depois continua perguntando 
 	a esses pares, e por ai fora. Se não tiveres nenhum nó favorito na tua lista o 
 	Cryptocoin Wallet irá usar directamente os nós base que estão inscritos no codigo do Cryptocoin.

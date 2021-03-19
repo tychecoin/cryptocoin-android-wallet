@@ -131,7 +131,7 @@
         <h2>TX ID</h2>
         Це ідентифікатор вашої транзакції (Transaction ID). Ви можете використовувати його для пошуку
 вашої транзакції через оглядач блокчейна Cryptocoin, наприклад, через цей:
-        <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>TX KEY (Ключ транзакції)</h2>
         Це ваш приватний ключ транзакції. Його слід зберігати в безпечному місці, так як з його допомогою
 третя сторона може ідентифікувати ваш підпис в кільці, що зробить транзакцію прозорою.
@@ -284,7 +284,7 @@ https://getmonero.org/resources/moneropedia/change.html
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
         <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
-        scanning the network for Remote Nodes on port 19950. It begins by asking your
+        scanning the network for Remote Nodes on port 22222. It begins by asking your
         bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),

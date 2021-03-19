@@ -207,7 +207,7 @@ public class PeerRetriever implements Callable<PeerRetriever> {
         Section nodeData = new Section();
         nodeData.add("local_time", (new Date()).getTime());
         nodeData.add("my_port", 0);
-        byte[] networkId = Helper.hexToBytes("f2392370610441601732008116a1a110"); // cryptocoin mainnet network id
+        byte[] networkId = Helper.hexToBytes("45f87aded79b1f611731008216A1A110"); // cryptocoin mainnet network id
         nodeData.add("network_id", networkId);
         nodeData.add("peer_id", PEER_ID);
         section.add("node_data", nodeData);

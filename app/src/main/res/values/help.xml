@@ -107,7 +107,7 @@
         <h2>Node</h2>
         <p>Cryptocoin Wallet uses a Remote Node to communicate with the Cryptocoin Network without having
         to download and store a copy of the whole blockchain itself. You can find a list of popular
-        remote nodes at https://autonode.crypto.fyi/<p>
+        remote nodes at https://node1.crypt-o-coin.cash/<p>
         <p>Cryptocoin Wallet comes with some Remote Nodes preset. It remembers the last five nodes used.</p>
         <h2>Wallets</h2>
         <p>Here you see your wallets. They are located in the <tt>Cryptocoin</tt> <tt>Wallet</tt> folder
@@ -141,7 +141,7 @@
         with an item you bought.
         <h2>TX ID</h2>
         This is your Transaction ID you can use it to identify your obfuscated transaction on a Cryptocoin
-        Blockchain explorer like <a href="https://explorer.crypto.fyi/">https://explorer.crypto.fyi/</a>
+        Blockchain explorer like <a href="https://explorer.crypt-o-coin.cash/">https://explorer.crypt-o-coin.cash/</a>
         <h2>TX KEY (Transaction Key)</h2>
         This is your transaction private key, keep this safe as revealing this to a third party
         reveals which signature in a ring is yours, thereby making your transaction transparent.
@@ -254,7 +254,7 @@
         bookmark this node.</p>
         <h2>Scan for Nodes</h2>
         <p>Additionally, you can scan the network for nodes. Cryptocoin Wallet will start
-        scanning the network for Remote Nodes on port 19950. It begins by asking your
+        scanning the network for Remote Nodes on port 22222. It begins by asking your
         bookmarked nodes for other peers in the Cryptocoin P2P network and then continues
         by asking those for their peers, and so on. If you have no bookmarked nodes
         (or they don&apos;t tell us about their peers),

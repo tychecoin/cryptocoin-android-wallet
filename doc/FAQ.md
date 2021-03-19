@@ -25,7 +25,7 @@
 - Backup wallets to `backups` folder in main wallet folder (old backups are overwritten)
 - Rename wallets
 - Archive (=Backup and delete)
-- 1 default proxy remote node: *autonode.crypto.fyi:19950*; you can check the individual remote node via https://autonode.crypto.fyi
+- 1 default proxy remote node: *node1.crypt-o-coin.cash:22222*; you can check the individual remote node via https://node1.crypt-o-coin.cash
 - Node-o-matic engine will scan 10 available public remote nodes on Internet and automatically bookmark the best node for you
 
 ## How do I use a node with username & password?
