@@ -7,11 +7,18 @@
     <string name="credits_text"><![CDATA[
         <b>Credits</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
         rehrar, EarlOfEgo, ErCiccione et al.
+        <br/>
+        The CryptoCoin Developers:
+        <br/>
+        Gonzo, Gout, Sorch, Nyhq, Aidan
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -40,14 +47,14 @@
         <li>CAMERA : Escanejar codis QR per rebre Cryptocoin</li>
         </ul>
         <h2>Canvis en aquesta Política de Privacitat</h2>
-        <p>És possible que actualitzem aquesta política de privacitat de tant en tant. Li notificarem de qualsevol canvi publicant la nova política de privacitat a 			l’aplicació i al lloc web (www.crypto.one)
+        <p>És possible que actualitzem aquesta política de privacitat de tant en tant. Li notificarem de qualsevol canvi publicant la nova política de privacitat a 			l’aplicació i al lloc web (www.crypt-o-coin.cash)
          Us recomanem que reviseu aquesta política de privacitat periòdicament per conèixer els canvis.
-        <p>Aquesta Política de Privacitat es va actualitzar per darrer cop: 10th November, 2017.
+        <p>Aquesta Política de Privacitat es va actualitzar per darrer cop: 19th March, 2021.
         </p>
         <h2>Contacti amb nosaltres</h2>
         <p>Si teniu alguna consulta sobre la nostra política de privadesa,
          o com es recullen i processen les vostres dades,
-         si us plau envieu un correu electrònic a cryptodev@gmail.com.
+         si us plau envieu un correu electrònic a therealcryptocoin@gmail.com.
         </p>
         ]]></string>
 </resources>

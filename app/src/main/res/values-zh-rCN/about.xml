@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>感谢</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo et al.
+        rehrar, EarlOfEgo, Gonzo et al.
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -34,11 +37,11 @@
         <li>CAMERA : 扫描QR码以接收Cryptocoin。</li>
         </ul>
         <h2>政策更新</h2>
-        <p>本隐私政策可能会不定期更新。在更新的同时，我們也会在该App以及网站 (www.crypto.one)
+        <p>本隐私政策可能会不定期更新。在更新的同时，我們也会在该App以及网站 (www.crypt-o-coin.cash)
         上公告新的隐私政策和改动条款。但我们仍建议您定时查看该隐私政策以及时知晓其变动。
         <p>本隐私政策最后更新日期为 2017 年 11 月 10 日。
         </p>
         <h2>联系我们</h2>
-        <p>如果您对隐私政策或个人信息的收集和处理有任何疑问，欢迎发送电子邮件至cryptodev@gmail.com。</p>
+        <p>如果您对隐私政策或个人信息的收集和处理有任何疑问，欢迎发送电子邮件至therealcryptocoin@gmail.com。</p>
         ]]></string>
 </resources>

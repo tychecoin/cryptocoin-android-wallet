@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>Autorid</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo, ErCiccione jt
+        rehrar, EarlOfEgo, Gonzo, ErCiccione jt
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -43,7 +46,7 @@
         </ul>
         <h2>Privaatsuspoliitika muudatused</h2>
         <p>Me võime aeg-ajalt seda privaatsuspoliitikat uuendada. Teatame teile kõigist
-        muudatustest, avaldades uued privaatsuseeskirjad äpis ja veebis (www.crypto.one)
+        muudatustest, avaldades uued privaatsuseeskirjad äpis ja veebis (www.crypt-o-coin.cash)
         Soovitame teil seda privaatsuspoliitikat perioodiliselt üle vaadata juhuks,
         kui vahepeal on toimunud muutusi.
         </p>
@@ -52,7 +55,7 @@
         <h2>Võta meiega ühendust</h2>
         <p>Kui teil on mingeid küsimusi meie privaatsuseeskirjade kohta või kuidas teie
         andmeid kogutakse ja töödeldakse, siis palume saata e-post aadressile
-        cryptodev@gmail.com.
+        therealcryptocoin@gmail.com.
         </p>
         ]]></string>
 </resources>

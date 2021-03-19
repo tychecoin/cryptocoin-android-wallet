@@ -7,11 +7,18 @@
     <string name="credits_text"><![CDATA[
         <b>クレジット</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
         rehrar, EarlOfEgo, ErCiccione et al.
+        <br/>
+        The CryptoCoin Developers:
+        <br/>
+        Gonzo, Gout, Sorch, Nyhq, Aidan
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -46,14 +53,14 @@
         </ul>
         <h2>このプライバシーポリシーに対する変更</h2>
         <p>私達はこのプライバシーポリシーを時々更新することがあります。
-        その際はアプリとウェブサイト(www.crypto.one)にて新しい
+        その際はアプリとウェブサイト(www.crypt-o-coin.cash)にて新しい
         プライバシーポリシーを表示し、通知します。
         あなたはこのプライバシーポリシーに変更がないか定期的に目を通すことが推奨されます。
-        <p>このプライバシーポリシーの最後の変更日時: 10th November, 2017.
+        <p>このプライバシーポリシーの最後の変更日時: 19th March, 2021.
         </p>
         <h2>コンタクト</h2>
         <p>もし私達のプライバシーポリシーやデータの収集・利用に関して何か質問があれば
-        cryptodev@gmail.com までメールをお願いします。
+        therealcryptocoin@gmail.com までメールをお願いします。
         </p>
         ]]></string>
 </resources>

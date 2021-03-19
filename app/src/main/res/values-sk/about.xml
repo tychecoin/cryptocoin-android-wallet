@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>Zásluhy</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo et al.
+        rehrar, EarlOfEgo, Gonzo et al.
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -38,13 +41,13 @@
         </ul>
         <h2>Zmeny v týchto zásadách</h2>
         <p>Je možné, že z času načas sa tieto zásady upravia, či doplnia, na čo budete včas upozornení aplikáciou
-		a na našich webových stránkach (www.crypto.one).
+		a na našich webových stránkach (www.crypt-o-coin.cash).
         Doporučujeme tieto zásady periodicky kontrolovať kôli prípadným zmenám.
         <p>tieto zásady ochrany údajov boli naposledy upravené: 10. November, 2017.
         </p>
         <h2>Kontaktuj Nás</h2>
         <p>Ak máš akékoľvek otázky ohľadom zásad ochrany osobných údajov, alebo ako sú data spracovávané,
-		pošli email na cryptodev@gmail.com.
+		pošli email na therealcryptocoin@gmail.com.
         </p>
         ]]></string>
 </resources>

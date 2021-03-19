@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>Makers</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo e.a.
+        rehrar, EarlOfEgo, Gonzo e.a.
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -37,11 +40,11 @@
         <li>CAMERA: QR-codes scannen om Cryptocoin te ontvangen</li>
         </ul>
         <h2>Wijzigingen van dit Privacybeleid</h2>
-        <p>Dit Privacybeleid kan van tijd tot tijd worden bijgewerkt. We kondigen wijzigingen aan door het nieuwe Privacybeleid te publiceren in de app en op de website www.crypto.one. We raden je aan om af en toe te controleren of dit Privacybeleid is gewijzigd.
+        <p>Dit Privacybeleid kan van tijd tot tijd worden bijgewerkt. We kondigen wijzigingen aan door het nieuwe Privacybeleid te publiceren in de app en op de website www.crypt-o-coin.cash. We raden je aan om af en toe te controleren of dit Privacybeleid is gewijzigd.
         <p>Laatste wijziging van dit Privacybeleid: 10 november 2017.
         </p>
         <h2>Contact</h2>
-        <p>Als je vragen hebt over ons Privacybeleid, of over hoe je gegevens worden verzameld en verwerkt, kun je een e-mail naar cryptodev@gmail.com sturen (in het Engels).
+        <p>Als je vragen hebt over ons Privacybeleid, of over hoe je gegevens worden verzameld en verwerkt, kun je een e-mail naar therealcryptocoin@gmail.com sturen (in het Engels).
         </p>
         ]]></string>
   

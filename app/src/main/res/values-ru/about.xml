@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>Информация</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo et al.
+        rehrar, EarlOfEgo, Gonzo et al.
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -45,7 +48,7 @@
         <h2>Изменения в политике конфиденциальности</h2>
         <p>В данные положения политики конфиденциальности периодически могут 
 		вноситься изменения. В случае внесения таких изменений, новые положения
-		будут опубликованы в приложении и на вебсайте (www.crypto.one).
+		будут опубликованы в приложении и на вебсайте (www.crypt-o-coin.cash).
 		Рекомендуется периодически проверять положения политики 
 		конфиденциальности на предмет внесения изменений.
         <p>Дата последнего обновления положений политики конфиденциальности: 10.11.2017
@@ -53,7 +56,7 @@
         <h2>Контактная информация</h2>
         <p>Если у вас возникли вопросы, касающиеся нашей политики конфиденциальности
 		или того, как происходит сбор и обработка ваших данных,
-		напишите нам по адресу cryptodev@gmail.com
+		напишите нам по адресу therealcryptocoin@gmail.com
         </p>
         ]]></string>
 </resources>

@@ -7,11 +7,14 @@
     <string name="credits_text"><![CDATA[
         <b>Mulțumiri</b>
         <br/>
+        Original Developers: The Swap Foundation 
+        <br/> 
         Leafy, Reeyon, Supercircles,
         m2049r, baltsar777, anhdres, keejef,
-        rehrar, EarlOfEgo et al.
+        rehrar, EarlOfEgo, Gonzo et al.
         <br/><br/>
-        <a href="https://crypto.one/">crypto.one</a>
+        <a href="https://crypt-o-coin.cash/">crypt-o-coin.cash</a><br>
+        <a href="https://swap.foundation/">swap.foundation</a>
         ]]></string>
 
     <string name="privacy_policy"><![CDATA[
@@ -46,14 +49,14 @@
         <h2>Modificări ale acestei politici de confidențialitate</h2>
         <p>Modificări ale acestei politici de confidențialitate pot aprea din când în când.
 		Vă vom notifica cu privire la orice modificare postând noua politică de confidențialitate în aplicație
-		sau pe siteul nostru (www.crypto.one)
+		sau pe siteul nostru (www.crypt-o-coin.cash)
         Vă recomandăm să revizuiți periodic această politică de confidențialitate pentru orice modificări aparute.
         <p>Această politică de confidențialitate a fost modificată la data de: 10 Noiembrie, 2017.
         </p>
         <h2>Contactează-ne</h2>
         <p>Pentru orice întrbari legate de politica de confidențialitate,
         sau despre cum este informația colectată și procesată,
-        vă rugăm să ne scrieți la cryptodev@gmail.com.
+        vă rugăm să ne scrieți la therealcryptocoin@gmail.com.
         </p>
         ]]></string>
 </resources>
