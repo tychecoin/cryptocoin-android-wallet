@@ -3,7 +3,6 @@ This is a guide to compiling the external depends for building cryptocoin androi
 
 ### Install Dependencies ###
 `sudo apt-get update`
-
 `sudo apt-get install build-essential cmake tofrodos libtool-bin`
 
 
